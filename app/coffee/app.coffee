@@ -85,13 +85,13 @@ configure = ($routeProvider, $locationProvider, $httpProvider, $provide, $tgEven
     # Discover (disabled fallback: backend discover APIs are unavailable)
     $routeProvider.when("/discover",
         {
-            redirectTo: "/"
+            redirectTo: "/projects/"
         }
     )
 
     $routeProvider.when("/discover/search",
         {
-            redirectTo: "/"
+            redirectTo: "/projects/"
         }
     )
 

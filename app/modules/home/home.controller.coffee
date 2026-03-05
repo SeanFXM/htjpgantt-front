@@ -15,7 +15,7 @@ class HomeController
 
     constructor: (@currentUserService, @location, @navUrls) ->
         if not @currentUserService.getUser()
-            @location.path(@navUrls.resolve("discover"))
+            @location.path(@navUrls.resolve("login"))
 
 
 angular.module("taigaHome").controller("Home", HomeController)

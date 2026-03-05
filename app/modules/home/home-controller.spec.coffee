@@ -53,7 +53,7 @@ describe "HomeController", ->
         homeCtrl = controller "Home",
             $scope: {}
 
-        expect(mocks.tgNavUrls.resolve).to.be.calledWith("discover")
+        expect(mocks.tgNavUrls.resolve).to.be.calledWith("login")
         expect(mocks.location.path).to.be.calledOnce
 
     it "non anonymous home", () ->
