@@ -1,5 +1,5 @@
 # Hotone Japan 前端 - Railway 生产部署
-# Railway 会在此镜像内完成 npm build（linux/amd64 环境）
+# Railway 自动检测此 Dockerfile，在 linux/amd64 环境内完成 npm build
 FROM --platform=linux/amd64 node:18-alpine AS builder
 RUN apk add --no-cache git
 WORKDIR /app
