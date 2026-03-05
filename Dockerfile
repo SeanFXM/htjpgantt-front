@@ -12,8 +12,5 @@ RUN npm run build
 FROM nginx:1.23-alpine
 COPY --from=builder /app/dist /usr/share/nginx/html
 COPY docker/default.conf /etc/nginx/conf.d/default.conf
-COPY docker/conf.json.template /usr/share/nginx/html/conf.json.template
-COPY docker/config_env_subst.sh /docker-entrypoint.d/30_config_env_subst.sh
-RUN chmod +x /docker-entrypoint.d/30_config_env_subst.sh
-RUN apk add --no-cache gettext bash
+COPY docker/conf.json.default /usr/share/nginx/html/conf.json
 EXPOSE 80
