@@ -21,6 +21,12 @@ fi
 if [[ -z "${PUBLIC_REGISTER_ENABLED}" ]]; then
     export PUBLIC_REGISTER_ENABLED="false"
 fi
+if [[ -z "${ENABLE_GITHUB_AUTH}" ]]; then
+    export ENABLE_GITHUB_AUTH="false"
+fi
+if [[ -z "${ENABLE_GITLAB_AUTH}" ]]; then
+    export ENABLE_GITLAB_AUTH="false"
+fi
 
 if [ ${PUBLIC_REGISTER_ENABLED} == "true" ]; then
     if [ ${ENABLE_GITHUB_AUTH} == "true" ]; then
