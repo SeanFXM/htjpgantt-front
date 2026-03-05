@@ -44,6 +44,11 @@ class DiscoverProjectsService extends taiga.Service
                 projects = projects.map(@.decorate)
 
                 @._mostLiked = projects
+            .catch (error) =>
+                # Official taiga-back may not provide discover endpoints/params.
+                # Keep discover widgets usable by falling back to empty data.
+                @._mostLiked = Immutable.List()
+                return null
 
     fetchMostActive: (params) ->
         _params = _.extend({}, _discoverParams, params)
@@ -55,6 +60,9 @@ class DiscoverProjectsService extends taiga.Service
                 projects = projects.map(@.decorate)
 
                 @._mostActive = projects
+            .catch (error) =>
+                @._mostActive = Immutable.List()
+                return null
 
     fetchFeatured: () ->
         _params = _.extend({}, _discoverParams)
@@ -68,6 +76,9 @@ class DiscoverProjectsService extends taiga.Service
                 projects = projects.map(@.decorate)
 
                 @._featured = projects
+            .catch (error) =>
+                @._featured = Immutable.List()
+                return null
 
     resetSearchList: () ->
         @._searchResult = Immutable.List()
@@ -75,6 +86,9 @@ class DiscoverProjectsService extends taiga.Service
     fetchStats: () ->
         return @rs.stats.discover().then (discover) =>
             @._projectsCount = discover.getIn(['projects', 'total'])
+        .catch (error) =>
+            @._projectsCount = 0
+            return null
 
     fetchSearch: (params) ->
         _params = _.extend({}, _discoverParams, params)
@@ -86,5 +100,9 @@ class DiscoverProjectsService extends taiga.Service
                 projects = projects.map(@.decorate)
 
                 @._searchResult = @._searchResult.concat(projects)
+            .catch (error) =>
+                @._nextSearchPage = false
+                @._searchResult = Immutable.List()
+                return null
 
 angular.module("taigaDiscover").service("tgDiscoverProjectsService", DiscoverProjectsService)
