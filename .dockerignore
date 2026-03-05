@@ -1,4 +1,10 @@
-*
-!docker/default.conf
-!docker/conf.json.template
-!docker/config_env_subst.sh
+# 排除不需要的文件（dist 由 npm run build 预先生成，需保留）
+node_modules
+.git
+.gitignore
+tmp
+*.log
+.DS_Store
+.env*
+*.md
+!docker/
