@@ -149,7 +149,7 @@
         "NO": "Nem",
         "OR": "vagy",
         "PREVIOUS": "Előző",
-        "GENERIC_ERROR": "A Taiga azt mondja {{error}}.",
+        "GENERIC_ERROR": "A Hotone Japan azt mondja {{error}}.",
         "TAG_LINE_2": "SZERESD A PROJEKTED",
         "LOADING": "Betöltés...",
         "BACK": "Vissza",
@@ -335,7 +335,7 @@
         "MSG_LIGHTBOX_DELETE_ATTACHMENT": "'{{fileName}}' melléklet",
         "SECTION_NAME": "Mellékletek",
         "TITLE": "{{ fileName }} feltöltve ekkor: {{ date }}",
-        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) túl nehéz a Taiganak, egy ({{maxFileSize}}) méretnél kisebb fájllal kell próbálkozni",
+        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) túl nehéz a Hotone Japannak, egy ({{maxFileSize}}) méretnél kisebb fájllal kell próbálkozni",
         "SHOW_DEPRECATED": "+ elavult mellékletek mutatása",
         "HIDE_DEPRECATED": "- elavult mellékletek elrejtése",
         "MAX_UPLOAD_SIZE": "A maximális feltölthető méret {{maxFileSize}}",
@@ -358,7 +358,7 @@
         "PROJECT_EXPORT": {
             "EXPORT_BUTTON": "Export",
             "EXPORT_BUTTON_TITLE": "Projekt exportálása",
-            "ERROR_BUSY": "Sajnáljuk, a Taiga jelenleg nagyon le van terhelve. Kérjük, próbáld újra néhány perc múlva.",
+            "ERROR_BUSY": "Sajnáljuk, a Hotone Japan jelenleg nagyon le van terhelve. Kérjük, próbáld újra néhány perc múlva.",
             "LOADING_MESSAGE": "Ne zárd be ezt az oldalt.",
             "TITLE": "Export",
             "DUMP_READY": "A biztonsági mentés fájlja kész!",
@@ -422,7 +422,7 @@
         "ROLES": {
             "PAGE_TITLE": "Szerepkörök - {{projectName}}",
             "WARNING_NO_ROLE": "Óvatosan, a projektben egyik szerepkör sem tudja majd megbecsülni a user storyk pontértékét",
-            "NOTE_EXTERNAL_USERS": "A külső felhasználó bármely felhasználó (a Taiga platformra bejelentkezve vagy anélkül), <strong> beleértve a keresőmotorokat is</strong>. Bár a nem regisztrált felhasználók soha nem rendelkezhetnek szerkesztési jogosultságokkal, a regisztrált felhasználók igen, ha engedélyezed. Ha a projekted privát, akkor a megtekintési jogosultságokat is szabályozhatod. <strong>Kérlek, óvatosan használd ezt a szerepkört</strong>.",
+            "NOTE_EXTERNAL_USERS": "A külső felhasználó bármely felhasználó (a Hotone Japan platformra bejelentkezve vagy anélkül), <strong> beleértve a keresőmotorokat is</strong>. Bár a nem regisztrált felhasználók soha nem rendelkezhetnek szerkesztési jogosultságokkal, a regisztrált felhasználók igen, ha engedélyezed. Ha a projekted privát, akkor a megtekintési jogosultságokat is szabályozhatod. <strong>Kérlek, óvatosan használd ezt a szerepkört</strong>.",
             "REPLACEMENT_ROLE": "Az ezzel a szerepkörrel rendelkező összes felhasználó átkerül ide:",
             "DISABLE_COMPUTABLE_ALERT_SUBTITLE": "Ha letiltod {{roleName}} szerepkör becslési jogosultságát, a szerepkör által készített összes korábbi becslés törlődik",
             "EXTERNAL_USER": "Külső felhasználó",
@@ -552,7 +552,7 @@
             "PROJECT_NAME": "Projekt neve",
             "TAGS": "Címkék",
             "DESCRIPTION": "Leírás",
-            "FEEDBACK": "Elfogad visszajelzéseket a Taiga felhasználóktól?",
+            "FEEDBACK": "Elfogad visszajelzéseket a Hotone Japan felhasználóktól?",
             "PRIVATE_PROJECT": "Privát projekt",
             "REQUEST_OWNERSHIP": "Tulajdonjog kérése",
             "CHANGE_OWNER": "Tulajdonos módosítása",
@@ -779,7 +779,7 @@
             "PUBLIC_PROJECT": "Nyilvános projekt",
             "CHOOSE_TEMPLATE": "Melyik sablon felel meg legjobban a projektednek?",
             "BACK": "Vissza",
-            "IMPORT_DESC": "Project importálása a Taiga-ba több platformból",
+            "IMPORT_DESC": "Project importálása a Hotone Japan-ba több platformból",
             "TEMPLATE_SCRUM_LONGDESC": "A Scrum egy iteratív és inkrementális agilis szoftverfejlesztési módszertan a termékfejlesztés irányítására.\nA product backlog az, amit végül leszállítunk, a szerint rendezve, hogy milyen sorrendben kell szállítani. A product backlogokat kezelhető, végrehajtható darabokra, úgynevezett sprintekre bontják. A csapat bizonyos időközönként új sprintet kezdeményez, és vállalja, hogy készségeinek, képességeinek és erőforrásainak megfelelően bizonyos számú felhasználói történetet szállít a backlogból. A projekt a backlog kimerülésével halad előre.",
             "TEMPLATE_KANBAN": "Kanban",
             "TEMPLATE_KANBAN_DESC": "Folyamatos munkafolyamat fenntartása a független feladatokon",
@@ -798,12 +798,12 @@
                 "DESCRIPTION": "Ez a folyamat eltarthat egy ideig, kérjük tartsd nyitva az ablakot."
             },
             "TITLE": "Projekt importálása",
-            "ASYNC_IN_PROGRESS_TITLE": "A Taiga importálta a projektet",
+            "ASYNC_IN_PROGRESS_TITLE": "A Hotone Japan importálta a projektet",
             "SYNC_SUCCESS": "A projekt sikeresen importálva",
             "GITHUB": {
                 "CHOOSE_PROJECT": "Válaszd ki az importálni kívánt projektet",
                 "KANBAN_PROJECT": "Mint user storyk egy kanban projektben",
-                "HOW_DO_YOU_WANT_TO_IMPORT": "Hogyan akarod a problémákat importálni a Taiga-ba?",
+                "HOW_DO_YOU_WANT_TO_IMPORT": "Hogyan akarod a problémákat importálni a Hotone Japan-ba?",
                 "NO_PROJECTS": "Úgy tűnik nincsenek projektjeid a GitHubon",
                 "SELECTOR": "GitHub projekt problémáinak importálása",
                 "KANBAN_PROJECT_DESCRIPTION": "Ezután engedélyezheted a scrumot backloggal.",
@@ -817,21 +817,21 @@
             "ERROR": "A Taigának problémái vannak a mentés importálásával. Kérjük, próbáld meg újra.",
             "JIRA": {
                 "HOW_TO_CONFIGURE": "(konfigurációs segítség)",
-                "CREATE_AS_KANBAN_DESCRIPTION": "A projekt problémái és al-problémái mint Taiga user storyk és feladatok lesznek létrehozva.",
+                "CREATE_AS_KANBAN_DESCRIPTION": "A projekt problémái és al-problémái mint Hotone Japan user storyk és feladatok lesznek létrehozva.",
                 "KANBAN_PROJECT": "Kanban",
                 "SCRUM_PROJECT": "Scrum",
                 "ISSUES_PROJECT": "Problémák",
                 "NOT_CREATE_NEW_ISSUES": "Al-problémák ne legyenek importálva",
-                "CREATE_NEW_ISSUES": "Al-problémák új Taiga problémákká konvertálása",
+                "CREATE_NEW_ISSUES": "Al-problémák új Hotone Japan problémákká konvertálása",
                 "NO_PROJECTS": "Úgy tűnik nincsenek projektjeid vagy tábláid a Jiraban",
                 "URL": "A Jira URL-je",
                 "SELECTOR": "Jira projekt importálása és annak kiválasztása, hogy miként legyen kezelve",
                 "CHOOSE_PROJECT": "Az importálni kívánt projekt vagy tábla kiválasztása",
-                "CREATE_AS_ISSUES_DESCRIPTION": "Mit szeretnél csinálni a Jira projektből származó al-problémákkal? (A Taiga nem engedélyezi az al-problémákat)",
-                "CREATE_AS_SCRUM_DESCRIPTION": "A projekt problémái és al-problémái mint Taiga user storyk és feladatok lesznek létrehozva."
+                "CREATE_AS_ISSUES_DESCRIPTION": "Mit szeretnél csinálni a Jira projektből származó al-problémákkal? (A Hotone Japan nem engedélyezi az al-problémákat)",
+                "CREATE_AS_SCRUM_DESCRIPTION": "A projekt problémái és al-problémái mint Hotone Japan user storyk és feladatok lesznek létrehozva."
             },
             "TRELLO": {
-                "SELECTOR": "Trello táblák importálása a Taiga-ba",
+                "SELECTOR": "Trello táblák importálása a Hotone Japan-ba",
                 "CHOOSE_PROJECT": "Válaszd ki az importálni kívánt táblát",
                 "NO_PROJECTS": "Úgy tűnik nincsenek tábláid a Trelloban"
             },
@@ -839,13 +839,13 @@
                 "SELECTOR": "Asana projekt importálása és kezelési módjának kiválasztása",
                 "KANBAN_PROJECT": "Kanban",
                 "SCRUM_PROJECT": "Scrum",
-                "CREATE_AS_SCRUM_DESCRIPTION": "A projekt feladatai és az al-feladatai mint Taiga user storyk és feladatok lesznek létrehozva.",
+                "CREATE_AS_SCRUM_DESCRIPTION": "A projekt feladatai és az al-feladatai mint Hotone Japan user storyk és feladatok lesznek létrehozva.",
                 "CHOOSE_PROJECT": "Válaszd ki az importálni kívánt projektet",
                 "NO_PROJECTS": "Úgy tűnik nincsenek projektjeid az Asanaban",
-                "CREATE_AS_KANBAN_DESCRIPTION": "A projekt feladatai és az al-feladatai mint Taiga user storyk és feladatok lesznek létrehozva."
+                "CREATE_AS_KANBAN_DESCRIPTION": "A projekt feladatai és az al-feladatai mint Hotone Japan user storyk és feladatok lesznek létrehozva."
             },
-            "PROCESS_DESCRIPTION": "Mond meg, hogy a Taigaból ki legyen {{platform}} feladatainak felelőse",
-            "ERROR_TOO_MANY_REQUEST": "Sajnáljuk, a Taiga jelenleg nagyon le van terhelve. Kérjük, próbáld újra néhány perc múlva.",
+            "PROCESS_DESCRIPTION": "Mond meg, hogy a Hotone Japanból ki legyen {{platform}} feladatainak felelőse",
+            "ERROR_TOO_MANY_REQUEST": "Sajnáljuk, a Hotone Japan jelenleg nagyon le van terhelve. Kérjük, próbáld újra néhány perc múlva.",
             "PROJECT_RESTRICTIONS": {
                 "PUBLIC_PROJECTS_SPACE_MEMBERS": {
                     "TITLE": "Sajnos a jelenlegi terved nem teszi lehetővé további nyilvános projektek létrehozását vagy a maximálisan {{max_memberships}} tag számának növelését a nyilvános projektekben",
@@ -874,7 +874,7 @@
                 }
             },
             "PROJECT_MEMBERS": "Projekttagok",
-            "DESCRIPTION": "Project importálása a Taiga-ba több platformból",
+            "DESCRIPTION": "Project importálása a Hotone Japan-ba több platformból",
             "ACCEEDE": "Hozzáférés",
             "WHO_IS": "A feladatainak a felelőse ...",
             "CHOOSE": "Felhasználó kiválasztása",
@@ -886,33 +886,33 @@
             "MATCH": "<strong>{{user_external}}</strong> ugyanaz a személy mint <strong>{{user_internal}}</strong>?",
             "ERROR_MESSAGE": "A Taigának problémái vannak a mentés importálásával: {{error_message}}",
             "WRITE_EMAIL": "Vagy ha akarod, add meg azt az email címet, amelyet ez a felhasználó a Taigában használ",
-            "WARNING_MAIL_USER": "Vedd figyelembe, hogy ha a felhasználónak nincs Taiga fiókja, akkor nem lehet a feladatok felelőse.",
-            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) túl nehéz a Taiganak, egy ({{maxFileSize}}) méretnél kisebb fájllal kell próbálkozni",
+            "WARNING_MAIL_USER": "Vedd figyelembe, hogy ha a felhasználónak nincs Hotone Japan fiókja, akkor nem lehet a feladatok felelőse.",
+            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) túl nehéz a Hotone Japannak, egy ({{maxFileSize}}) méretnél kisebb fájllal kell próbálkozni",
             "WARNING": {
                 "CHECK": "Kapcsolatok ellenőrzése",
                 "TITLE": "Néhány feladatnak nem lesz felelőse",
                 "DESCRIPTION": "Még mindig vannak azonosítatlan emberek. Az ezekhez a személyekhez rendelt kártyák felelős nélkül maradnak. Ellenőrizd az összes kapcsolatodat, hogy ne veszítsd el ezeket az információkat."
             },
-            "TAIGA": {
-                "SELECTOR": "Taiga projekt importálása"
+            "HOTONE JAPAN": {
+                "SELECTOR": "Hotone Japan projekt importálása"
             },
             "LINKS": "Összekapcsolva ezzel: {{platform}}",
             "LINKS_DESCRIPTION": "Meg szeretnéd tartani az egyes elemek kapcsolatát az eredeti {{platform}} kártyával?",
             "ASYNC_IN_PROGRESS_MESSAGE": "Ez a folyamat eltarthat néhány percig <br/> Küldünk egy emailt ha kész van",
             "SEARCH_CONTACT": "Vagy ha akarod, keress a kapcsolataid között",
-            "WRITE_EMAIL_LABEL": "Írd be az emailt amit ez a felhasználó használ a Taigaban"
+            "WRITE_EMAIL_LABEL": "Írd be az emailt amit ez a felhasználó használ a Hotone Japanban"
         },
         "NEWSLETTER_OPENING": {
             "DONT_ASK": "Ne kérdezzen újra",
             "SAVE_PREFERENCE": "BEÁLLÍTÁSOK MENTÉSE",
             "SUBSCRIBE": "Feliratkozás",
-            "OPT_OUT": "Csak releváns e-maileket küldünk neked (kevesebb mint 6 évente). Bármikor leiratkozhatsz a <a href=\"mailto:support@taiga.io\" target=\"_blank\">support@taiga.io</a> címre küldött \"unsubscribe\" tárgyú e-maillel vagy a bármelyik hírlevelünkben megtalálható hivatkozáson keresztül.",
+            "OPT_OUT": "Csak releváns e-maileket küldünk neked (kevesebb mint 6 évente). Bármikor leiratkozhatsz a <a href=\"mailto:support@hotone japan.io\" target=\"_blank\">support@hotone japan.io</a> címre küldött \"unsubscribe\" tárgyú e-maillel vagy a bármelyik hírlevelünkben megtalálható hivatkozáson keresztül.",
             "SUBSCRIBED": "Feliratkoztál",
             "SAVED_PREFERENCE": "A beállítások sikeresen elmentve",
-            "LIGHTBOX_TITLE": "Szeretnél értesítéseket kapni a Taigaról?",
-            "NOTIFY_EXPLANATION": "A Taigaval kapcsolatos híreket, termék frissítéseket és javaslatokat fogunk küldeni neked.",
-            "CONFIRMATION": "Igen, küldjetek nekem a Taigaval kapcsolatos híreket, termék frissítéseket és javaslatokat.",
-            "NO_SHARE": "Az adataid védelme fontos számunkra (tekintsd meg <a href=\"https://www.taiga.io/privacy-policy\" title=\"Ugrás az adatvédelmi irányelvekhez\" target=\"_blank\">adatvédelmi irányelveinket</a>)."
+            "LIGHTBOX_TITLE": "Szeretnél értesítéseket kapni a Hotone Japanról?",
+            "NOTIFY_EXPLANATION": "A Hotone Japanval kapcsolatos híreket, termék frissítéseket és javaslatokat fogunk küldeni neked.",
+            "CONFIRMATION": "Igen, küldjetek nekem a Hotone Japanval kapcsolatos híreket, termék frissítéseket és javaslatokat.",
+            "NO_SHARE": "Az adataid védelme fontos számunkra (tekintsd meg <a href=\"https://www.hotone japan.io/privacy-policy\" title=\"Ugrás az adatvédelmi irányelvekhez\" target=\"_blank\">adatvédelmi irányelveinket</a>)."
         },
         "BLOCKED_PROJECT": {
             "BLOCKED": "Zárolt projekt",
@@ -921,7 +921,7 @@
         },
         "NAVIGATION": {
             "DASHBOARD_TITLE": "Műszerfal",
-            "TAIGA_RESOURCES": "Taiga Resources",
+            "HOTONE JAPAN_RESOURCES": "Hotone Japan Resources",
             "NOTIFICATIONS_TITLE": "Értesítési beállítások szerkesztése",
             "ACCOUNT_SETTINGS": "Fiók beállítások",
             "VIEW_ALL_PROJECTS": "Összes projekt megtekintése",
@@ -943,10 +943,10 @@
             "NOTIFICATIONS": "Értesítések",
             "VIEW_PROFILE_TITLE": "Profil megtekintése",
             "VIEW_PROFILE": "Profil megtekintése",
-            "TAIGA_RESOURCES_TITLE": "Ugrás a Taiga resources oldalra",
-            "ACTION_CREATE_PROJECT_FIRST_TEXT": "Még nincsenek projektjeid. Hozz létre egyet most, hívd meg a csapatodat és kezd el teljes mértékben használni a Taigat.",
-            "TAIGA_COMMUNITY": "Taiga Közösség",
-            "TAIGA_COMMUNITY_TITLE": "Irány a Taiga közösség"
+            "HOTONE JAPAN_RESOURCES_TITLE": "Ugrás a Hotone Japan resources oldalra",
+            "ACTION_CREATE_PROJECT_FIRST_TEXT": "Még nincsenek projektjeid. Hozz létre egyet most, hívd meg a csapatodat és kezd el teljes mértékben használni a Hotone Japant.",
+            "HOTONE JAPAN_COMMUNITY": "Hotone Japan Közösség",
+            "HOTONE JAPAN_COMMUNITY_TITLE": "Irány a Hotone Japan közösség"
         },
         "LIKE_BUTTON": {
             "LIKE": "Kedvelés",
@@ -1045,12 +1045,12 @@
             "NO_EPICS_FOUND": "Úgy tűnik, semmi sem található a keresési feltételekkel"
         },
         "FEEDBACK": {
-            "TITLE": "Taiga támogatás",
+            "TITLE": "Hotone Japan támogatás",
             "CREATE": "Probléma bejelentése ezzel kapcsolatban: ",
             "EMAIL": "Küldj nekünk emailt közvetlenül ide: ",
             "ACTION_SEND": "Üzenet küldése",
-            "PUBLIC": "nyilvános Taiga projekt",
-            "SUPPORT": "support@taiga.io",
+            "PUBLIC": "nyilvános Hotone Japan projekt",
+            "SUPPORT": "support@hotone japan.io",
             "COMMENT": "Hagyj nekünk üzenetet",
             "YOU_CAN_ALSO": "Ezt is megteheted:",
             "VISIT": "Látogasd meg ",
@@ -1091,14 +1091,14 @@
             "REMOVE": "Eltávolítás",
             "TITLE": "Új tag",
             "CHOOSE_ROLE": "Szerepkör választása",
-            "HELP_TEXT": "Ha a felhasználó már regisztrálva van a Taigaban, automatikusan hozzá lesz adva. Más esetben egy meghívót fog kapni.",
+            "HELP_TEXT": "Ha a felhasználó már regisztrálva van a Hotone Japanban, automatikusan hozzá lesz adva. Más esetben egy meghívót fog kapni.",
             "PLACEHOLDER_INVITATION_TEXT": "(Nem kötelező) Személyre szabott szöveg hozzáadása a meghívóhoz. Mondj valami kedveset az új tagoknak ;-)"
         },
         "DELETE_ACCOUNT": {
-            "CONFIRM": "Biztosan törölni akarod a Taiga fiókodat?",
+            "CONFIRM": "Biztosan törölni akarod a Hotone Japan fiókodat?",
             "ACCEPT": "Fiók törlése",
             "CANCEL": "Vissza a beállításokhoz",
-            "BLOCK_PROJECT": "Ne feledd, hogy a fiókod törlése után a tulajdonodban lévő összes projekt <strong>zárolva lesz</strong>. Ha nem szeretnéd, hogy egy adott projekt zárolva legyen, a fiók törlése előtt győződj meg arról, hogy a tulajdonjogot átruháztad egy másik meglévő Taiga tagra."
+            "BLOCK_PROJECT": "Ne feledd, hogy a fiókod törlése után a tulajdonodban lévő összes projekt <strong>zárolva lesz</strong>. Ha nem szeretnéd, hogy egy adott projekt zárolva legyen, a fiók törlése előtt győződj meg arról, hogy a tulajdonjogot átruháztad egy másik meglévő Hotone Japan tagra."
         },
         "ASSIGNED_TO": {
             "SELECT": "Felelős kiválasztása",
@@ -1186,12 +1186,12 @@
             "EDIT_LINK": "Hivatkozás szerkesztése",
             "PUBLISH_INFO": "További információ",
             "CLOSE": "Bezárás",
-            "PUBLISH": "Közzététel Gig-ként a Taiga Tribe-ban",
-            "PUBLISHED_AS_GIG": "Story közzétéve Gig-ként a Taiga Tribe-ban",
-            "PUBLISH_MORE_INFO_TEXT": "<p>Ha segítségre van szükséged egy adott munkához könnyen létrehozhatsz gigeket a<a href='http://taigatribe.com' title='Taiga Tribe'> Taiga Tribe </a> oldalon, és segítséget kaphatsz a világ minden tájáról. Te irányíthatod és kezelheted a giget, élvezve egy nagyszerű közösséget amely szívesen közreműködik.</p><p><a href='http://taigatribe.com' title='Taiga Tribe'> TaigaTribe </a> a Taiga testvéreként született. A két platform külön-külön is élhet, de hiszünk abban, hogy nagy erő rejlik a kombinált használatukban, ezért gondoskodunk arról, hogy az integráció úgy működjön, mint a karikacsapás.</p>",
+            "PUBLISH": "Közzététel Gig-ként a Hotone Japan Tribe-ban",
+            "PUBLISHED_AS_GIG": "Story közzétéve Gig-ként a Hotone Japan Tribe-ban",
+            "PUBLISH_MORE_INFO_TEXT": "<p>Ha segítségre van szükséged egy adott munkához könnyen létrehozhatsz gigeket a<a href='http://hotone japantribe.com' title='Hotone Japan Tribe'> Hotone Japan Tribe </a> oldalon, és segítséget kaphatsz a világ minden tájáról. Te irányíthatod és kezelheted a giget, élvezve egy nagyszerű közösséget amely szívesen közreműködik.</p><p><a href='http://hotone japantribe.com' title='Hotone Japan Tribe'> Hotone JapanTribe </a> a Hotone Japan testvéreként született. A két platform külön-külön is élhet, de hiszünk abban, hogy nagy erő rejlik a kombinált használatukban, ezért gondoskodunk arról, hogy az integráció úgy működjön, mint a karikacsapás.</p>",
             "PUBLISH_MORE_INFO_TITLE": "Szükséged van valakire ehhez a feladathoz?",
-            "SYNCHRONIZE_LINK": "szinkronizálás a Taiga Tribe-al",
-            "PUBLISH_TITLE": "További információ a Taiga Tribe-ban való publikálásról"
+            "SYNCHRONIZE_LINK": "szinkronizálás a Hotone Japan Tribe-al",
+            "PUBLISH_TITLE": "További információ a Hotone Japan Tribe-ban való publikálásról"
         },
         "ADD": "user story",
         "TITLE_DELETE_MESSAGE": "<strong>“{{subject}}“</strong> Biztosan törölhető?",
@@ -1475,14 +1475,14 @@
         "EVENTS": {
             "SECTION_NAME": "Események",
             "COLUMN_ENABLED": "Engedélyezve",
-            "SECTION_DESCRIPTION": "Fontos eseményekek a Taiga fejlécében",
+            "SECTION_DESCRIPTION": "Fontos eseményekek a Hotone Japan fejlécében",
             "SECTION_DESCRIPTION_EXPANDED": "(közvetlen megemlítések, frissítések a megfigyelt elemekben...)",
             "COLUMN_PROJECT": "Projekt"
         }
     },
     "USER_PROFILE": {
-        "ACTION_DELETE_ACCOUNT": "Taiga fiók törlése",
-        "ACTION_DOWNLOAD_PROFILE": "Taiga profil letöltése",
+        "ACTION_DELETE_ACCOUNT": "Hotone Japan fiók törlése",
+        "ACTION_DOWNLOAD_PROFILE": "Hotone Japan profil letöltése",
         "FIELD": {
             "PLACEHOLDER_BIO": "Mondj valamit magadról",
             "PLACEHOLDER_FULL_NAME": "Teljes név beállítása (pl. Íñigo Montoya)",
@@ -1552,7 +1552,7 @@
         "NEW_MEMBER": "{{project_name}} projektnek új tagja van",
         "US_MOVED": "{{username}} áthelyezte {{obj_name}} user storyt",
         "US_REMOVED_FROM_MILESTONE": "{{username}} hozzáadta a backloghoz {{obj_name}} user storyt",
-        "NEW_USER": "{{username}} csatlakozott a Taiga-hoz",
+        "NEW_USER": "{{username}} csatlakozott a Hotone Japan-hoz",
         "ISSUE_CREATED": "{{username}} {{project_name}} projektben létrehozott egy új problémát: {{obj_name}}",
         "MILESTONE_CREATED": "{{username}} {{project_name}} projektben létrehozott egy új sprintet: {{obj_name}}",
         "EPIC_CREATED": "{{username}} {{project_name}} projektben létrehozott egy új epicet: {{obj_name}}",
@@ -1576,8 +1576,8 @@
             "ACTION_TITLE": "Keresés",
             "RESULTS": "Keresés eredményei",
             "INPUT_PLACEHOLDER": "Gépelj valamit...",
-            "PAGE_DESCRIPTION": "A Taiga-ban található nyilvános projektek kereshető könyvtára. Fedezd fel a backlogokat, az idővonalakat, a problémákat és a csapatokat. Tekintsd meg a legkedveltebb vagy legaktívabb projekteket. Szűrés Kanban vagy Scrum szerint.",
-            "PAGE_TITLE": "Keresés - Projektek felfedezése - Taiga"
+            "PAGE_DESCRIPTION": "A Hotone Japan-ban található nyilvános projektek kereshető könyvtára. Fedezd fel a backlogokat, az idővonalakat, a problémákat és a csapatokat. Tekintsd meg a legkedveltebb vagy legaktívabb projekteket. Szűrés Kanban vagy Scrum szerint.",
+            "PAGE_TITLE": "Keresés - Projektek felfedezése - Hotone Japan"
         },
         "MOST_ACTIVE_EMPTY": "Még nincsenek AKTÍV projektek",
         "MOST_ACTIVE": "Legaktívabb",
@@ -1593,9 +1593,9 @@
             "PEOPLE": "Emberek keresése",
             "ALL_TIME": "Bármikor"
         },
-        "PAGE_TITLE": "Projektek felfedezése - Taiga",
+        "PAGE_TITLE": "Projektek felfedezése - Hotone Japan",
         "VIEW_MORE": "Mutass többet",
-        "PAGE_DESCRIPTION": "A Taiga-ban található nyilvános projektek kereshető könyvtára. Fedezd fel a backlogokat, az idővonalakat, a problémákat és a csapatokat. Tekintsd meg a legkedveltebb vagy legaktívabb projekteket. Szűrés Kanban vagy Scrum szerint.",
+        "PAGE_DESCRIPTION": "A Hotone Japan-ban található nyilvános projektek kereshető könyvtára. Fedezd fel a backlogokat, az idővonalakat, a problémákat és a csapatokat. Tekintsd meg a legkedveltebb vagy legaktívabb projekteket. Szűrés Kanban vagy Scrum szerint.",
         "DISCOVER_TITLE": "Projektek felfedezése",
         "MOST_LIKED_EMPTY": "Még nincsenek KEDVELT projektek",
         "FEATURED": "Kiemelt projektek",
@@ -1610,11 +1610,11 @@
         "ZOOM-4": "Bővített"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Elfelejtett jelszó - Taiga",
-        "PAGE_DESCRIPTION": "Add meg a felhasználóneved vagy email címedet, hogy egy új jelszót kapj és újra el fogod tudni érni a Taigat."
+        "PAGE_TITLE": "Elfelejtett jelszó - Hotone Japan",
+        "PAGE_DESCRIPTION": "Add meg a felhasználóneved vagy email címedet, hogy egy új jelszót kapj és újra el fogod tudni érni a Hotone Japant."
     },
     "FORGOT_PASSWORD_FORM": {
-        "ERROR": "A Taiga szerint még nem vagy regisztrálva.",
+        "ERROR": "A Hotone Japan szerint még nem vagy regisztrálva.",
         "PLACEHOLDER_FIELD": "Felhasználónév vagy email",
         "ACTION_RESET_PASSWORD": "Jelszó visszaállítása",
         "LINK_CANCEL": "Ne, vigyél vissza. Azt hiszem, emlékszem rá.",
@@ -1624,12 +1624,12 @@
         "SUCCESS_TEXT": "Küldtünk egy emailt az új jelszó beállításához szükséges utasításokkal"
     },
     "REGISTER": {
-        "PAGE_DESCRIPTION": "Fiók létrehozása a Taigaban, egy projektmenedzsment platformban olyan startupok, agilis fejlesztők és tervezők számára, akik egy egyszerű, gyönyörű eszközt szeretnének, amely igazán élvezetessé teszi a munkát.",
-        "PAGE_TITLE": "Regisztrálás - Taiga"
+        "PAGE_DESCRIPTION": "Fiók létrehozása a Hotone Japanban, egy projektmenedzsment platformban olyan startupok, agilis fejlesztők és tervezők számára, akik egy egyszerű, gyönyörű eszközt szeretnének, amely igazán élvezetessé teszi a munkát.",
+        "PAGE_TITLE": "Regisztrálás - Hotone Japan"
     },
     "LOGIN": {
         "PAGE_DESCRIPTION": "Bejelentkezés a Taigába, egy projektmenedzsment platformba olyan startupok, agilis fejlesztők és tervezők számára, akik egy egyszerű, gyönyörű eszközt szeretnének, amely igazán élvezetessé teszi a munkát.",
-        "PAGE_TITLE": "Bejelentkezés - Taiga"
+        "PAGE_TITLE": "Bejelentkezés - Hotone Japan"
     },
     "LOGIN_COMMON": {
         "ACTION_SIGN_IN": "Bejelentkezés",
@@ -1637,7 +1637,7 @@
         "PLACEHOLDER_AUTH_PASSWORD": "Jelszó (nagy- és kisbetű érzékeny)",
         "LINK_FORGOT_PASSWORD": "Elfelejtetted?",
         "PLACEHOLDER_AUTH_NAME": "Felhasználónév vagy email (nagy- és kisbetű érzékeny)",
-        "HEADER": "Már van Taiga bejelentkezésem",
+        "HEADER": "Már van Hotone Japan bejelentkezésem",
         "ALT_LOGIN": "Vagy bejelentkezés ezzel",
         "TITLE_LINK_FORGOT_PASSWORD": "Elfelejtetted a jelszavad?"
     },
@@ -1645,7 +1645,7 @@
         "PLACEHOLDER_EMAIL": "Email cím",
         "PLACEHOLDER_PASSWORD": "Jelszó beállítása (nagy- és kisbetű érzékeny)",
         "LINK_LOGIN": "Már regisztrálva vagy? Jelentkezz be",
-        "TITLE": "Új Taiga fiók regisztrálása (ingyenes)",
+        "TITLE": "Új Hotone Japan fiók regisztrálása (ingyenes)",
         "PLACEHOLDER_NAME": "Felhasználónév kiválasztása",
         "PLACEHOLDER_FULL_NAME": "Teljes név kiválasztása",
         "ACTION_SIGN_UP": "Feliratkozás",
@@ -1653,20 +1653,20 @@
     },
     "CHANGE_PASSWORD_RECOVERY_FORM": {
         "PLACEHOLDER_NEW_PASSWORD": "Új jelszó",
-        "TITLE": "Új Taiga jelszó létrehozása",
+        "TITLE": "Új Hotone Japan jelszó létrehozása",
         "ACTION_RESET_PASSWORD": "Jelszó visszaállítása",
         "PLACEHOLDER_RE_TYPE_NEW_PASSWORD": "Új jelszó újboli megadása",
         "SUBTITLE": "És hé, lehet, hogy érdemes lenne több vasban gazdag ételt enni, jót tesz az agynak :P",
-        "SUCCESS": "A Taiga elmentette az új jelszót.<br /> Próbálj meg <strong>bejelentkezni</strong> vele."
+        "SUCCESS": "A Hotone Japan elmentette az új jelszót.<br /> Próbálj meg <strong>bejelentkezni</strong> vele."
     },
     "INVITATION": {
-        "PAGE_TITLE": "Meghívás elfogadása - Taiga",
-        "PAGE_DESCRIPTION": "Meghívás elfogadása, hogy csatlakozz egy projekthez a Taigaban, egy projektmenedzsment platformban olyan startupok, agilis fejlesztők és tervezők számára, akik egy egyszerű, gyönyörű eszközt szeretnének, amely igazán élvezetessé teszi a munkát."
+        "PAGE_TITLE": "Meghívás elfogadása - Hotone Japan",
+        "PAGE_DESCRIPTION": "Meghívás elfogadása, hogy csatlakozz egy projekthez a Hotone Japanban, egy projektmenedzsment platformban olyan startupok, agilis fejlesztők és tervezők számára, akik egy egyszerű, gyönyörű eszközt szeretnének, amely igazán élvezetessé teszi a munkát."
     },
     "HOME": {
-        "PAGE_TITLE": "Kezdőlap - Taiga",
+        "PAGE_TITLE": "Kezdőlap - Hotone Japan",
         "WATCHING_SECTION": "Megfigyelés",
-        "PAGE_DESCRIPTION": "A Taiga kezdőlapja a fő projektjeiddel és az összes hozzárendelt és megfigyelt user storyval, feladattal és problémával",
+        "PAGE_DESCRIPTION": "A Hotone Japan kezdőlapja a fő projektjeiddel és az összes hozzárendelt és megfigyelt user storyval, feladattal és problémával",
         "EMPTY_PROJECT_LIST": "Még nincsenek projektek",
         "SET_VISIBLE": "Megjelenítés",
         "WORKING_ON_SECTION": "Munkáim",
@@ -1675,7 +1675,7 @@
         "NO_HIDDEN_ITEMS": "nincsenek elrejtett elemek",
         "HIDE_HIDDEN": "Ne mutassa az elrejtett objektumokat",
         "SHOW_HIDDEN": "Elrejtett objektumok mutatása",
-        "EMPTY_WORKING_ON": "<strong>Üresnek tűnik, nem igaz?</strong>Kezdj el dolgozni a Taiga-val és itt fogod látni a storykat, feladatokat és problémákat amiken dolgozol.",
+        "EMPTY_WORKING_ON": "<strong>Üresnek tűnik, nem igaz?</strong>Kezdj el dolgozni a Hotone Japan-val és itt fogod látni a storykat, feladatokat és problémákat amiken dolgozol.",
         "EMPTY_WATCHING": "<strong>Kövesd</strong> a projektjeidhez tartozó user storykat, feladatokat, problémákat és értesülj a változásaikról :)"
     },
     "EPICS": {
@@ -1752,11 +1752,11 @@
     },
     "ERROR": {
         "NOT_FOUND": "Nem található",
-        "NOT_FOUND_TEXT": "404-es hiba. A keresett oldal már nem létezik. Talán visszatérhetsz a TAIGA kezdőlapjára és megnézheted megtalálod-e amit keresel.",
-        "TEXT1": "Valami történt és a Taiga rögzítette a hibát, hogy dolgozni lehessen rajta.",
+        "NOT_FOUND_TEXT": "404-es hiba. A keresett oldal már nem létezik. Talán visszatérhetsz a HOTONE JAPAN kezdőlapjára és megnézheted megtalálod-e amit keresel.",
+        "TEXT1": "Valami történt és a Hotone Japan rögzítette a hibát, hogy dolgozni lehessen rajta.",
         "PERMISSION_DENIED": "Engedély megtagadva",
         "PERMISSION_DENIED_TEXT": "Nincs engedélyed az oldal eléréséhez.",
-        "VERSION_ERROR": "Egy másik felhasználó a Taigan belül korábban módosította ezt, és a módosításaidat nem lehet alkalmazni. Mentsd el őket máshová, töltsd be újra az oldalt és alkalmazd újra a módosításokat különben elvesznek."
+        "VERSION_ERROR": "Egy másik felhasználó a Hotone Japann belül korábban módosította ezt, és a módosításaidat nem lehet alkalmazni. Mentsd el őket máshová, töltsd be újra az oldalt és alkalmazd újra a módosításokat különben elvesznek."
     },
     "TASK": {
         "LIGHTBOX_TITLE_BLOKING_TASK": "Feladat zárolása",
@@ -1786,13 +1786,13 @@
         "SECTION_NAME": "Tipp",
         "HINT2_TITLE": "Tudtad, hogy létrehozhatsz egyéni mezőket?",
         "LINK_TITLE": "Látogasd meg támogatási oldalunkat",
-        "HINT1_TEXT": "Lehetővé teszi az összes adat kinyerését egy Taiga-ból és áthelyezését egy másikba."
+        "HINT1_TEXT": "Lehetővé teszi az összes adat kinyerését egy Hotone Japan-ból és áthelyezését egy másikba."
     },
     "EXTERNAL_APP": {
         "LOGIN_WITH_ANOTHER_USER": "Bejelentkezés másik felhasználóval",
         "PAGE_TITLE": "Egy külső alkalmazás hitelesítést igényel",
         "PAGE_DESCRIPTION": "Egy külső alkalmazás hitelesítést igényel",
-        "AUTHORIZATION_REQUEST": "Engedélyezed {{application}} alkalmazás számára a Taiga fiókod használatát?",
+        "AUTHORIZATION_REQUEST": "Engedélyezed {{application}} alkalmazás számára a Hotone Japan fiókod használatát?",
         "AUTHORIZE_APP": "Alkalmazás engedélyezése",
         "CANCEL": "Mégse"
     },
@@ -1806,11 +1806,11 @@
         "REGISTER": "Regisztrálás"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "A Taiga szerint a felhasználónév/email vagy jelszó nem megfelelő.",
-        "SUCCESS": "Üdvözlet a Taiga-ban."
+        "ERROR_AUTH_INCORRECT": "A Hotone Japan szerint a felhasználónév/email vagy jelszó nem megfelelő.",
+        "SUCCESS": "Üdvözlet a Hotone Japan-ban."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Jelszó módosítása - Taiga",
+        "PAGE_TITLE": "Jelszó módosítása - Hotone Japan",
         "PLACEHOLDER_CURRENT_PASSWORD": "Jelenlegi jelszó (vagy üres, ha még nincs jelszavad)",
         "SECTION_NAME": "Jelszó módosítása",
         "FIELD_CURRENT_PASSWORD": "Jelenlegi jelszó",
@@ -1821,12 +1821,12 @@
         "ERROR_PASSWORD_MATCH": "A jelszavak nem egyeznek"
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Projektjeim - Taiga",
+        "PAGE_TITLE": "Projektjeim - Hotone Japan",
         "MY_PROJECTS": "Projektjeim",
         "PAGE_DESCRIPTION": "Az összes projektet tartalmazó lista, átrendezheted vagy újat hozhatsz létre."
     },
     "NOTIFICATION": {
-        "SAVED": "A Taiga mentette az összes módosítást!",
+        "SAVED": "A Hotone Japan mentette az összes módosítást!",
         "CLOSE": "Értesítés bezárása",
         "MAIL": "Aktivitás",
         "DESKTOP": "Asztali értesítések böngésző riasztások használatával",
@@ -1834,7 +1834,7 @@
         "ASK_DELETE": "Biztosan törölhető?",
         "WARNING_TEXT": "A módosításaid nem lettek elmentve!",
         "WARNING": "Hoppá, valami hiba történt...",
-        "COMMUNICATION": "Taiga kommunikációk"
+        "COMMUNICATION": "Hotone Japan kommunikációk"
     },
     "CHANGE_EMAIL_FORM": {
         "TITLE": "Email cím módosítása",
@@ -1858,7 +1858,7 @@
         "PLACEHOLDER_INPUT_TOKEN": "fiók törlése token",
         "TITLE": "Fiók törlése",
         "ACTION_LEAVING": "Igen, elmegyek!",
-        "SUCCESS": "A Taiga eltávolította a fiókodat",
+        "SUCCESS": "A Hotone Japan eltávolította a fiókodat",
         "SUBTITLE": "Sajnáljuk, hogy elhagyod a Taigát, reméljük, hogy jól érezted magad :)"
     },
     "TEAM": {
@@ -1931,7 +1931,7 @@
         "DASHBOARD": {
             "STEP4": {
                 "TITLE": "Kezdjük",
-                "TEXT1": "Elkezdheted az első Taiga projekted létrehozásával.",
+                "TEXT1": "Elkezdheted az első Hotone Japan projekted létrehozásával.",
                 "TEXT2": "Sok szerencsét!"
             },
             "STEP2": {
@@ -1939,7 +1939,7 @@
                 "TEXT": "Itt találod azokat a user storykat, feladatoka és problémákat amelyeken dolgozol."
             },
             "STEP3": {
-                "TEXT2": "Már dolgozol a Taigaval ;)",
+                "TEXT2": "Már dolgozol a Hotone Japanval ;)",
                 "TITLE": "Megfigyelés",
                 "TEXT1": "És itt találod azokat a projektjeiből amelyekről tudni szeretnél."
             },
@@ -1964,7 +1964,7 @@
         "MENTIONED_YOU": "{{username}} megemlített itt: {{obj_name}}"
     },
     "INVITATION_LOGIN_FORM": {
-        "NOT_FOUND": "A Taiga nem találja a meghívódat.",
+        "NOT_FOUND": "A Hotone Japan nem találja a meghívódat.",
         "SUCCESS": "Sikeresen csatlakoztál a projekthez. {{project_name}} üdvözöl"
     }
 }

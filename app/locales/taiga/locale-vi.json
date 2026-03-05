@@ -40,7 +40,7 @@
         "NEXT": "Tiếp theo",
         "LOGOUT": "Thoát ra",
         "EXTERNAL_USER": "người dùng bên ngoài",
-        "GENERIC_ERROR": "The Taiga says {{error}}.",
+        "GENERIC_ERROR": "The Hotone Japan says {{error}}.",
         "IOCAINE_TEXT": "This member is feeling a bit overwhelmed by this task. They will become immune to the iocaine poison over time with your help. For now, they may need a hug.",
         "CLIENT_REQUIREMENT": "A client requirement is a new requirement that was not previously expected and is required to be part of the project",
         "TEAM_REQUIREMENT": "A team requirement is a requirement that must exist in the project but should have no cost for the client",
@@ -323,7 +323,7 @@
     },
     "LOGIN": {
         "PAGE_TITLE": "Đăng nhập",
-        "PAGE_DESCRIPTION": "Đăng nhập vào Taiga, nền tảng quản lý dự án cho startups và nhà phát triển, nhà thiết kế agile, những người mong muốn đơn giản, công cụ đẹp để công việc thực sự thú vị."
+        "PAGE_DESCRIPTION": "Đăng nhập vào Hotone Japan, nền tảng quản lý dự án cho startups và nhà phát triển, nhà thiết kế agile, những người mong muốn đơn giản, công cụ đẹp để công việc thực sự thú vị."
     },
     "AUTH": {
         "INVITED_YOU": "bạn vừa nhận được lời mời vào dự án",
@@ -332,7 +332,7 @@
         "CREATE_ACCOUNT": "tạo tài khoản miễn phí ở đây"
     },
     "LOGIN_COMMON": {
-        "HEADER": "Tôi đã có tài khoản Taiga",
+        "HEADER": "Tôi đã có tài khoản Hotone Japan",
         "PLACEHOLDER_AUTH_NAME": "Tên đăng nhập hoặc email (phân biệt chữ hoa)",
         "LINK_FORGOT_PASSWORD": "Quên nó?",
         "TITLE_LINK_FORGOT_PASSWORD": "Bạn quên mật khẩu?",
@@ -342,15 +342,15 @@
         "ALT_LOGIN": "Hoặc đăng nhập với"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "Theo Taiga, tên người dùng/email hoặc mật khẩu của bạn không chính xác.",
-        "SUCCESS": "Chào mừng bạn đến với Taiga."
+        "ERROR_AUTH_INCORRECT": "Theo Hotone Japan, tên người dùng/email hoặc mật khẩu của bạn không chính xác.",
+        "SUCCESS": "Chào mừng bạn đến với Hotone Japan."
     },
     "REGISTER": {
-        "PAGE_TITLE": "Đăng ký - Taiga",
-        "PAGE_DESCRIPTION": "Đăng nhập vào Taiga, nền tảng quản lý dự án cho startups và nhà phát triển, nhà thiết kế agile, những người mong muốn đơn giản, công cụ đẹp để công việc thực sự thú vị."
+        "PAGE_TITLE": "Đăng ký - Hotone Japan",
+        "PAGE_DESCRIPTION": "Đăng nhập vào Hotone Japan, nền tảng quản lý dự án cho startups và nhà phát triển, nhà thiết kế agile, những người mong muốn đơn giản, công cụ đẹp để công việc thực sự thú vị."
     },
     "REGISTER_FORM": {
-        "TITLE": "Đăng ký tài khoản Taiga (miễn phí)",
+        "TITLE": "Đăng ký tài khoản Hotone Japan (miễn phí)",
         "PLACEHOLDER_NAME": "Chọn một tên đang nhập (phân biệt hoa thường)",
         "PLACEHOLDER_FULL_NAME": "Chọn tên đầy đủ của bạn",
         "PLACEHOLDER_EMAIL": "Email của bạn",
@@ -360,8 +360,8 @@
         "LINK_LOGIN": "Bạn đã từng đăng kí rồi phải không? Đăng nhập"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Quên mật khẩu - Taiga",
-        "PAGE_DESCRIPTION": "Nhập tên đăng nhập hoặc email để lấy lại mật khẩu mới và bạn có thể truy cập lại vào Taiga. "
+        "PAGE_TITLE": "Quên mật khẩu - Hotone Japan",
+        "PAGE_DESCRIPTION": "Nhập tên đăng nhập hoặc email để lấy lại mật khẩu mới và bạn có thể truy cập lại vào Hotone Japan. "
     },
     "FORGOT_PASSWORD_FORM": {
         "TITLE": "Ồ, bạn quên mật khẩu?",
@@ -371,10 +371,10 @@
         "LINK_CANCEL": "Ồ, đưa tôi quay lại. Tôi nghĩ tôi đã nhớ ra nó.",
         "SUCCESS_TITLE": "Kiểm tra hộp thư!",
         "SUCCESS_TEXT": "Chúng tôi đã gửi một email kèm hướng dẫn để thiết lập mật khẩu mới",
-        "ERROR": "Hệ thống Taiga nhận thấy bạn vẫn chưa đăng ký."
+        "ERROR": "Hệ thống Hotone Japan nhận thấy bạn vẫn chưa đăng ký."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Đổi mật khẩu - Taiga",
+        "PAGE_TITLE": "Đổi mật khẩu - Hotone Japan",
         "SECTION_NAME": "Đổi mật khẩu",
         "FIELD_CURRENT_PASSWORD": "Mật khẩu hiện tại",
         "PLACEHOLDER_CURRENT_PASSWORD": "Mật khẩu hiện tại của bạn (hoặc để trống nếu bạn vẫn chưa có mật khẩu)",
@@ -385,25 +385,25 @@
         "ERROR_PASSWORD_MATCH": "Mật khẩu không khớp"
     },
     "CHANGE_PASSWORD_RECOVERY_FORM": {
-        "TITLE": "Tạo một mật khẩu Taiga mới",
+        "TITLE": "Tạo một mật khẩu Hotone Japan mới",
         "SUBTITLE": "Và này, bạn có muốn ăn một chút thức ăn giàu chất sắt không? Nó rất tốt cho não bộ của bạn đó :P",
         "PLACEHOLDER_NEW_PASSWORD": "Mật khẩu mới",
         "PLACEHOLDER_RE_TYPE_NEW_PASSWORD": "Nhập lại mật khẩu mới",
         "ACTION_RESET_PASSWORD": "Khôi Phục Mật Khẩu",
-        "SUCCESS": "Hệ thống Taiga đã lưu mật khẩu mới của bạn. <br />Hệ thống đang <strong>đăng nhập </strong>bằng mật khẩu mới."
+        "SUCCESS": "Hệ thống Hotone Japan đã lưu mật khẩu mới của bạn. <br />Hệ thống đang <strong>đăng nhập </strong>bằng mật khẩu mới."
     },
     "INVITATION": {
-        "PAGE_TITLE": "Chấp nhận lời mời - Taiga",
-        "PAGE_DESCRIPTION": "Chấp nhận lời mời để tham gia vào dự án ở Taiga, nền tảng quản lý dự án cho startups và nhà phát triển, nhà thiết kế agile, những người mong muốn đơn giản, công cụ đẹp để công việc thực sự thú vị."
+        "PAGE_TITLE": "Chấp nhận lời mời - Hotone Japan",
+        "PAGE_DESCRIPTION": "Chấp nhận lời mời để tham gia vào dự án ở Hotone Japan, nền tảng quản lý dự án cho startups và nhà phát triển, nhà thiết kế agile, những người mong muốn đơn giản, công cụ đẹp để công việc thực sự thú vị."
     },
     "INVITATION_LOGIN_FORM": {
-        "NOT_FOUND": "Hệ thống Taiga không tìm thấy lời mời của bạn.",
+        "NOT_FOUND": "Hệ thống Hotone Japan không tìm thấy lời mời của bạn.",
         "SUCCESS": "Bạn đã tham gia thành công vào dự án. Xin chào mừng đến với {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "Trang chủ - Taiga",
-        "PAGE_DESCRIPTION": "Trang chủ Taiga với những dự án chính của bạn và tất cả các dự án bạn được giao cũng như những nhật kí người dùng, nhiệm vụ và các vấn đề bạn theo dõi",
-        "EMPTY_WORKING_ON": "<strong>Nó đang trống phải không?</strong> Hãy bắt đầu làm việc với Taiga và bạn sẽ thấy nhật kí, nhiệm vụ và các issues bạn đang làm việc.",
+        "PAGE_TITLE": "Trang chủ - Hotone Japan",
+        "PAGE_DESCRIPTION": "Trang chủ Hotone Japan với những dự án chính của bạn và tất cả các dự án bạn được giao cũng như những nhật kí người dùng, nhiệm vụ và các vấn đề bạn theo dõi",
+        "EMPTY_WORKING_ON": "<strong>Nó đang trống phải không?</strong> Hãy bắt đầu làm việc với Hotone Japan và bạn sẽ thấy nhật kí, nhiệm vụ và các issues bạn đang làm việc.",
         "EMPTY_WATCHING": "<strong>Lắng nghe</strong> những chia sẻ của người dùng, nhiệm vụ, vấn đề trong dự án của bạn và nhận thông báo về những thay đổi của họ :)",
         "EMPTY_PROJECT_LIST": "Bạn chưa có bất kỳ dự án nào",
         "WORKING_ON_SECTION": "Đang hoạt động",
@@ -453,7 +453,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Dự án của tôi - Taiga",
+        "PAGE_TITLE": "Dự án của tôi - Hotone Japan",
         "PAGE_DESCRIPTION": "Danh sách toàn bộ dự án của bạn, bạn có thể sắp lại hoặc tạo dự án mới.",
         "MY_PROJECTS": "Dự án của tôi"
     },
@@ -476,7 +476,7 @@
         "TITLE_LIGHTBOX_DELETE_ATTACHMENT": "Xóa tập đính kèm",
         "MSG_LIGHTBOX_DELETE_ATTACHMENT": "tập đính kèm '{{fileName}}'",
         "ERROR_DELETE_ATTACHMENT": "Chúng tôi không thể xóa: {{errorMessage}}",
-        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})"
+        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Hotone Japan, try it with a file smaller than ({{maxFileSize}})"
     },
     "PAGINATION": {
         "PREVIOUS": "Trước",
@@ -512,8 +512,8 @@
             "LOADING_MESSAGE": "Vui lòng không đóng trang này",
             "ASYNC_MESSAGE": "Chúng tôi sẽ gửi thư cho bạn khi mọi thứ sẵn sàng",
             "SYNC_MESSAGE": "Nếu không tự động tải xuống, nhấp <a href='{{url}}' download title='Download the dump file'>đây</a>.",
-            "ERROR": "The Taiga has some problems generating your dump. Please try it again.",
-            "ERROR_BUSY": "Sorry, the Taiga is experiencing heavy load right now. Please try again in a few minutes."
+            "ERROR": "The Hotone Japan has some problems generating your dump. Please try it again.",
+            "ERROR_BUSY": "Sorry, the Hotone Japan is experiencing heavy load right now. Please try again in a few minutes."
         },
         "MODULES": {
             "TITLE": "Mô-đun",
@@ -550,7 +550,7 @@
             "RECRUITING": "Đây có phải là dự án bạn đang tìm kiếm?",
             "RECRUITING_MESSAGE": "Bạn đang tìm kiếm ai?",
             "RECRUITING_PLACEHOLDER": "Xác định những hồ sơ cá nhân mà bạn đang tìm kiếm",
-            "FEEDBACK": "Nhận phản hồi từ người dùng của Taiga?",
+            "FEEDBACK": "Nhận phản hồi từ người dùng của Hotone Japan?",
             "PUBLIC_PROJECT": "Dự án công khai",
             "PRIVATE_PROJECT": "Dự án riêng tư",
             "PRIVATE_OR_PUBLIC": "Khác biệt giữa dự án công khai và dự án bảo mật là gì?",
@@ -700,7 +700,7 @@
             "WARNING_DELETE_ROLE": "Hãy cẩn thận! Tất cả ước tính vai trò sẽ bị xóa hết",
             "ERROR_DELETE_ALL": "Bạn không thể xóa toàn bộ giá trị",
             "EXTERNAL_USER": "Người dùng bên ngoài",
-            "NOTE_EXTERNAL_USERS": "<strong>Note:</strong> Người dùng bên ngoài nghĩa là bất kỳ người dùng vô danh nào không thuộc nền tảng của Taiga, bao gồm cả các công cụ tìm kiếm. Vui lòng sử dụng vai trò này cẩn thận."
+            "NOTE_EXTERNAL_USERS": "<strong>Note:</strong> Người dùng bên ngoài nghĩa là bất kỳ người dùng vô danh nào không thuộc nền tảng của Hotone Japan, bao gồm cả các công cụ tìm kiếm. Vui lòng sử dụng vai trò này cẩn thận."
         },
         "THIRD_PARTIES": {
             "SECRET_KEY": "Chìa khóa bí mật",
@@ -851,7 +851,7 @@
             "CONTACTS": "Liên lạc",
             "CONTACTS_EMPTY": "{{tên người dùng}} vẫn chưa có liên lạc nào",
             "CURRENT_USER_CONTACTS_EMPTY": "Bạn vẫn chưa có liên lạc nào",
-            "CURRENT_USER_CONTACTS_EMPTY_EXPLAIN": "Thành viên hợp tác với bạn ở Taiga sẽ tự động được thêm vào danh sách liên lạc ",
+            "CURRENT_USER_CONTACTS_EMPTY_EXPLAIN": "Thành viên hợp tác với bạn ở Hotone Japan sẽ tự động được thêm vào danh sách liên lạc ",
             "TABS": {
                 "ACTIVITY_TAB": "Dòng thời gian",
                 "ACTIVITY_TAB_TITLE": "Hiển thị tất cả hoạt động của người dùng này",
@@ -921,14 +921,14 @@
             "ACCOUNT_SETTINGS": "Account settings",
             "ACTION_CREATE_PROJECT": "New project",
             "ACTION_CREATE_PROJECT_FIRST": "Create your first project",
-            "ACTION_CREATE_PROJECT_FIRST_TEXT": "You don’t have any projects yet. Create one now, invite your team and start using Taiga to the fullest.",
+            "ACTION_CREATE_PROJECT_FIRST_TEXT": "You don’t have any projects yet. Create one now, invite your team and start using Hotone Japan to the fullest.",
             "VIEW_ALL_PROJECTS": "View all projects",
             "MANAGE_PROJECTS": "Quản lí dự án",
             "TITLE_CREATE_PROJECT": "Tạo dự án",
             "HELP_TITLE": "Trợ giúp",
             "HOMEPAGE": "Trang chủ",
-            "TAIGA_RESOURCES_TITLE": "Go to Taiga resources",
-            "TAIGA_RESOURCES": "Taiga Resources",
+            "HOTONE JAPAN_RESOURCES_TITLE": "Go to Hotone Japan resources",
+            "HOTONE JAPAN_RESOURCES": "Hotone Japan Resources",
             "FEEDBACK_TITLE": "Write to us with your feedback",
             "FEEDBACK": "Ask a question",
             "NOTIFICATIONS_TITLE": "Chỉnh sửa cài đặt thông báo",
@@ -980,7 +980,7 @@
             "DUPLICATE": "Sao chép dự án",
             "DUPLICATE_DESC": "Bắt đầu dọn dẹp và giữ những số liệu của bạn",
             "IMPORT": "Nhập dự án",
-            "IMPORT_DESC": "Nhập dự án của bạn từ nền tảng khác vào Taiga",
+            "IMPORT_DESC": "Nhập dự án của bạn từ nền tảng khác vào Hotone Japan",
             "INVITE": "Mời tham gia dự án",
             "SOLO_PROJECT": "Bạn sẽ phải thực hiện dự án một mình",
             "INVITE_LATER": "(Bạn có thể muốn mời thêm thành viên sau đó)",
@@ -1002,28 +1002,28 @@
         },
         "IMPORT": {
             "TITLE": "Nhập dự án",
-            "DESCRIPTION": "Nhập dự án của bạn từ nền tảng khác vào Taiga",
-            "ASYNC_IN_PROGRESS_TITLE": "The Taiga is importing your project",
+            "DESCRIPTION": "Nhập dự án của bạn từ nền tảng khác vào Hotone Japan",
+            "ASYNC_IN_PROGRESS_TITLE": "The Hotone Japan is importing your project",
             "ASYNC_IN_PROGRESS_MESSAGE": "Quá trình này có thể mất vài phút <br/> Chúng tôi sẽ gửi email cho bạn khi sẵn sàng",
             "UPLOAD_IN_PROGRESS_MESSAGE": "Tin tải lên {{uploadedSize}} của {{totalSize}}",
-            "ERROR": "The Taiga has some problems importing your dump data. Please try again.",
-            "ERROR_TOO_MANY_REQUEST": "Sorry, the Taiga is experiencing heavy load right now. Please try again in a few minutes.",
-            "ERROR_MESSAGE": "The Taiga has some problems importing your dump data: {{error_message}}",
-            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})",
+            "ERROR": "The Hotone Japan has some problems importing your dump data. Please try again.",
+            "ERROR_TOO_MANY_REQUEST": "Sorry, the Hotone Japan is experiencing heavy load right now. Please try again in a few minutes.",
+            "ERROR_MESSAGE": "The Hotone Japan has some problems importing your dump data: {{error_message}}",
+            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Hotone Japan, try it with a file smaller than ({{maxFileSize}})",
             "SYNC_SUCCESS": "Dự án của bạn được nhập thành công",
             "IMPORT": "Nhập",
             "WHO_IS": "Nhiệm vụ sẽ được phân chia cho...",
-            "WRITE_EMAIL": "Hoặc nếu bạn muốn, hãy viết thư được sử dụng trong Taiga",
+            "WRITE_EMAIL": "Hoặc nếu bạn muốn, hãy viết thư được sử dụng trong Hotone Japan",
             "SEARCH_CONTACT": "Hoặc nếu bạn muốn, tìm kiếm trong liên lạc của bạn",
-            "WRITE_EMAIL_LABEL": "Viết email sử dụng trong Taiga",
+            "WRITE_EMAIL_LABEL": "Viết email sử dụng trong Hotone Japan",
             "ACCEEDE": "Access",
             "PROJECT_MEMBERS": "Thành viên dự án",
-            "PROCESS_DESCRIPTION": "Tell us to whom from Taiga you want to assign the tasks of {{platform}}",
+            "PROCESS_DESCRIPTION": "Tell us to whom from Hotone Japan you want to assign the tasks of {{platform}}",
             "MATCH": "Đây có phải <strong>{{user_external}}</strong> là cùng một người với <strong>{{user_internal}}</strong>?",
             "CHOOSE": "Lựa chọn người dùng",
             "LINKS": "Liên kết với {{platform}}",
             "LINKS_DESCRIPTION": "Bạn có muốn tiếp tục liên kết của từng hạng mục với thẻ {{platform}} gốc?",
-            "WARNING_MAIL_USER": "Note that if the user does not have a Taiga account we will not be able to assign the tasks to them.",
+            "WARNING_MAIL_USER": "Note that if the user does not have a Hotone Japan account we will not be able to assign the tasks to them.",
             "ASSIGN": "Phân chia",
             "PROJECT_SELECTOR": {
                 "NO_RESULTS": "Có vẻ như không tìm ra kết quả nào với tiêu chí tìm kiếm của bạn",
@@ -1066,11 +1066,11 @@
                 "DESCRIPTION": "Vẫn có những thành viên không xác định. Các thẻ được gán cho những thành viên này vẫn chưa được phân chia. Kiểm tra tất cả các địa chỉ liên lạc để không bị mất thông tin.",
                 "CHECK": "Kiểm tra liên lạc"
             },
-            "TAIGA": {
-                "SELECTOR": "Nhập dự án Taiga"
+            "HOTONE JAPAN": {
+                "SELECTOR": "Nhập dự án Hotone Japan"
             },
             "TRELLO": {
-                "SELECTOR": "Nhập bảng từ Trello vào Taiga",
+                "SELECTOR": "Nhập bảng từ Trello vào Hotone Japan",
                 "CHOOSE_PROJECT": "Chọn bảng bạn muốn nhập",
                 "NO_PROJECTS": "Có vẻ như bạn không có bảng nào ở Trello"
             },
@@ -1078,7 +1078,7 @@
                 "SELECTOR": "Nhập issue từ Github vào dự án",
                 "CHOOSE_PROJECT": "Tìm dự án bạn muốn nhập",
                 "NO_PROJECTS": "It seems you have no projects in GitHub",
-                "HOW_DO_YOU_WANT_TO_IMPORT": "Bạn muốn dùng cách nào để nhập issue của bạn vào Taiga?",
+                "HOW_DO_YOU_WANT_TO_IMPORT": "Bạn muốn dùng cách nào để nhập issue của bạn vào Hotone Japan?",
                 "KANBAN_PROJECT": "Như nhật kí người dùng trong dự án kanban",
                 "KANBAN_PROJECT_DESCRIPTION": "Sau đó bạn có thể kích hoạt scrum với backlog",
                 "SCRUM_PROJECT": "Như nhật kí người dùng trong dự án scrum",
@@ -1092,8 +1092,8 @@
                 "NO_PROJECTS": "It seems you have no projects in Asana",
                 "KANBAN_PROJECT": "Kanban",
                 "SCRUM_PROJECT": "Scrum",
-                "CREATE_AS_SCRUM_DESCRIPTION": "Nhiệm vụ hoặc nhiệm vụ nhỏ trong dự án của bạn sẽ được tạo thành nhật kí người dùng và nhiệm vụ trong Taiga",
-                "CREATE_AS_KANBAN_DESCRIPTION": "Nhiệm vụ hoặc nhiệm vụ nhỏ trong dự án của bạn sẽ được tạo thành nhật kí người dùng và nhiệm vụ trong Taiga"
+                "CREATE_AS_SCRUM_DESCRIPTION": "Nhiệm vụ hoặc nhiệm vụ nhỏ trong dự án của bạn sẽ được tạo thành nhật kí người dùng và nhiệm vụ trong Hotone Japan",
+                "CREATE_AS_KANBAN_DESCRIPTION": "Nhiệm vụ hoặc nhiệm vụ nhỏ trong dự án của bạn sẽ được tạo thành nhật kí người dùng và nhiệm vụ trong Hotone Japan"
             },
             "JIRA": {
                 "SELECTOR": "Nhập dự án Jira của bạn và chọn cách thức quản lí",
@@ -1104,20 +1104,20 @@
                 "KANBAN_PROJECT": "Kanban",
                 "SCRUM_PROJECT": "Scrum",
                 "ISSUES_PROJECT": "Issues",
-                "CREATE_AS_SCRUM_DESCRIPTION": "Issue và sub-issue của dự án sẽ được tạo thành nhật kí người dùng và nhiệm vụ ở Taiga",
-                "CREATE_AS_KANBAN_DESCRIPTION": "Issue và sub-issue của dự án sẽ được tạo thành nhật kí người dùng và nhiệm vụ ở Taiga",
-                "CREATE_AS_ISSUES_DESCRIPTION": "Bạn muốn làm gì với sub-issues từ dự án Jira? (Taiga không cho phép các sub-issues)",
-                "CREATE_NEW_ISSUES": "Chuyển đổi sub-issue thành issue mới ở Taiga",
+                "CREATE_AS_SCRUM_DESCRIPTION": "Issue và sub-issue của dự án sẽ được tạo thành nhật kí người dùng và nhiệm vụ ở Hotone Japan",
+                "CREATE_AS_KANBAN_DESCRIPTION": "Issue và sub-issue của dự án sẽ được tạo thành nhật kí người dùng và nhiệm vụ ở Hotone Japan",
+                "CREATE_AS_ISSUES_DESCRIPTION": "Bạn muốn làm gì với sub-issues từ dự án Jira? (Hotone Japan không cho phép các sub-issues)",
+                "CREATE_NEW_ISSUES": "Chuyển đổi sub-issue thành issue mới ở Hotone Japan",
                 "NOT_CREATE_NEW_ISSUES": "Không nhập các sub-issues"
             }
         }
     },
     "LIGHTBOX": {
         "DELETE_ACCOUNT": {
-            "CONFIRM": "Bạn có chắn chắn muốn xóa tài khoản Taiga?",
+            "CONFIRM": "Bạn có chắn chắn muốn xóa tài khoản Hotone Japan?",
             "CANCEL": "Quay lại cài đặt",
             "ACCEPT": "Xóa tài khoản",
-            "BLOCK_PROJECT": "Note that all projects you own will be <strong>blocked</strong> after you delete your account. If you do not want a particular project to be blocked, make sure you transfer ownership to another existing Taiga member before deleting your account."
+            "BLOCK_PROJECT": "Note that all projects you own will be <strong>blocked</strong> after you delete your account. If you do not want a particular project to be blocked, make sure you transfer ownership to another existing Hotone Japan member before deleting your account."
         },
         "DELETE_PROJECT": {
             "TITLE": "Xóa dự án",
@@ -1142,7 +1142,7 @@
             "INVITE": "Mời",
             "CHOOSE_ROLE": "Chọn một vị trí",
             "PLACEHOLDER_INVITATION_TEXT": "(Tùy chọn) Thêm tin nhắn vào thư mời. Đưa ra lời mời dễ thương để mời thành viên mới tham gia ;-)",
-            "HELP_TEXT": "Nếu người dùng đã được đăng kí trên Taiga, họ sẽ được tự động thêm vào. Nếu không, họ sẽ nhận được thư mời."
+            "HELP_TEXT": "Nếu người dùng đã được đăng kí trên Hotone Japan, họ sẽ được tự động thêm vào. Nếu không, họ sẽ nhận được thư mời."
         },
         "FEEDBACK": {
             "TITLE": "Ask a question",
@@ -1150,9 +1150,9 @@
             "ACTION_SEND": "Send Message",
             "YOU_CAN_ALSO": "You can also:",
             "CREATE": "Create an issue on this",
-            "PUBLIC": "public Taiga project",
+            "PUBLIC": "public Hotone Japan project",
             "EMAIL": "Send us a e-mail directly to",
-            "SUPPORT": "support@taiga.io"
+            "SUPPORT": "support@hotone japan.io"
         },
         "SEARCH": {
             "TITLE": "Tìm kiếm",
@@ -1313,15 +1313,15 @@
         "RELATE_TO_EPIC": "Link to epic",
         "REMOVE_RELATIONSHIP_WITH_EPIC": "Remove epic relationship",
         "TRIBE": {
-            "PUBLISH": "Công khai với vai trò Gig in Taiga Tribe",
+            "PUBLISH": "Công khai với vai trò Gig in Hotone Japan Tribe",
             "PUBLISH_INFO": "Thêm thông tin",
-            "PUBLISH_TITLE": "Thêm thông tin về việc công khai ở Taiga Tribe",
-            "PUBLISHED_AS_GIG": "Nhật kí được công khai như Gig trên Taiga Tribe",
+            "PUBLISH_TITLE": "Thêm thông tin về việc công khai ở Hotone Japan Tribe",
+            "PUBLISHED_AS_GIG": "Nhật kí được công khai như Gig trên Hotone Japan Tribe",
             "EDIT_LINK": "Chỉnh sửa link",
             "CLOSE": "Đóng",
-            "SYNCHRONIZE_LINK": "đồng bộ với Taiga Tribe",
+            "SYNCHRONIZE_LINK": "đồng bộ với Hotone Japan Tribe",
             "PUBLISH_MORE_INFO_TITLE": "Bạn có cần thêm thành viên cho nhiệm vụ này?",
-            "PUBLISH_MORE_INFO_TEXT": "<p>Nếu bạn cần trợ giúp một phần công việc cụ thể, bạn có thể tạo gig một cách dễ dàng trên<a href='http://taigatribe.com' title='Taiga Tribe'> Taiga Tribe </a> và nhận được sự trợ giúp từ các thành viên khác trên toàn thế giới. Bạn có thể kiếm soát và quản lí gig, đồng thời nhận được sự giúp đỡ tích cực từ cộng đồng.</p><p><a href='http://taigatribe.com' title='Taiga Tribe'> TaigaTribe </a>  được thành lập như \"người anh em\" của Taiga. Cả hai nền tảng có thể hoạt động độc lập nhưng chúng tôi tin rằng việc sử dụng kết hợp sẽ hữu ích hơn, do đó chúng tôi đảm bảo bạn sẽ làm việc hiệu quả hơn.</p>"
+            "PUBLISH_MORE_INFO_TEXT": "<p>Nếu bạn cần trợ giúp một phần công việc cụ thể, bạn có thể tạo gig một cách dễ dàng trên<a href='http://hotone japantribe.com' title='Hotone Japan Tribe'> Hotone Japan Tribe </a> và nhận được sự trợ giúp từ các thành viên khác trên toàn thế giới. Bạn có thể kiếm soát và quản lí gig, đồng thời nhận được sự giúp đỡ tích cực từ cộng đồng.</p><p><a href='http://hotone japantribe.com' title='Hotone Japan Tribe'> Hotone JapanTribe </a>  được thành lập như \"người anh em\" của Hotone Japan. Cả hai nền tảng có thể hoạt động độc lập nhưng chúng tôi tin rằng việc sử dụng kết hợp sẽ hữu ích hơn, do đó chúng tôi đảm bảo bạn sẽ làm việc hiệu quả hơn.</p>"
         }
     },
     "COMMENTS": {
@@ -1465,12 +1465,12 @@
         }
     },
     "ERROR": {
-        "TEXT1": "Something happened and the Taiga has captured the error to be able to work on it.",
+        "TEXT1": "Something happened and the Hotone Japan has captured the error to be able to work on it.",
         "NOT_FOUND": "Không tìm thấy",
-        "NOT_FOUND_TEXT": "Lỗi 404. Trang bạn tìm kiếm hiện không tồn tại. Bạn có thể quay lại trang chủ TAIGA và thử tìm kiếm lại.",
+        "NOT_FOUND_TEXT": "Lỗi 404. Trang bạn tìm kiếm hiện không tồn tại. Bạn có thể quay lại trang chủ HOTONE JAPAN và thử tìm kiếm lại.",
         "PERMISSION_DENIED": "Từ chối quyền ",
         "PERMISSION_DENIED_TEXT": "Bạn không được cấp quyền truy cập trang này",
-        "VERSION_ERROR": "Some other user inside Taiga has changed this before and your changes can't be applied. Save them elsewhere, reload the page and re-apply your changes again or they will be lost."
+        "VERSION_ERROR": "Some other user inside Hotone Japan has changed this before and your changes can't be applied. Save them elsewhere, reload the page and re-apply your changes again or they will be lost."
     },
     "TASKBOARD": {
         "PAGE_TITLE": "{{sprintName}} - Bảng nhiệm vụ Sprint - {{projectName}}",
@@ -1541,7 +1541,7 @@
         "OK": "Mọi việc đều ổn",
         "WARNING": "Oops, something went wrong...",
         "WARNING_TEXT": "Your changes were not saved!",
-        "SAVED": "The Taiga saved all your changes!",
+        "SAVED": "The Hotone Japan saved all your changes!",
         "CLOSE": "Đóng thông báo",
         "MAIL": "Thông báo qua mail",
         "DESKTOP": "Desktop notifications using browser alerts",
@@ -1549,10 +1549,10 @@
     },
     "CANCEL_ACCOUNT": {
         "TITLE": "Hủy tài khoản của bạn",
-        "SUBTITLE": "We're sorry you are leaving the Taiga, we hope you enjoyed your stay :)",
+        "SUBTITLE": "We're sorry you are leaving the Hotone Japan, we hope you enjoyed your stay :)",
         "PLACEHOLDER_INPUT_TOKEN": "hủy ",
         "ACTION_LEAVING": "Đúng vậy, tôi muốn rời đi!",
-        "SUCCESS": "The Taiga removed your account"
+        "SUCCESS": "The Hotone Japan removed your account"
     },
     "CHANGE_EMAIL_FORM": {
         "TITLE": "Thay đổi email của bạn",
@@ -1707,7 +1707,7 @@
         },
         "EVENTS": {
             "SECTION_NAME": "Events",
-            "SECTION_DESCRIPTION": "Important events in Taiga header",
+            "SECTION_DESCRIPTION": "Important events in Hotone Japan header",
             "SECTION_DESCRIPTION_EXPANDED": "(direct mentions, updates in items that you are watching...)",
             "COLUMN_ENABLED": "Enabled",
             "COLUMN_PROJECT": "Dự án"
@@ -1715,8 +1715,8 @@
     },
     "USER_PROFILE": {
         "ACTION_USE_GRAVATAR": "Sử dụng hình ảnh mặc định",
-        "ACTION_DELETE_ACCOUNT": "Xóa tài khoản Taiga",
-        "ACTION_DOWNLOAD_PROFILE": "Download Taiga profile",
+        "ACTION_DELETE_ACCOUNT": "Xóa tài khoản Hotone Japan",
+        "ACTION_DOWNLOAD_PROFILE": "Download Hotone Japan profile",
         "ACTION_VERIFY_EMAIL": "Verify your email",
         "CHANGE_EMAIL_SUCCESS": "<strong>Kiểm tra hộp thư của bạn!</strong><br />Chúng tôi đã gửi một thư tới tài khoản của bạn<br />kèm hướng dẫn để thiết lập địa chỉ mới",
         "VERIFY_EMAIL_SUCCESS": "<strong>Check your inbox!</strong><br />We have sent you an email<br />with instructions on how to verify your address",
@@ -1767,7 +1767,7 @@
         "LINK": "Nếu bạn muốn biết cách sử dụng chúng, xin mời xem thêm trang trợ giúp của chúng tôi",
         "LINK_TITLE": "Tham quan trang hỗ trợ của chúng tôi",
         "HINT1_TITLE": "Bạn có biết rằng bạn có thể nhập và xuất các dự án?",
-        "HINT1_TEXT": "Cho phép bạn xuất toàn bộ dữ liệu từ Taiga và chuyển sang ứng dụng khác",
+        "HINT1_TEXT": "Cho phép bạn xuất toàn bộ dữ liệu từ Hotone Japan và chuyển sang ứng dụng khác",
         "HINT2_TITLE": "Bạn có biết bạn có thể tạo các trường tùy chỉnh",
         "HINT2_TEXT": "Các nhóm có thể tạo các trường tùy chỉnh, được coi là cách thức linh hoạt để nhập các dữ liệu cụ thể cho công việc cụ thể của họ.",
         "HINT3_TITLE": "Sắp xếp lại dự án của bạn để ưu tiên những dự án liên quan nhất tới bạn.",
@@ -1810,7 +1810,7 @@
         "US_REMOVED_FROM_MILESTONE": "{{username}} has added the user story {{obj_name}} to the backlog",
         "BLOCKED": "{{username}} vừa chặn {{obj_name}}",
         "UNBLOCKED": "{{username}} vừa gỡ chặn {{obj_name}}",
-        "NEW_USER": "{{username}} vừa tham gia vào Taiga",
+        "NEW_USER": "{{username}} vừa tham gia vào Hotone Japan",
         "ITEM_TYPES": {
             "USERSTORY": "User Story",
             "ISSUE": "Issue",
@@ -1837,7 +1837,7 @@
     "EXTERNAL_APP": {
         "PAGE_TITLE": "Ứng dụng bên ngoài cần phải xác thực",
         "PAGE_DESCRIPTION": "Ứng dụng bên ngoài cần phải xác thực",
-        "AUTHORIZATION_REQUEST": "Cấp quyền cho {{application}} để sử dụng tài khoản Taiga của bạn?",
+        "AUTHORIZATION_REQUEST": "Cấp quyền cho {{application}} để sử dụng tài khoản Hotone Japan của bạn?",
         "LOGIN_WITH_ANOTHER_USER": "Đăng nhập bằng tên người dùng khác",
         "AUTHORIZE_APP": "Cấp quyền ứng dụng",
         "CANCEL": "Hủy"
@@ -1861,11 +1861,11 @@
             "STEP3": {
                 "TITLE": "Đang xem",
                 "TEXT1": "Và bạn có thể tìm kiếm nhật kí người dùng trong những dự án mà bạn muốn biết tại đây.",
-                "TEXT2": "Bạn hiện đang làm việc với Taiga ;)"
+                "TEXT2": "Bạn hiện đang làm việc với Hotone Japan ;)"
             },
             "STEP4": {
                 "TITLE": "Hãy bắt đầu",
-                "TEXT1": "Bạn có thể bắt đầu bằng cách tạo dự án Taiga đầu tiên.",
+                "TEXT1": "Bạn có thể bắt đầu bằng cách tạo dự án Hotone Japan đầu tiên.",
                 "TEXT2": "Chúc may mắn!"
             }
         },
@@ -1905,8 +1905,8 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "Khám phá dự án - Taiga",
-        "PAGE_DESCRIPTION": "Danh mục tìm kiếm các dự án công khai ở Taiga. Khám phá backlog, dòng thời gian, issue, và các nhóm. Kiểm tra các dự án thích nhất hoặc hoạt động tích cực nhất. Lọc bằng Kanban hoặc Scrum.",
+        "PAGE_TITLE": "Khám phá dự án - Hotone Japan",
+        "PAGE_DESCRIPTION": "Danh mục tìm kiếm các dự án công khai ở Hotone Japan. Khám phá backlog, dòng thời gian, issue, và các nhóm. Kiểm tra các dự án thích nhất hoặc hoạt động tích cực nhất. Lọc bằng Kanban hoặc Scrum.",
         "DISCOVER_TITLE": "Khám phá dự án",
         "DISCOVER_SUBTITLE": "{projects, plural, =1{One public project to discover} other{# public projects to discover}}",
         "MOST_ACTIVE": "Hoạt động tích cực nhất",
@@ -1928,8 +1928,8 @@
             "CLEAR": "Xóa bộ lọc"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Tìm kiếm - Khám phá dự án - Taiga",
-            "PAGE_DESCRIPTION": "Danh mục tìm kiếm các dự án công khai ở Taiga. Khám phá backlog, dòng thời gian, issue, và các nhóm. Kiểm tra các dự án thích nhất hoặc hoạt động tích cực nhất. Lọc bằng Kanban hoặc Scrum.",
+            "PAGE_TITLE": "Tìm kiếm - Khám phá dự án - Hotone Japan",
+            "PAGE_DESCRIPTION": "Danh mục tìm kiếm các dự án công khai ở Hotone Japan. Khám phá backlog, dòng thời gian, issue, và các nhóm. Kiểm tra các dự án thích nhất hoặc hoạt động tích cực nhất. Lọc bằng Kanban hoặc Scrum.",
             "INPUT_PLACEHOLDER": "Gõ một vài dòng",
             "ACTION_TITLE": "Tìm kiếm",
             "RESULTS": "Kết quả tìm kiếm"

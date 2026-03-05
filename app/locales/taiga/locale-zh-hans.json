@@ -323,8 +323,8 @@
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "登入 - Taiga",
-        "PAGE_DESCRIPTION": "登录Taiga，它是一个给新创团队与敏捷开发者设计师使用的项目管理平台。Taiga是一个简易轻松美观的工具，让工作变成乐趣。"
+        "PAGE_TITLE": "登入 - Hotone Japan",
+        "PAGE_DESCRIPTION": "登录Hotone Japan，它是一个给新创团队与敏捷开发者设计师使用的项目管理平台。Hotone Japan是一个简易轻松美观的工具，让工作变成乐趣。"
     },
     "AUTH": {
         "INVITED_YOU": "已邀请您加入此项目",
@@ -333,7 +333,7 @@
         "CREATE_ACCOUNT": "在此建立您的免费账户"
     },
     "LOGIN_COMMON": {
-        "HEADER": "我已登录Taiga",
+        "HEADER": "我已登录Hotone Japan",
         "PLACEHOLDER_AUTH_NAME": "用户名称或电子邮件（注意大小写）",
         "LINK_FORGOT_PASSWORD": "忘记密码?",
         "TITLE_LINK_FORGOT_PASSWORD": "您忘记密码了吗",
@@ -343,15 +343,15 @@
         "ALT_LOGIN": "或登录为"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "根据Taiga的系统记录，你的账户名称/电子邮件或密码并不正确",
-        "SUCCESS": "欢迎来到 Taiga"
+        "ERROR_AUTH_INCORRECT": "根据Hotone Japan的系统记录，你的账户名称/电子邮件或密码并不正确",
+        "SUCCESS": "欢迎来到 Hotone Japan"
     },
     "REGISTER": {
-        "PAGE_TITLE": "注册 - Taiga",
-        "PAGE_DESCRIPTION": "在Taiga创建一个账户，它是一个给新创团队与敏捷开发者设计师使用的项目管理平台。Taiga是一个简易轻松美观的工具，让工作变成乐趣。"
+        "PAGE_TITLE": "注册 - Hotone Japan",
+        "PAGE_DESCRIPTION": "在Hotone Japan创建一个账户，它是一个给新创团队与敏捷开发者设计师使用的项目管理平台。Hotone Japan是一个简易轻松美观的工具，让工作变成乐趣。"
     },
     "REGISTER_FORM": {
-        "TITLE": "注册一个新的Taiga账户(免费 )",
+        "TITLE": "注册一个新的Hotone Japan账户(免费 )",
         "PLACEHOLDER_NAME": "填写一个用户账号(注意大小写)",
         "PLACEHOLDER_FULL_NAME": "请填写你的全名",
         "PLACEHOLDER_EMAIL": "填写你的电子邮件",
@@ -361,8 +361,8 @@
         "LINK_LOGIN": "你是否已注册? 登录"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "忘记密码 - Taiga",
-        "PAGE_DESCRIPTION": "请输入你的用户名或电子邮件地址获取新密码重新登录Taiga"
+        "PAGE_TITLE": "忘记密码 - Hotone Japan",
+        "PAGE_DESCRIPTION": "请输入你的用户名或电子邮件地址获取新密码重新登录Hotone Japan"
     },
     "FORGOT_PASSWORD_FORM": {
         "TITLE": "你是否忘了密码？",
@@ -372,10 +372,10 @@
         "LINK_CANCEL": "不，请带我回去，我记起来了",
         "SUCCESS_TITLE": "检查你的收件箱！",
         "SUCCESS_TEXT": "我们向你的邮箱发送了一封带有重置密码指令的邮件",
-        "ERROR": "根据Taiga的系统记录，你尚未注册"
+        "ERROR": "根据Hotone Japan的系统记录，你尚未注册"
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "修改密码 - Taiga",
+        "PAGE_TITLE": "修改密码 - Hotone Japan",
         "SECTION_NAME": "更新密码",
         "FIELD_CURRENT_PASSWORD": "当前密码",
         "PLACEHOLDER_CURRENT_PASSWORD": "你当前的密码（如果你未有密码，此处请空白）",
@@ -386,7 +386,7 @@
         "ERROR_PASSWORD_MATCH": "密码错误"
     },
     "CHANGE_PASSWORD_RECOVERY_FORM": {
-        "TITLE": "创建新Taiga通过",
+        "TITLE": "创建新Hotone Japan通过",
         "SUBTITLE": "你也许该吃点含铁丰富的食物，它对你的大脑有益处:p",
         "PLACEHOLDER_NEW_PASSWORD": "新密码",
         "PLACEHOLDER_RE_TYPE_NEW_PASSWORD": "重新输入新密码",
@@ -394,17 +394,17 @@
         "SUCCESS": "系统已储存你的新密码<br />试试 <strong>用它登录</strong>"
     },
     "INVITATION": {
-        "PAGE_TITLE": "接受邀请 - Taiga",
-        "PAGE_DESCRIPTION": "接受邀请加入Taiga上的项目，它是一个给新创团队与敏捷开发者设计师使用的项目管理平台。Taiga是一个简易轻松美观的工具，让工作变成乐趣。"
+        "PAGE_TITLE": "接受邀请 - Hotone Japan",
+        "PAGE_DESCRIPTION": "接受邀请加入Hotone Japan上的项目，它是一个给新创团队与敏捷开发者设计师使用的项目管理平台。Hotone Japan是一个简易轻松美观的工具，让工作变成乐趣。"
     },
     "INVITATION_LOGIN_FORM": {
-        "NOT_FOUND": "Taiga并未找到你邀请",
+        "NOT_FOUND": "Hotone Japan并未找到你邀请",
         "SUCCESS": "你成功地加入此项目，欢迎来到 {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "首页 - Taiga",
-        "PAGE_DESCRIPTION": "Taiga 首页，你的主要项目以及任命，观看用户故事，任务与问题。",
-        "EMPTY_WORKING_ON": "<strong>看起来空荡荡的，是不是？</strong>开始使用Taiga，你将会在这里看到你正在处理的用户故事，任务以及问题。",
+        "PAGE_TITLE": "首页 - Hotone Japan",
+        "PAGE_DESCRIPTION": "Hotone Japan 首页，你的主要项目以及任命，观看用户故事，任务与问题。",
+        "EMPTY_WORKING_ON": "<strong>看起来空荡荡的，是不是？</strong>开始使用Hotone Japan，你将会在这里看到你正在处理的用户故事，任务以及问题。",
         "EMPTY_WATCHING": "在你的项目中<strong>追踪</strong>用户故事、任务、问题并且收到更新的通知 :)",
         "EMPTY_PROJECT_LIST": "你尚无任何项目",
         "WORKING_ON_SECTION": "进行中",
@@ -454,7 +454,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "我的项目 - Taiga",
+        "PAGE_TITLE": "我的项目 - Hotone Japan",
         "PAGE_DESCRIPTION": "你的项目列表，你可以重新排序或者创建新项目。",
         "MY_PROJECTS": "我的项目"
     },
@@ -477,7 +477,7 @@
         "TITLE_LIGHTBOX_DELETE_ATTACHMENT": "删除附件....",
         "MSG_LIGHTBOX_DELETE_ATTACHMENT": "附件 '{{fileName}}'",
         "ERROR_DELETE_ATTACHMENT": "无法删除: {{errorMessage}}",
-        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})"
+        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Hotone Japan, try it with a file smaller than ({{maxFileSize}})"
     },
     "PAGINATION": {
         "PREVIOUS": "上一个",
@@ -551,7 +551,7 @@
             "RECRUITING": "这个项目是否在招人？",
             "RECRUITING_MESSAGE": "你在寻找什么人？",
             "RECRUITING_PLACEHOLDER": "定义简介",
-            "FEEDBACK": "是否接收来自Taiga用户的反馈？",
+            "FEEDBACK": "是否接收来自Hotone Japan用户的反馈？",
             "PUBLIC_PROJECT": "公开项目",
             "PRIVATE_PROJECT": "私有项目",
             "PRIVATE_OR_PUBLIC": "公开项目与私有项目有什么区别？",
@@ -702,7 +702,7 @@
             "WARNING_DELETE_ROLE": "小心！所有角色估算都将被移除",
             "ERROR_DELETE_ALL": "你不能删除所有值",
             "EXTERNAL_USER": "外部用户",
-            "NOTE_EXTERNAL_USERS": "注意：我们所说的外部用户是指不属于Taiga平台的匿名用户。请小心使用这种角色。"
+            "NOTE_EXTERNAL_USERS": "注意：我们所说的外部用户是指不属于Hotone Japan平台的匿名用户。请小心使用这种角色。"
         },
         "THIRD_PARTIES": {
             "SECRET_KEY": "密钥",
@@ -858,7 +858,7 @@
             "CONTACTS": "联络人",
             "CONTACTS_EMPTY": "{{username}} 尚无联络人",
             "CURRENT_USER_CONTACTS_EMPTY": "您尚无任何联络人",
-            "CURRENT_USER_CONTACTS_EMPTY_EXPLAIN": "你在Taiga一同工作的伙伴将自动成为你的联络人",
+            "CURRENT_USER_CONTACTS_EMPTY_EXPLAIN": "你在Hotone Japan一同工作的伙伴将自动成为你的联络人",
             "TABS": {
                 "ACTIVITY_TAB": "时间表",
                 "ACTIVITY_TAB_TITLE": "显示该用户的所有活动",
@@ -928,14 +928,14 @@
             "ACCOUNT_SETTINGS": "账户设置",
             "ACTION_CREATE_PROJECT": "新项目",
             "ACTION_CREATE_PROJECT_FIRST": "创建你的首个项目",
-            "ACTION_CREATE_PROJECT_FIRST_TEXT": "你尚未有任何项目。现在就创建一个，并邀请你的团队开始使用Taiga吧。",
+            "ACTION_CREATE_PROJECT_FIRST_TEXT": "你尚未有任何项目。现在就创建一个，并邀请你的团队开始使用Hotone Japan吧。",
             "VIEW_ALL_PROJECTS": "View all projects",
             "MANAGE_PROJECTS": "管理项目",
             "TITLE_CREATE_PROJECT": "创建项目",
             "HELP_TITLE": "帮助",
             "HOMEPAGE": "主页",
-            "TAIGA_RESOURCES_TITLE": "Go to Taiga resources",
-            "TAIGA_RESOURCES": "Taiga Resources",
+            "HOTONE JAPAN_RESOURCES_TITLE": "Go to Hotone Japan resources",
+            "HOTONE JAPAN_RESOURCES": "Hotone Japan Resources",
             "FEEDBACK_TITLE": "给我们提供建议",
             "FEEDBACK": "问一个问题",
             "NOTIFICATIONS_TITLE": "编辑个人通知设定",
@@ -987,7 +987,7 @@
             "DUPLICATE": "复制项目",
             "DUPLICATE_DESC": "开始清洁并保持您的配置",
             "IMPORT": "导入项目",
-            "IMPORT_DESC": "从多平台导入你的项目到Taiga",
+            "IMPORT_DESC": "从多平台导入你的项目到Hotone Japan",
             "INVITE": "邀请加入项目",
             "SOLO_PROJECT": "你会单独加入这个项目",
             "INVITE_LATER": "(你可以在之后邀请更多成员)",
@@ -1009,28 +1009,28 @@
         },
         "IMPORT": {
             "TITLE": "导入项目",
-            "DESCRIPTION": "从多平台导入你的项目到Taiga",
+            "DESCRIPTION": "从多平台导入你的项目到Hotone Japan",
             "ASYNC_IN_PROGRESS_TITLE": "正在导入你的项目",
             "ASYNC_IN_PROGRESS_MESSAGE": "这个过程要花上一点时间<br/> 当弄好时我们会发给你一封邮件",
             "UPLOAD_IN_PROGRESS_MESSAGE": "已上传 {{totalSize}}中的{{uploadedSize}}",
-            "ERROR": "The Taiga has some problems importing your dump data. Please try again.",
+            "ERROR": "The Hotone Japan has some problems importing your dump data. Please try again.",
             "ERROR_TOO_MANY_REQUEST": "抱歉系统繁忙中，请稍后再试试",
-            "ERROR_MESSAGE": "The Taiga has some problems importing your dump data: {{error_message}}",
-            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})",
+            "ERROR_MESSAGE": "The Hotone Japan has some problems importing your dump data: {{error_message}}",
+            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Hotone Japan, try it with a file smaller than ({{maxFileSize}})",
             "SYNC_SUCCESS": "你的项目已成功导入",
             "IMPORT": "导入",
             "WHO_IS": "他们的任务将被分配给…",
-            "WRITE_EMAIL": "或者如果你愿意，写下这个用户在Taiga使用的电子邮件",
+            "WRITE_EMAIL": "或者如果你愿意，写下这个用户在Hotone Japan使用的电子邮件",
             "SEARCH_CONTACT": "或者如果你愿意，在你的联系人中检索",
-            "WRITE_EMAIL_LABEL": "写下这个用户在Taiga使用的电子邮件",
+            "WRITE_EMAIL_LABEL": "写下这个用户在Hotone Japan使用的电子邮件",
             "ACCEEDE": "Access",
             "PROJECT_MEMBERS": "项目成员",
-            "PROCESS_DESCRIPTION": "Tell us to whom from Taiga you want to assign the tasks of {{platform}}",
+            "PROCESS_DESCRIPTION": "Tell us to whom from Hotone Japan you want to assign the tasks of {{platform}}",
             "MATCH": "<strong>{{user_external}}</strong> 与<strong>{{user_internal}}</strong>是同一个人吗？",
             "CHOOSE": "选择用户",
             "LINKS": "与{{platform}}链接",
             "LINKS_DESCRIPTION": "是否要保留每个条目与原{{platform}} 卡片的链接？",
-            "WARNING_MAIL_USER": "Note that if the user does not have a Taiga account we will not be able to assign the tasks to them.",
+            "WARNING_MAIL_USER": "Note that if the user does not have a Hotone Japan account we will not be able to assign the tasks to them.",
             "ASSIGN": "指派",
             "PROJECT_SELECTOR": {
                 "NO_RESULTS": "看起来没有符合你的搜索条件的结果",
@@ -1073,11 +1073,11 @@
                 "DESCRIPTION": "依然有未经确认的人员。指派给这些人的卡片将保持未指派状态。检查所有的联系方式以保证不会丢失这些信息。",
                 "CHECK": "检查联系人"
             },
-            "TAIGA": {
+            "HOTONE JAPAN": {
                 "SELECTOR": "导入您的Taigo项目"
             },
             "TRELLO": {
-                "SELECTOR": "将你的Trello面板导入Taiga",
+                "SELECTOR": "将你的Trello面板导入Hotone Japan",
                 "CHOOSE_PROJECT": "选择将要导入的面板",
                 "NO_PROJECTS": "看起来你在Trello中没有面板"
             },
@@ -1085,7 +1085,7 @@
                 "SELECTOR": "导入你在GitHub上的问题",
                 "CHOOSE_PROJECT": "查找你想要导入的项目",
                 "NO_PROJECTS": "It seems you have no projects in GitHub",
-                "HOW_DO_YOU_WANT_TO_IMPORT": "你希望如何将你的问题导入Taiga？",
+                "HOW_DO_YOU_WANT_TO_IMPORT": "你希望如何将你的问题导入Hotone Japan？",
                 "KANBAN_PROJECT": "在看板项目中作为用户故事",
                 "KANBAN_PROJECT_DESCRIPTION": "之后你可以使用backlog来启用scrum。",
                 "SCRUM_PROJECT": "在scrum项目中作为用户故事",
@@ -1111,17 +1111,17 @@
                 "KANBAN_PROJECT": "看板",
                 "SCRUM_PROJECT": "冲刺",
                 "ISSUES_PROJECT": "问题",
-                "CREATE_AS_SCRUM_DESCRIPTION": "你项目的问题及其子问题将被创建为Taiga用户故事和任务。",
-                "CREATE_AS_KANBAN_DESCRIPTION": "你项目的问题及其子问题将被创建为Taiga用户故事和任务。",
-                "CREATE_AS_ISSUES_DESCRIPTION": "你打算如何使用从Jira项目中导入的子问题？（Taiga不允许存在子问题）",
-                "CREATE_NEW_ISSUES": "将子问题转换为Taiga问题",
+                "CREATE_AS_SCRUM_DESCRIPTION": "你项目的问题及其子问题将被创建为Hotone Japan用户故事和任务。",
+                "CREATE_AS_KANBAN_DESCRIPTION": "你项目的问题及其子问题将被创建为Hotone Japan用户故事和任务。",
+                "CREATE_AS_ISSUES_DESCRIPTION": "你打算如何使用从Jira项目中导入的子问题？（Hotone Japan不允许存在子问题）",
+                "CREATE_NEW_ISSUES": "将子问题转换为Hotone Japan问题",
                 "NOT_CREATE_NEW_ISSUES": "不导入子问题"
             }
         }
     },
     "LIGHTBOX": {
         "DELETE_ACCOUNT": {
-            "CONFIRM": "你确定要删除Taiga账户吗？",
+            "CONFIRM": "你确定要删除Hotone Japan账户吗？",
             "CANCEL": "返回设置",
             "ACCEPT": "删除账号",
             "BLOCK_PROJECT": "请注意，在你删除你的账户之后，所有属于你的项目都将会被<strong>冻结</strong>。如你不想某个项目被冻结，请在删除账户前，将所有权转移到该项目的其他成员名下。"
@@ -1149,7 +1149,7 @@
             "INVITE": "邀请",
             "CHOOSE_ROLE": "选择一个角色",
             "PLACEHOLDER_INVITATION_TEXT": "(非必要) 加上一段私人文字在邀请信，告诉你的新成员一些好事  ;-)",
-            "HELP_TEXT": "如果用户已注册Taiga账户，他们会自动被加入。否则他们会收到一封加入的邀请信"
+            "HELP_TEXT": "如果用户已注册Hotone Japan账户，他们会自动被加入。否则他们会收到一封加入的邀请信"
         },
         "FEEDBACK": {
             "TITLE": "问一个问题",
@@ -1157,9 +1157,9 @@
             "ACTION_SEND": "发送消息",
             "YOU_CAN_ALSO": "你也可以：",
             "CREATE": "在此创建一个问题",
-            "PUBLIC": "公开的Taiga项目",
+            "PUBLIC": "公开的Hotone Japan项目",
             "EMAIL": "给我们发送邮件到",
-            "SUPPORT": "support@taiga.io"
+            "SUPPORT": "support@hotone japan.io"
         },
         "SEARCH": {
             "TITLE": "搜索",
@@ -1320,15 +1320,15 @@
         "RELATE_TO_EPIC": "链接到史诗",
         "REMOVE_RELATIONSHIP_WITH_EPIC": "移除史诗关系",
         "TRIBE": {
-            "PUBLISH": "以Gig的形式在Taiga Tribe中发布",
+            "PUBLISH": "以Gig的形式在Hotone Japan Tribe中发布",
             "PUBLISH_INFO": "更多信息",
-            "PUBLISH_TITLE": "在Taiga Tribe中查找关于发布的更多信息",
-            "PUBLISHED_AS_GIG": "用户故事已经以Gig的形式在Taiga Tribe中发布",
+            "PUBLISH_TITLE": "在Hotone Japan Tribe中查找关于发布的更多信息",
+            "PUBLISHED_AS_GIG": "用户故事已经以Gig的形式在Hotone Japan Tribe中发布",
             "EDIT_LINK": "编辑链接",
             "CLOSE": "关闭",
-            "SYNCHRONIZE_LINK": "与Taiga Tribe同步",
+            "SYNCHRONIZE_LINK": "与Hotone Japan Tribe同步",
             "PUBLISH_MORE_INFO_TITLE": "你是否需要其他人来做这个任务？",
-            "PUBLISH_MORE_INFO_TEXT": "如果你在工作中的某个特殊的地方需要帮助，你可以很容易地在Taiga Tribe 创建gig并接受来自世界各地的帮助。你将能够控制并管理这个gig并享受一个渴望贡献的伟大社区。TaigaTribe 作为Taiga的姊妹存在。两个平台可以相互独立，但是我们相信联合使用他们会更为强大，所以我们确信集成工作将会非常有用。"
+            "PUBLISH_MORE_INFO_TEXT": "如果你在工作中的某个特殊的地方需要帮助，你可以很容易地在Hotone Japan Tribe 创建gig并接受来自世界各地的帮助。你将能够控制并管理这个gig并享受一个渴望贡献的伟大社区。Hotone JapanTribe 作为Hotone Japan的姊妹存在。两个平台可以相互独立，但是我们相信联合使用他们会更为强大，所以我们确信集成工作将会非常有用。"
         }
     },
     "COMMENTS": {
@@ -1474,10 +1474,10 @@
     "ERROR": {
         "TEXT1": "系统出了一点问题，工程师正在抢修中",
         "NOT_FOUND": "找不到",
-        "NOT_FOUND_TEXT": "Error 404，你要找的网页不存在，你可以稍后再回来Taiga首页，看看是否能再次找到要找的东西。",
+        "NOT_FOUND_TEXT": "Error 404，你要找的网页不存在，你可以稍后再回来Hotone Japan首页，看看是否能再次找到要找的东西。",
         "PERMISSION_DENIED": "无此权限",
         "PERMISSION_DENIED_TEXT": "你无权访问这个页面",
-        "VERSION_ERROR": "因Taiga中的某人此前修改了这个，导致你的修改未能提交。请异地保存相关内容后，重载页面并重新提交，否则相关修改会丢失。"
+        "VERSION_ERROR": "因Hotone Japan中的某人此前修改了这个，导致你的修改未能提交。请异地保存相关内容后，重载页面并重新提交，否则相关修改会丢失。"
     },
     "TASKBOARD": {
         "PAGE_TITLE": "{{sprintName}} - 冲刺任务看板 - {{projectName}}",
@@ -1556,10 +1556,10 @@
     },
     "CANCEL_ACCOUNT": {
         "TITLE": "注销您的账户",
-        "SUBTITLE": "很遗憾你要离开Taiga，希望你喜欢这段时光 :)",
+        "SUBTITLE": "很遗憾你要离开Hotone Japan，希望你喜欢这段时光 :)",
         "PLACEHOLDER_INPUT_TOKEN": "注销账户代码",
         "ACTION_LEAVING": "是的，我要走了",
-        "SUCCESS": "The Taiga removed your account"
+        "SUCCESS": "The Hotone Japan removed your account"
     },
     "CHANGE_EMAIL_FORM": {
         "TITLE": "变更电子邮件",
@@ -1714,7 +1714,7 @@
         },
         "EVENTS": {
             "SECTION_NAME": "事件",
-            "SECTION_DESCRIPTION": "Taiga头部中的重要事件",
+            "SECTION_DESCRIPTION": "Hotone Japan头部中的重要事件",
             "SECTION_DESCRIPTION_EXPANDED": "（直接提醒你所关注的事项的更新...）",
             "COLUMN_ENABLED": "已启用",
             "COLUMN_PROJECT": "项目"
@@ -1722,8 +1722,8 @@
     },
     "USER_PROFILE": {
         "ACTION_USE_GRAVATAR": "使用默认图片",
-        "ACTION_DELETE_ACCOUNT": "删除Taiga账户",
-        "ACTION_DOWNLOAD_PROFILE": "下载Taiga配置文件",
+        "ACTION_DELETE_ACCOUNT": "删除Hotone Japan账户",
+        "ACTION_DOWNLOAD_PROFILE": "下载Hotone Japan配置文件",
         "ACTION_VERIFY_EMAIL": "核对你的邮箱",
         "CHANGE_EMAIL_SUCCESS": "<strong>检查你的收信箱</strong><br />我们送出了一封信<br />里面有设定你新电子邮件的相关指示",
         "VERIFY_EMAIL_SUCCESS": "<strong>Check your inbox!</strong><br />We have sent you an email<br />with instructions on how to verify your address",
@@ -1774,7 +1774,7 @@
         "LINK": "如果想知道如何使用，可以到我们的支援页面了解详情。",
         "LINK_TITLE": "造访我们的支援页面",
         "HINT1_TITLE": "你知道可以导入与滙出项目吗？",
-        "HINT1_TEXT": "可以从 Taiga提取所有个人资料记录，移入其它地方。",
+        "HINT1_TEXT": "可以从 Hotone Japan提取所有个人资料记录，移入其它地方。",
         "HINT2_TITLE": "你知道可以创建个人化栏位吗",
         "HINT2_TEXT": "作为一个灵活手段，团队现在可以创建自定义字段，这意味着需要为特殊的工作流指定有用的数据。",
         "HINT3_TITLE": "根据特性来重新排序与你最为相关的项目。",
@@ -1817,7 +1817,7 @@
         "US_REMOVED_FROM_MILESTONE": "{{username}} 新增用户故事 {{obj_name}} 到待办任务",
         "BLOCKED": "{{username}} 冻结了 {{obj_name}}",
         "UNBLOCKED": "{{username}} 解除对 {{obj_name}} 的冻结",
-        "NEW_USER": "{{username}} 已加入 Taiga",
+        "NEW_USER": "{{username}} 已加入 Hotone Japan",
         "ITEM_TYPES": {
             "USERSTORY": "用户故事",
             "ISSUE": "问题",
@@ -1844,7 +1844,7 @@
     "EXTERNAL_APP": {
         "PAGE_TITLE": "一个外部应用需要验证",
         "PAGE_DESCRIPTION": "一个外部应用需要验证",
-        "AUTHORIZATION_REQUEST": "向你的Taiga账户验证{{application}}？",
+        "AUTHORIZATION_REQUEST": "向你的Hotone Japan账户验证{{application}}？",
         "LOGIN_WITH_ANOTHER_USER": "以其他用户登录",
         "AUTHORIZE_APP": "授权应用",
         "CANCEL": "取消"
@@ -1868,11 +1868,11 @@
             "STEP3": {
                 "TITLE": "观看中",
                 "TEXT1": "在这里你将会找到那些你希望了解的你的项目成员。",
-                "TEXT2": "你已经开始使用Taiga ;)"
+                "TEXT2": "你已经开始使用Hotone Japan ;)"
             },
             "STEP4": {
                 "TITLE": "现在开始！",
-                "TEXT1": "你可以以创建你的第一个Taiga项目开始。",
+                "TEXT1": "你可以以创建你的第一个Hotone Japan项目开始。",
                 "TEXT2": "祝你好运！"
             }
         },
@@ -1913,7 +1913,7 @@
     },
     "DISCOVER": {
         "PAGE_TITLE": "探索更多项目",
-        "PAGE_DESCRIPTION": "Taiga中的公共项目的可搜索的目录。探索积压，时间线，问题，以及团队。检索出最喜欢的或者最活跃的项目。通过看板或者敏捷开发进行过滤。",
+        "PAGE_DESCRIPTION": "Hotone Japan中的公共项目的可搜索的目录。探索积压，时间线，问题，以及团队。检索出最喜欢的或者最活跃的项目。通过看板或者敏捷开发进行过滤。",
         "DISCOVER_TITLE": "探索项目",
         "DISCOVER_SUBTITLE": "{projects, plural, =1{One public project to discover} other{# public projects to discover}}",
         "MOST_ACTIVE": "最活跃的",
@@ -1935,8 +1935,8 @@
             "CLEAR": "清除过滤"
         },
         "SEARCH": {
-            "PAGE_TITLE": "搜索 - 发现项目 - Taiga",
-            "PAGE_DESCRIPTION": "Taiga中的公共项目的可搜索的目录。探索积压，时间线，问题，以及团队。检索出最喜欢的或者最活跃的项目。通过看板或者敏捷开发进行过滤。",
+            "PAGE_TITLE": "搜索 - 发现项目 - Hotone Japan",
+            "PAGE_DESCRIPTION": "Hotone Japan中的公共项目的可搜索的目录。探索积压，时间线，问题，以及团队。检索出最喜欢的或者最活跃的项目。通过看板或者敏捷开发进行过滤。",
             "INPUT_PLACEHOLDER": "输入内容...",
             "ACTION_TITLE": "搜索",
             "RESULTS": "搜索结果"

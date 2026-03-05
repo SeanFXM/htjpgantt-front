@@ -9,7 +9,7 @@ nav.navbar(ng-if="vm.isEnabledHeader")
     .nav-left
         a.logo(
             ng-if="!vm.isAuthenticated"
-            href="https://taiga.io/",
+            href="https://hotone.jp/",
             title="{{'PROJECT.NAVIGATION.HOMEPAGE' | translate}}"
         )
             include ../../svg/logo.svg
@@ -54,7 +54,7 @@ nav.navbar(ng-if="vm.isEnabledHeader")
         .topnav-dropdown-wrapper.nav-bar-support(ng-if="vm.customSupportUrl")
             a(
                 ng-if="vm.customSupportUrl"
-                href="{{ vm.customSupportUrl }}",
+                href="https://hotone.jp/",
                 target="_blank",
                 title="{{'PROJECT.NAVIGATION.HELP_TITLE' | translate}}",
             )
@@ -72,7 +72,7 @@ nav.navbar(ng-if="vm.isEnabledHeader")
 
                     li
                         a.secondary(
-                            href="{{ vm.customSupportUrl }}",
+                            href="https://hotone.jp/",
                             target="_blank",
                             title="{{ 'PROJECT.NAVIGATION.TAIGA_COMMUNITY_TITLE' | translate }}"
                         )

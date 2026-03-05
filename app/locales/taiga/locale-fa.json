@@ -40,7 +40,7 @@
         "NEXT": "بعدی",
         "LOGOUT": "خروج",
         "EXTERNAL_USER": "کاربر خارجی",
-        "GENERIC_ERROR": "The Taiga says {{error}}.",
+        "GENERIC_ERROR": "The Hotone Japan says {{error}}.",
         "IOCAINE_TEXT": "This member is feeling a bit overwhelmed by this task. They will become immune to the iocaine poison over time with your help. For now, they may need a hug.",
         "CLIENT_REQUIREMENT": "A client requirement is a new requirement that was not previously expected and is required to be part of the project",
         "TEAM_REQUIREMENT": "A team requirement is a requirement that must exist in the project but should have no cost for the client",
@@ -343,8 +343,8 @@
         "ALT_LOGIN": "یا لاگین کنید با"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "According to the Taiga, your username/email or password are incorrect.",
-        "SUCCESS": "Welcome to Taiga."
+        "ERROR_AUTH_INCORRECT": "According to the Hotone Japan, your username/email or password are incorrect.",
+        "SUCCESS": "Welcome to Hotone Japan."
     },
     "REGISTER": {
         "PAGE_TITLE": "ثبت نام - تایگا",
@@ -372,7 +372,7 @@
         "LINK_CANCEL": "بازگشت به مرحله قبل. فکر میکنم رمز عبور خود را به خاطر آوردم.",
         "SUCCESS_TITLE": "ایمیل خود را چک کنید!",
         "SUCCESS_TEXT": "ایمیلی حاوی دستورالعمل تنظیم رمز عبور جدید برایتان ارسال کردیم",
-        "ERROR": "According to the Taiga, you are not registered yet."
+        "ERROR": "According to the Hotone Japan, you are not registered yet."
     },
     "CHANGE_PASSWORD": {
         "PAGE_TITLE": "تغییر رمز عبور - تایگا",
@@ -391,14 +391,14 @@
         "PLACEHOLDER_NEW_PASSWORD": "رمز عبور جدید",
         "PLACEHOLDER_RE_TYPE_NEW_PASSWORD": "ورود مجدد رمز عبور",
         "ACTION_RESET_PASSWORD": "ریست کردن رمز عبور",
-        "SUCCESS": "The Taiga saved your new password.<br /> Try to <strong>sign in</strong> with it."
+        "SUCCESS": "The Hotone Japan saved your new password.<br /> Try to <strong>sign in</strong> with it."
     },
     "INVITATION": {
         "PAGE_TITLE": "پذیرش دعوت - تایگا",
         "PAGE_DESCRIPTION": "پذیرش دعوت برای ملحق شدن به پروژه‌ای در تایگا، پلتفرمی برای مدیریت پروژه برای استارت‌آپ‌ها، توسعه‌دهندگان و طراحان سریع که به ابزاری زیبا و ساده برای لذت بردن از کارشان علاقه دارند."
     },
     "INVITATION_LOGIN_FORM": {
-        "NOT_FOUND": "The Taiga can't find your invitation.",
+        "NOT_FOUND": "The Hotone Japan can't find your invitation.",
         "SUCCESS": "با موفقیت به این پروژه ملحق شدید. به {{project_name}} خوش آمدید."
     },
     "HOME": {
@@ -477,7 +477,7 @@
         "TITLE_LIGHTBOX_DELETE_ATTACHMENT": "حذف پیوست ...",
         "MSG_LIGHTBOX_DELETE_ATTACHMENT": "پیوست '{{fileName}}'",
         "ERROR_DELETE_ATTACHMENT": "حذف با مشکل مواجه شد: {{errorMessage}}",
-        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})"
+        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Hotone Japan, try it with a file smaller than ({{maxFileSize}})"
     },
     "PAGINATION": {
         "PREVIOUS": "قبلی",
@@ -513,8 +513,8 @@
             "LOADING_MESSAGE": "لطفاً این صفحه را نبندید.",
             "ASYNC_MESSAGE": "زمانی که خاتمه یافت، ایمیلی ارسال می‌کنیم.",
             "SYNC_MESSAGE": "اگر دانلود به صورت خودکار آغاز نشده، <a href='{{url}}' download title='Download the dump file'>اینجا</a> کلیک کنید.",
-            "ERROR": "The Taiga has some problems generating your dump. Please try it again.",
-            "ERROR_BUSY": "Sorry, the Taiga is experiencing heavy load right now. Please try again in a few minutes."
+            "ERROR": "The Hotone Japan has some problems generating your dump. Please try it again.",
+            "ERROR_BUSY": "Sorry, the Hotone Japan is experiencing heavy load right now. Please try again in a few minutes."
         },
         "MODULES": {
             "TITLE": "ماژول‌ها",
@@ -926,14 +926,14 @@
             "ACCOUNT_SETTINGS": "Account settings",
             "ACTION_CREATE_PROJECT": "New project",
             "ACTION_CREATE_PROJECT_FIRST": "Create your first project",
-            "ACTION_CREATE_PROJECT_FIRST_TEXT": "You don’t have any projects yet. Create one now, invite your team and start using Taiga to the fullest.",
+            "ACTION_CREATE_PROJECT_FIRST_TEXT": "You don’t have any projects yet. Create one now, invite your team and start using Hotone Japan to the fullest.",
             "VIEW_ALL_PROJECTS": "View all projects",
             "MANAGE_PROJECTS": "مدیریت پروژه‌ها",
             "TITLE_CREATE_PROJECT": "ایجاد پروژه",
             "HELP_TITLE": "راهنمایی",
             "HOMEPAGE": "صفحه‌ی خانه",
-            "TAIGA_RESOURCES_TITLE": "Go to Taiga resources",
-            "TAIGA_RESOURCES": "Taiga Resources",
+            "HOTONE JAPAN_RESOURCES_TITLE": "Go to Hotone Japan resources",
+            "HOTONE JAPAN_RESOURCES": "Hotone Japan Resources",
             "FEEDBACK_TITLE": "Write to us with your feedback",
             "FEEDBACK": "Ask a question",
             "NOTIFICATIONS_TITLE": "ویرایش تنظیمات نوتیفیکیشن",
@@ -1008,13 +1008,13 @@
         "IMPORT": {
             "TITLE": "وارد کردن پروژه",
             "DESCRIPTION": "وارد کردن پروژه‌ها از پلتفرم‌های مختلف به تایگا",
-            "ASYNC_IN_PROGRESS_TITLE": "The Taiga is importing your project",
+            "ASYNC_IN_PROGRESS_TITLE": "The Hotone Japan is importing your project",
             "ASYNC_IN_PROGRESS_MESSAGE": "این فرآیند ممکن است چند دقیقه طول بکشد.<br/> ما در پایان ایمیلی ارسال می‌کنیم",
             "UPLOAD_IN_PROGRESS_MESSAGE": "{{uploadedSize}} از {{totalSize}} آپلود شده",
-            "ERROR": "The Taiga has some problems importing your dump data. Please try again.",
-            "ERROR_TOO_MANY_REQUEST": "Sorry, the Taiga is experiencing heavy load right now. Please try again in a few minutes.",
-            "ERROR_MESSAGE": "The Taiga has some problems importing your dump data: {{error_message}}",
-            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})",
+            "ERROR": "The Hotone Japan has some problems importing your dump data. Please try again.",
+            "ERROR_TOO_MANY_REQUEST": "Sorry, the Hotone Japan is experiencing heavy load right now. Please try again in a few minutes.",
+            "ERROR_MESSAGE": "The Hotone Japan has some problems importing your dump data: {{error_message}}",
+            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Hotone Japan, try it with a file smaller than ({{maxFileSize}})",
             "SYNC_SUCCESS": "پروژه‌ی شما با موفقیت ایمپورت شد",
             "IMPORT": "وارد کردن",
             "WHO_IS": "وظایف آنها محول می‌شود به...",
@@ -1023,12 +1023,12 @@
             "WRITE_EMAIL_LABEL": "ایمیل کاربر در تایگا را وارد کنید",
             "ACCEEDE": "Access",
             "PROJECT_MEMBERS": "اعضای پروژه",
-            "PROCESS_DESCRIPTION": "Tell us to whom from Taiga you want to assign the tasks of {{platform}}",
+            "PROCESS_DESCRIPTION": "Tell us to whom from Hotone Japan you want to assign the tasks of {{platform}}",
             "MATCH": "آیا <strong>{{user_external}}</strong> همان <strong>{{user_internal}}</strong> است؟",
             "CHOOSE": "انتخاب کاربر",
             "LINKS": "لینک‌هایی با  {{platform}}",
             "LINKS_DESCRIPTION": "آیا می‌خواهید پیوند آیتم‌ها با کارت {{platform}} را حفظ کنید؟",
-            "WARNING_MAIL_USER": "Note that if the user does not have a Taiga account we will not be able to assign the tasks to them.",
+            "WARNING_MAIL_USER": "Note that if the user does not have a Hotone Japan account we will not be able to assign the tasks to them.",
             "ASSIGN": "تخصیص",
             "PROJECT_SELECTOR": {
                 "NO_RESULTS": "در ارتباط با آنچه جست‌وجو کرده‌اید، چیزی پیدا نشد",
@@ -1071,7 +1071,7 @@
                 "DESCRIPTION": "هنوز افراد تعریف‌نشده‌ای وجود دارند. کارت‌هایی که به این افراد تخصیص‌یافته، آزاد می‌ماند. تمام مخاطبین را بررسی کنید تا آن اطلاعات را از دست ندهید.",
                 "CHECK": "بررسی مخاطبین"
             },
-            "TAIGA": {
+            "HOTONE JAPAN": {
                 "SELECTOR": "وارد کردن پروژه‌ی تایگا"
             },
             "TRELLO": {
@@ -1122,7 +1122,7 @@
             "CONFIRM": "در مورد حذف حساب کاربری تایگای خود مطمئن هستید؟",
             "CANCEL": "بازگشت به تنظیمات",
             "ACCEPT": "حذف حساب کاربری",
-            "BLOCK_PROJECT": "Note that all projects you own will be <strong>blocked</strong> after you delete your account. If you do not want a particular project to be blocked, make sure you transfer ownership to another existing Taiga member before deleting your account."
+            "BLOCK_PROJECT": "Note that all projects you own will be <strong>blocked</strong> after you delete your account. If you do not want a particular project to be blocked, make sure you transfer ownership to another existing Hotone Japan member before deleting your account."
         },
         "DELETE_PROJECT": {
             "TITLE": "حذف پروژه",
@@ -1155,9 +1155,9 @@
             "ACTION_SEND": "Send Message",
             "YOU_CAN_ALSO": "You can also:",
             "CREATE": "Create an issue on this",
-            "PUBLIC": "public Taiga project",
+            "PUBLIC": "public Hotone Japan project",
             "EMAIL": "Send us a e-mail directly to",
-            "SUPPORT": "support@taiga.io"
+            "SUPPORT": "support@hotone japan.io"
         },
         "SEARCH": {
             "TITLE": "جست‌وجو",
@@ -1326,7 +1326,7 @@
             "CLOSE": "بستن",
             "SYNCHRONIZE_LINK": "همگام‌سازی با قبلیه‌ی تایگا",
             "PUBLISH_MORE_INFO_TITLE": "آیا برای این وظیفه کسی را لازم دارید؟",
-            "PUBLISH_MORE_INFO_TEXT": "<p>اگر در مورد بخشی از کار به راهنمایی نیاز دارید، می‌توانید در <a href='http://taigatribe.com' title='Taiga Tribe'>قبلیه‌ی تایگا</a> گیگ ایجاد کنید و از سراسر جهان کمک دریافت کنید. شما می‌توانید گیگ‌ها را کنترل و مدیریت کنید و از بودن در جمع علاقه‌مند و مشتاق کاربران، لذت ببرید.</p><p><a href='http://taigatribe.com' title='Taiga Tribe'>قبیله‌ی تایگا خواهر تایگاست. هر دو پلتفرم به صورت مستقل کار می‌کنند اما ما معتقدیم که اگر این دو را ترکیب کنید، توانمندی‌های آن بسیار بیشتر می‌شود و به همین علت تلاش کردیم که مجتمع‌سازی این دو در یکدیگر، به صورت عالی انجام شده باشد.</p>"
+            "PUBLISH_MORE_INFO_TEXT": "<p>اگر در مورد بخشی از کار به راهنمایی نیاز دارید، می‌توانید در <a href='http://hotone japantribe.com' title='Hotone Japan Tribe'>قبلیه‌ی تایگا</a> گیگ ایجاد کنید و از سراسر جهان کمک دریافت کنید. شما می‌توانید گیگ‌ها را کنترل و مدیریت کنید و از بودن در جمع علاقه‌مند و مشتاق کاربران، لذت ببرید.</p><p><a href='http://hotone japantribe.com' title='Hotone Japan Tribe'>قبیله‌ی تایگا خواهر تایگاست. هر دو پلتفرم به صورت مستقل کار می‌کنند اما ما معتقدیم که اگر این دو را ترکیب کنید، توانمندی‌های آن بسیار بیشتر می‌شود و به همین علت تلاش کردیم که مجتمع‌سازی این دو در یکدیگر، به صورت عالی انجام شده باشد.</p>"
         }
     },
     "COMMENTS": {
@@ -1470,12 +1470,12 @@
         }
     },
     "ERROR": {
-        "TEXT1": "Something happened and the Taiga has captured the error to be able to work on it.",
+        "TEXT1": "Something happened and the Hotone Japan has captured the error to be able to work on it.",
         "NOT_FOUND": "پیدا نشد",
         "NOT_FOUND_TEXT": "ارور ۴۰۴. صفحه‌ای که به دنبال آن هستید، اکنون وجود ندارد. بهتر است به صفحه‌ی اصلی تایگا برگردید و مجدداً برای پیدا کردن صفحه، تلاش کنید.",
         "PERMISSION_DENIED": "دسترسی ممنوع است",
         "PERMISSION_DENIED_TEXT": "شما اجازه دسترسی به این صفحه را ندارید",
-        "VERSION_ERROR": "Some other user inside Taiga has changed this before and your changes can't be applied. Save them elsewhere, reload the page and re-apply your changes again or they will be lost."
+        "VERSION_ERROR": "Some other user inside Hotone Japan has changed this before and your changes can't be applied. Save them elsewhere, reload the page and re-apply your changes again or they will be lost."
     },
     "TASKBOARD": {
         "PAGE_TITLE": "{{sprintName}} - بورد اسپرینت وظایف - {{projectName}}",
@@ -1546,7 +1546,7 @@
         "OK": "همه‌چیز خوب است",
         "WARNING": "Oops, something went wrong...",
         "WARNING_TEXT": "Your changes were not saved!",
-        "SAVED": "The Taiga saved all your changes!",
+        "SAVED": "The Hotone Japan saved all your changes!",
         "CLOSE": "بستن نوتیفیکیشن",
         "MAIL": "نوتیفیکیشن از طریق ایمیل",
         "DESKTOP": "اعلانهای دسکتاپ با استفاده از هشدار مرورگر",
@@ -1554,10 +1554,10 @@
     },
     "CANCEL_ACCOUNT": {
         "TITLE": "کنسل کردن حساب کاربری",
-        "SUBTITLE": "We're sorry you are leaving the Taiga, we hope you enjoyed your stay :)",
+        "SUBTITLE": "We're sorry you are leaving the Hotone Japan, we hope you enjoyed your stay :)",
         "PLACEHOLDER_INPUT_TOKEN": "کنسل کردن توکن حساب کاربری",
         "ACTION_LEAVING": "بله، خارج می‌شوم!",
-        "SUCCESS": "The Taiga removed your account"
+        "SUCCESS": "The Hotone Japan removed your account"
     },
     "CHANGE_EMAIL_FORM": {
         "TITLE": "تغییر ایمیل",

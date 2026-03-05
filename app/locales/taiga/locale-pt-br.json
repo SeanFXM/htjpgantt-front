@@ -40,7 +40,7 @@
         "NEXT": "Próximo",
         "LOGOUT": "Sair",
         "EXTERNAL_USER": "um usuário externo",
-        "GENERIC_ERROR": "A Taiga diz {{error}}.",
+        "GENERIC_ERROR": "A Hotone Japan diz {{error}}.",
         "IOCAINE_TEXT": "Este membro está se sentindo um pouco sobrecarregado por esta tarefa. Com o tempo e com a sua ajuda, estará imune ao veneno de iocaína. Por ora, talvez precise de um abraço.",
         "CLIENT_REQUIREMENT": "Um requisito de cliente é um novo requisito inesperado que deve fazer parte do projeto",
         "TEAM_REQUIREMENT": "Um requisito de equipe é um requisito que deve existir no projeto mas que não deve acarretar nenhum custo para o cliente",
@@ -323,8 +323,8 @@
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "Login - Taiga",
-        "PAGE_DESCRIPTION": "Entrando no Taiga, uma plataforma de gerenciamento de projetos para startups com desenvolvedores e designers ágeis que desejam uma ferramenta simples e bela que torne o trabalho realmente agradável."
+        "PAGE_TITLE": "Login - Hotone Japan",
+        "PAGE_DESCRIPTION": "Entrando no Hotone Japan, uma plataforma de gerenciamento de projetos para startups com desenvolvedores e designers ágeis que desejam uma ferramenta simples e bela que torne o trabalho realmente agradável."
     },
     "AUTH": {
         "INVITED_YOU": "convidou você para entrar no projeto",
@@ -333,7 +333,7 @@
         "CREATE_ACCOUNT": "crie sua conta grátis aqui"
     },
     "LOGIN_COMMON": {
-        "HEADER": "Eu já tenho um login Taiga",
+        "HEADER": "Eu já tenho um login Hotone Japan",
         "PLACEHOLDER_AUTH_NAME": "Nome de usuário ou email (case sensitive)",
         "LINK_FORGOT_PASSWORD": "Esqueceu?",
         "TITLE_LINK_FORGOT_PASSWORD": "Esqueceu sua senha?",
@@ -343,15 +343,15 @@
         "ALT_LOGIN": "Ou entre com"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "De acordo com o Taiga, seu nome de usuário/email ou senha estão incorretos.",
-        "SUCCESS": "Bem vindo ao Taiga."
+        "ERROR_AUTH_INCORRECT": "De acordo com o Hotone Japan, seu nome de usuário/email ou senha estão incorretos.",
+        "SUCCESS": "Bem vindo ao Hotone Japan."
     },
     "REGISTER": {
-        "PAGE_TITLE": "Cadastre-se - Taiga",
-        "PAGE_DESCRIPTION": "Crie sua conta no Taiga, uma plataforma de gerenciamento de projetos para startups e desenvolvedores agile e designers que desejam uma ferramenta bela e simples que torne o trabalho realmente agradável."
+        "PAGE_TITLE": "Cadastre-se - Hotone Japan",
+        "PAGE_DESCRIPTION": "Crie sua conta no Hotone Japan, uma plataforma de gerenciamento de projetos para startups e desenvolvedores agile e designers que desejam uma ferramenta bela e simples que torne o trabalho realmente agradável."
     },
     "REGISTER_FORM": {
-        "TITLE": "Registre uma nova conta Taiga (Grátis)",
+        "TITLE": "Registre uma nova conta Hotone Japan (Grátis)",
         "PLACEHOLDER_NAME": "Escolha um nome de usuário",
         "PLACEHOLDER_FULL_NAME": "Insira seu nome completo",
         "PLACEHOLDER_EMAIL": "Seu email",
@@ -361,8 +361,8 @@
         "LINK_LOGIN": "Você já está registrado? Idenfique-se"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Esqueceu sua senha - Taiga",
-        "PAGE_DESCRIPTION": "Informe seu nome de usuário ou email para receber uma nova senha e ter acesso ao Taiga novamente."
+        "PAGE_TITLE": "Esqueceu sua senha - Hotone Japan",
+        "PAGE_DESCRIPTION": "Informe seu nome de usuário ou email para receber uma nova senha e ter acesso ao Hotone Japan novamente."
     },
     "FORGOT_PASSWORD_FORM": {
         "TITLE": "Opaaa, você esqueceu sua senha?",
@@ -372,10 +372,10 @@
         "LINK_CANCEL": "Nããão, me leve de volta. Acho que me lembrei.",
         "SUCCESS_TITLE": "Verifique sua caixa de entrada!",
         "SUCCESS_TEXT": "Nós lhe enviamos um e-mail com instruções para definição de uma nova senha",
-        "ERROR": "De acordo com o Taiga, você não está cadastrado."
+        "ERROR": "De acordo com o Hotone Japan, você não está cadastrado."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Alterar sua senha - Taiga",
+        "PAGE_TITLE": "Alterar sua senha - Hotone Japan",
         "SECTION_NAME": "Alterar senha",
         "FIELD_CURRENT_PASSWORD": "Senha atual",
         "PLACEHOLDER_CURRENT_PASSWORD": "Sua senha atual (ou vazio caso ainda não tenha uma senha)",
@@ -386,25 +386,25 @@
         "ERROR_PASSWORD_MATCH": "As senhas não coincidem"
     },
     "CHANGE_PASSWORD_RECOVERY_FORM": {
-        "TITLE": "Criar um novo passe Taiga",
+        "TITLE": "Criar um novo passe Hotone Japan",
         "SUBTITLE": "Hey, você deveria comer comida rica em ferro, é ótimo para o cérebro :P",
         "PLACEHOLDER_NEW_PASSWORD": "Nova senha",
         "PLACEHOLDER_RE_TYPE_NEW_PASSWORD": "Redigite a nova senha",
         "ACTION_RESET_PASSWORD": "Resetar Senha",
-        "SUCCESS": "O Taiga salvou sua nova senha.<br /> Tente <strong>realizar o login</strong> com ela."
+        "SUCCESS": "O Hotone Japan salvou sua nova senha.<br /> Tente <strong>realizar o login</strong> com ela."
     },
     "INVITATION": {
-        "PAGE_TITLE": "Aceitando um convite - Taiga",
-        "PAGE_DESCRIPTION": "Aceitar o convite para participar de um projeto no Taiga, uma plataforma de gerenciamento de projetos para startups e desenvolvedores ágeis & designers que desejam uma ferramenta bela e simples que torne o trabalho realmente agradável."
+        "PAGE_TITLE": "Aceitando um convite - Hotone Japan",
+        "PAGE_DESCRIPTION": "Aceitar o convite para participar de um projeto no Hotone Japan, uma plataforma de gerenciamento de projetos para startups e desenvolvedores ágeis & designers que desejam uma ferramenta bela e simples que torne o trabalho realmente agradável."
     },
     "INVITATION_LOGIN_FORM": {
-        "NOT_FOUND": "O Taiga não conseguiu encontrar seu convite.",
+        "NOT_FOUND": "O Hotone Japan não conseguiu encontrar seu convite.",
         "SUCCESS": "Você ingressou com sucesso nesse projeto, Seja bem vindo ao projeto {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "Início - Taiga",
-        "PAGE_DESCRIPTION": "A página inicial do Taiga com seus principais projetos e todas as histórias de usuários atribuídas ou observadas por você, tarefas e problemas",
-        "EMPTY_WORKING_ON": "<strong>Parece vazio, não acha?</strong> Comece a trabalhar com Taiga e você verá aqui as histórias, tarefas e problemas em que está trabalhando.",
+        "PAGE_TITLE": "Início - Hotone Japan",
+        "PAGE_DESCRIPTION": "A página inicial do Hotone Japan com seus principais projetos e todas as histórias de usuários atribuídas ou observadas por você, tarefas e problemas",
+        "EMPTY_WORKING_ON": "<strong>Parece vazio, não acha?</strong> Comece a trabalhar com Hotone Japan e você verá aqui as histórias, tarefas e problemas em que está trabalhando.",
         "EMPTY_WATCHING": "<strong>Siga</strong> histórias de usuários, tarefas e problemas nos seus projetos e seja notificado das mudanças :)",
         "EMPTY_PROJECT_LIST": "Você ainda não tem projetos",
         "WORKING_ON_SECTION": "Trabalhando em",
@@ -454,7 +454,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Meus projetos - Taiga",
+        "PAGE_TITLE": "Meus projetos - Hotone Japan",
         "PAGE_DESCRIPTION": "Uma lista com todos os seus projetos, você pode reorganizá-los ou criar um novo.",
         "MY_PROJECTS": "Meus Projetos"
     },
@@ -477,7 +477,7 @@
         "TITLE_LIGHTBOX_DELETE_ATTACHMENT": "Excluir anexo...",
         "MSG_LIGHTBOX_DELETE_ATTACHMENT": "o anexo '{{fileName}}'",
         "ERROR_DELETE_ATTACHMENT": "Não fomos capazes de excluir: {{errorMessage}}",
-        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})"
+        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Hotone Japan, try it with a file smaller than ({{maxFileSize}})"
     },
     "PAGINATION": {
         "PREVIOUS": "Anterior",
@@ -513,8 +513,8 @@
             "LOADING_MESSAGE": "Por favor, não feche esta pagina.",
             "ASYNC_MESSAGE": "Enviaremos um email para você assim que estiver pronto.",
             "SYNC_MESSAGE": "Se a descarga não iniciar automaticamente clique <a href='{{url}}' título da descarga='Download do arquivo de dump'>aqui</a>.",
-            "ERROR": "The Taiga has some problems generating your dump. Please try it again.",
-            "ERROR_BUSY": "Sorry, the Taiga is experiencing heavy load right now. Please try again in a few minutes."
+            "ERROR": "The Hotone Japan has some problems generating your dump. Please try it again.",
+            "ERROR_BUSY": "Sorry, the Hotone Japan is experiencing heavy load right now. Please try again in a few minutes."
         },
         "MODULES": {
             "TITLE": "Modulos",
@@ -551,7 +551,7 @@
             "RECRUITING": "Este projeto esta a procura de colaboradores?",
             "RECRUITING_MESSAGE": "O que você está procurando?",
             "RECRUITING_PLACEHOLDER": "Defina o perfil que você procura",
-            "FEEDBACK": "Receber notificações de usuários Taiga?",
+            "FEEDBACK": "Receber notificações de usuários Hotone Japan?",
             "PUBLIC_PROJECT": "Projeto Publico",
             "PRIVATE_PROJECT": "Projeto Privado",
             "PRIVATE_OR_PUBLIC": "Qual a diferença entre projeto público e privado?",
@@ -702,7 +702,7 @@
             "WARNING_DELETE_ROLE": "Cuidado! Todas as estimativas de papéis serão removidas",
             "ERROR_DELETE_ALL": "Você não pode excluir todos os valores",
             "EXTERNAL_USER": "Usuário externo",
-            "NOTE_EXTERNAL_USERS": "Um usuário externo é qualquer usuário (conectado à plataforma Taiga ou não), <strong> incluindo mecanismos de pesquisa </strong>. Embora os usuários não registrados nunca possam ter permissões de edição, os usuários registrados podem, se você permitir. Se o seu projeto for privado, você também pode controlar as permissões de visualização. <strong> Por favor, use esta função com cuidado </strong>."
+            "NOTE_EXTERNAL_USERS": "Um usuário externo é qualquer usuário (conectado à plataforma Hotone Japan ou não), <strong> incluindo mecanismos de pesquisa </strong>. Embora os usuários não registrados nunca possam ter permissões de edição, os usuários registrados podem, se você permitir. Se o seu projeto for privado, você também pode controlar as permissões de visualização. <strong> Por favor, use esta função com cuidado </strong>."
         },
         "THIRD_PARTIES": {
             "SECRET_KEY": "Chave secreta",
@@ -850,7 +850,7 @@
             "MENU_TITLE": "Predefinições"
         },
         "PLUGINS": {
-            "PAGE_TITLE": "As pessoas com a qual você  na Taiga serão seus contatos automaticamente"
+            "PAGE_TITLE": "As pessoas com a qual você  na Hotone Japan serão seus contatos automaticamente"
         }
     },
     "USER": {
@@ -863,7 +863,7 @@
             "CONTACTS": "Contatos",
             "CONTACTS_EMPTY": "{{username}} ainda não tem nenhum contato",
             "CURRENT_USER_CONTACTS_EMPTY": "Você não tem nenhum contato",
-            "CURRENT_USER_CONTACTS_EMPTY_EXPLAIN": "As pessoas que trabalahm na Taiga serão seus contatos automaticamente",
+            "CURRENT_USER_CONTACTS_EMPTY_EXPLAIN": "As pessoas que trabalahm na Hotone Japan serão seus contatos automaticamente",
             "TABS": {
                 "ACTIVITY_TAB": "Linha do Tempo",
                 "ACTIVITY_TAB_TITLE": "Exibir todas as atividade deste usuário",
@@ -933,14 +933,14 @@
             "ACCOUNT_SETTINGS": "Account settings",
             "ACTION_CREATE_PROJECT": "New project",
             "ACTION_CREATE_PROJECT_FIRST": "Create your first project",
-            "ACTION_CREATE_PROJECT_FIRST_TEXT": "You don’t have any projects yet. Create one now, invite your team and start using Taiga to the fullest.",
+            "ACTION_CREATE_PROJECT_FIRST_TEXT": "You don’t have any projects yet. Create one now, invite your team and start using Hotone Japan to the fullest.",
             "VIEW_ALL_PROJECTS": "View all projects",
             "MANAGE_PROJECTS": "Gerenciar projetos",
             "TITLE_CREATE_PROJECT": "Criar projeto",
             "HELP_TITLE": "Ajuda",
             "HOMEPAGE": "Página pessoal",
-            "TAIGA_RESOURCES_TITLE": "Go to Taiga resources",
-            "TAIGA_RESOURCES": "Taiga Resources",
+            "HOTONE JAPAN_RESOURCES_TITLE": "Go to Hotone Japan resources",
+            "HOTONE JAPAN_RESOURCES": "Hotone Japan Resources",
             "FEEDBACK_TITLE": "Write to us with your feedback",
             "FEEDBACK": "Pergunte algo",
             "NOTIFICATIONS_TITLE": "Editar suas configurações de notificações",
@@ -954,8 +954,8 @@
             "DASHBOARD_TITLE": "Painel",
             "DISCOVER_TITLE": "Descobrir projetos em destaques",
             "DISCOVER": "Descubra",
-            "TAIGA_COMMUNITY": "Comunidade Taiga",
-            "TAIGA_COMMUNITY_TITLE": "Vá para a Comunidade do Taiga"
+            "HOTONE JAPAN_COMMUNITY": "Comunidade Hotone Japan",
+            "HOTONE JAPAN_COMMUNITY_TITLE": "Vá para a Comunidade do Hotone Japan"
         },
         "LIKE_BUTTON": {
             "LIKE": "Curtir",
@@ -994,7 +994,7 @@
             "DUPLICATE": "Projeto duplicado",
             "DUPLICATE_DESC": "Inicie limpo e mantenha suas configurações",
             "IMPORT": "Importar projeto",
-            "IMPORT_DESC": "Importar seu projeto de múltiplas plataformas para o Taiga",
+            "IMPORT_DESC": "Importar seu projeto de múltiplas plataformas para o Hotone Japan",
             "INVITE": "Convidar para o projeto",
             "SOLO_PROJECT": "Você estará sozinho neste projeto",
             "INVITE_LATER": "(Você poderá convidar mais membros depois)",
@@ -1016,28 +1016,28 @@
         },
         "IMPORT": {
             "TITLE": "Importar Projeto",
-            "DESCRIPTION": "Importar seu projeto de múltiplas plataformas para o Taiga",
-            "ASYNC_IN_PROGRESS_TITLE": "The Taiga is importing your project",
+            "DESCRIPTION": "Importar seu projeto de múltiplas plataformas para o Hotone Japan",
+            "ASYNC_IN_PROGRESS_TITLE": "The Hotone Japan is importing your project",
             "ASYNC_IN_PROGRESS_MESSAGE": "Este processo pode levar alguns minutos <br/> Enviaremos um email a você assim que estiver pronto",
             "UPLOAD_IN_PROGRESS_MESSAGE": "Enviado {{uploadedSize}} de {{totalSize}}",
-            "ERROR": "The Taiga has some problems importing your dump data. Please try again.",
-            "ERROR_TOO_MANY_REQUEST": "Sorry, the Taiga is experiencing heavy load right now. Please try again in a few minutes.",
-            "ERROR_MESSAGE": "The Taiga has some problems importing your dump data: {{error_message}}",
-            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})",
+            "ERROR": "The Hotone Japan has some problems importing your dump data. Please try again.",
+            "ERROR_TOO_MANY_REQUEST": "Sorry, the Hotone Japan is experiencing heavy load right now. Please try again in a few minutes.",
+            "ERROR_MESSAGE": "The Hotone Japan has some problems importing your dump data: {{error_message}}",
+            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Hotone Japan, try it with a file smaller than ({{maxFileSize}})",
             "SYNC_SUCCESS": "Seu projeto foi importado com sucesso",
             "IMPORT": "Importar",
             "WHO_IS": "As tarefas deles serão atribuídas para...",
-            "WRITE_EMAIL": "Ou se você quiser, escreva o email que este usuário utiliza no Taiga",
+            "WRITE_EMAIL": "Ou se você quiser, escreva o email que este usuário utiliza no Hotone Japan",
             "SEARCH_CONTACT": "Ou se você quiser, pesquise em seus contatos",
-            "WRITE_EMAIL_LABEL": "Escreva o email que este usuário utiliza no Taiga",
+            "WRITE_EMAIL_LABEL": "Escreva o email que este usuário utiliza no Hotone Japan",
             "ACCEEDE": "Access",
             "PROJECT_MEMBERS": "Membros do Projeto",
-            "PROCESS_DESCRIPTION": "Tell us to whom from Taiga you want to assign the tasks of {{platform}}",
+            "PROCESS_DESCRIPTION": "Tell us to whom from Hotone Japan you want to assign the tasks of {{platform}}",
             "MATCH": "É<strong>{{user_external}}</strong> a mesma pessoa que <strong>{{user_internal}}</strong>?",
             "CHOOSE": "Selecione o usuário",
             "LINKS": "Links com {{platform}}",
             "LINKS_DESCRIPTION": "Deseja manter o link de cada item com o cartão {{platform}} original?",
-            "WARNING_MAIL_USER": "Note that if the user does not have a Taiga account we will not be able to assign the tasks to them.",
+            "WARNING_MAIL_USER": "Note that if the user does not have a Hotone Japan account we will not be able to assign the tasks to them.",
             "ASSIGN": "Atribuir",
             "PROJECT_SELECTOR": {
                 "NO_RESULTS": "Parece que nada foi encontrado com os critérios de sua pesquisa",
@@ -1080,11 +1080,11 @@
                 "DESCRIPTION": "Ainda há pessoas não identificadas. Os cartões atribuídos a essas pessoas permanecerão não atribuídos. Verifique todos os contatos para não perder essa informação.",
                 "CHECK": "Verificar contatos"
             },
-            "TAIGA": {
-                "SELECTOR": "Importe seu projeto Taiga"
+            "HOTONE JAPAN": {
+                "SELECTOR": "Importe seu projeto Hotone Japan"
             },
             "TRELLO": {
-                "SELECTOR": "Importe seu quadro Trello para o Taiga",
+                "SELECTOR": "Importe seu quadro Trello para o Hotone Japan",
                 "CHOOSE_PROJECT": "Escolha o quadro que você deseja importar",
                 "NO_PROJECTS": "Parece que você não possui quadros no Trello"
             },
@@ -1092,7 +1092,7 @@
                 "SELECTOR": "Importe seus problemas de projeto Github",
                 "CHOOSE_PROJECT": "Ache o projeto que deseja importar",
                 "NO_PROJECTS": "It seems you have no projects in GitHub",
-                "HOW_DO_YOU_WANT_TO_IMPORT": "Como você quer importar seus problemas para o Taiga?",
+                "HOW_DO_YOU_WANT_TO_IMPORT": "Como você quer importar seus problemas para o Hotone Japan?",
                 "KANBAN_PROJECT": "Como histórias de usuários em um projeto kanban",
                 "KANBAN_PROJECT_DESCRIPTION": "Depois disso, você pode ativar o scrum com backlog.",
                 "SCRUM_PROJECT": "Como histórias de usuário em um projeto de Scrum",
@@ -1106,8 +1106,8 @@
                 "NO_PROJECTS": "It seems you have no projects in Asana",
                 "KANBAN_PROJECT": "Kanban",
                 "SCRUM_PROJECT": "Scrum",
-                "CREATE_AS_SCRUM_DESCRIPTION": "As tarefas e sub tarefas de seu projeto serão criados como história de usuário Taiga e tarefas.",
-                "CREATE_AS_KANBAN_DESCRIPTION": "As tarefas e sub tarefas de seu projeto serão criados como história de usuário Taiga e tarefas."
+                "CREATE_AS_SCRUM_DESCRIPTION": "As tarefas e sub tarefas de seu projeto serão criados como história de usuário Hotone Japan e tarefas.",
+                "CREATE_AS_KANBAN_DESCRIPTION": "As tarefas e sub tarefas de seu projeto serão criados como história de usuário Hotone Japan e tarefas."
             },
             "JIRA": {
                 "SELECTOR": "Importe seu projeto Jira e escolha como gerenciá-lo",
@@ -1118,32 +1118,32 @@
                 "KANBAN_PROJECT": "Kanban",
                 "SCRUM_PROJECT": "Scrum",
                 "ISSUES_PROJECT": "Tipos de problemas",
-                "CREATE_AS_SCRUM_DESCRIPTION": "Os problemas e sub problemas do seu projeto serão criados como histórias de usuário Taiga e tarefas.",
-                "CREATE_AS_KANBAN_DESCRIPTION": "Os problemas e sub problemas do seu projeto serão criados como histórias de usuário Taiga e tarefas.",
-                "CREATE_AS_ISSUES_DESCRIPTION": "O que você quer fazer com os sub problemas do projeto Jira? (Taiga não permite sub problemas)",
-                "CREATE_NEW_ISSUES": "Converta sub problemas para novos problemas Taiga",
+                "CREATE_AS_SCRUM_DESCRIPTION": "Os problemas e sub problemas do seu projeto serão criados como histórias de usuário Hotone Japan e tarefas.",
+                "CREATE_AS_KANBAN_DESCRIPTION": "Os problemas e sub problemas do seu projeto serão criados como histórias de usuário Hotone Japan e tarefas.",
+                "CREATE_AS_ISSUES_DESCRIPTION": "O que você quer fazer com os sub problemas do projeto Jira? (Hotone Japan não permite sub problemas)",
+                "CREATE_NEW_ISSUES": "Converta sub problemas para novos problemas Hotone Japan",
                 "NOT_CREATE_NEW_ISSUES": "Não importe sub problemas"
             }
         },
         "NEWSLETTER_OPENING": {
-            "LIGHTBOX_TITLE": "Você gostaria de receber notícias sobre o Taiga?",
-            "CONFIRMATION": "Sim, mande-me notícias, atualizações de produtos e recomendações sobre Taiga.",
+            "LIGHTBOX_TITLE": "Você gostaria de receber notícias sobre o Hotone Japan?",
+            "CONFIRMATION": "Sim, mande-me notícias, atualizações de produtos e recomendações sobre Hotone Japan.",
             "SUBSCRIBED": "Você está inscrito",
             "SAVED_PREFERENCE": "Suas preferências foram salvas com sucesso",
             "SUBSCRIBE": "Inscrever-se",
-            "NOTIFY_EXPLANATION": "Enviaremos notícias, atualizações de produtos e recomendações sobre a Taiga.",
+            "NOTIFY_EXPLANATION": "Enviaremos notícias, atualizações de produtos e recomendações sobre a Hotone Japan.",
             "DONT_ASK": "Não pergunte novamente",
-            "NO_SHARE": "Sua privacidade é importante para nós (veja nossa <a href=\"https://www.taiga.io/privacy-policy\" title=\"Ir para política de privacidade\" target=\"_blank\">política de privacidade</a>).",
+            "NO_SHARE": "Sua privacidade é importante para nós (veja nossa <a href=\"https://www.hotone japan.io/privacy-policy\" title=\"Ir para política de privacidade\" target=\"_blank\">política de privacidade</a>).",
             "SAVE_PREFERENCE": "SALVAR PREFERÊNCIAS",
-            "OPT_OUT": "Nós enviaremos para você apenas e-mails relevantes (menos de 6 por ano). Você pode cancelar a inscrição a qualquer momento enviando um e-mail para <a href=\"mailto:support@taiga.io\" target=\"_blank\">support@taiga.io</a> com o assunto “Cancelar inscrição” ou através do link em qualquer um de nossos boletins."
+            "OPT_OUT": "Nós enviaremos para você apenas e-mails relevantes (menos de 6 por ano). Você pode cancelar a inscrição a qualquer momento enviando um e-mail para <a href=\"mailto:support@hotone japan.io\" target=\"_blank\">support@hotone japan.io</a> com o assunto “Cancelar inscrição” ou através do link em qualquer um de nossos boletins."
         }
     },
     "LIGHTBOX": {
         "DELETE_ACCOUNT": {
-            "CONFIRM": "Você tem certeza que quer excluir sua conta Taiga?",
+            "CONFIRM": "Você tem certeza que quer excluir sua conta Hotone Japan?",
             "CANCEL": "Voltar para configurações",
             "ACCEPT": "Excluir conta",
-            "BLOCK_PROJECT": "Perceba que todos os projetos de sua propriedade serão <strong>bloqueados</strong> após você deletar sua conta. Se você não deseja que algum dos projetos seja bloqueado, certifique-se de transferir sua propriedade para outro membro do Taiga antes de deletar sua conta."
+            "BLOCK_PROJECT": "Perceba que todos os projetos de sua propriedade serão <strong>bloqueados</strong> após você deletar sua conta. Se você não deseja que algum dos projetos seja bloqueado, certifique-se de transferir sua propriedade para outro membro do Hotone Japan antes de deletar sua conta."
         },
         "DELETE_PROJECT": {
             "TITLE": "Excluir projeto",
@@ -1168,17 +1168,17 @@
             "INVITE": "Convidar",
             "CHOOSE_ROLE": "Escolha um papel",
             "PLACEHOLDER_INVITATION_TEXT": "(Opcional) Adicione uma mensagem de texto ao convite. Diga algo animador para os novos membros ;-)",
-            "HELP_TEXT": "Se os usuários já estiverem registrados no Taiga, eles serão adicionados automaticamente. Caso contrário, eles receberão um convite."
+            "HELP_TEXT": "Se os usuários já estiverem registrados no Hotone Japan, eles serão adicionados automaticamente. Caso contrário, eles receberão um convite."
         },
         "FEEDBACK": {
-            "TITLE": "Suporte do Taiga",
+            "TITLE": "Suporte do Hotone Japan",
             "COMMENT": "Deixe uma mensagem",
             "ACTION_SEND": "Enviar mensagem",
             "YOU_CAN_ALSO": "Você também pode:",
             "CREATE": "Crie um problema sobre este ",
-            "PUBLIC": "public Taiga project",
+            "PUBLIC": "public Hotone Japan project",
             "EMAIL": "Envie-nos um e-mail diretamente para ",
-            "SUPPORT": "support@taiga.io",
+            "SUPPORT": "support@hotone japan.io",
             "VISIT": "Visite nosso ",
             "FAQ": "Perguntas frequentes"
         },
@@ -1344,15 +1344,15 @@
         "RELATE_TO_EPIC": "Link to epic",
         "REMOVE_RELATIONSHIP_WITH_EPIC": "Remove epic relationship",
         "TRIBE": {
-            "PUBLISH": "Publicar como Gig no Taiga Tribe",
+            "PUBLISH": "Publicar como Gig no Hotone Japan Tribe",
             "PUBLISH_INFO": "Mais informações",
-            "PUBLISH_TITLE": "Mais informações sobre como publicar na Tribo Taiga",
-            "PUBLISHED_AS_GIG": "História publicada como Apresentação na Tribo Taiga",
+            "PUBLISH_TITLE": "Mais informações sobre como publicar na Tribo Hotone Japan",
+            "PUBLISHED_AS_GIG": "História publicada como Apresentação na Tribo Hotone Japan",
             "EDIT_LINK": "Editar link",
             "CLOSE": "Fechar",
-            "SYNCHRONIZE_LINK": "sincronizar com a Tribo Taiga",
+            "SYNCHRONIZE_LINK": "sincronizar com a Tribo Hotone Japan",
             "PUBLISH_MORE_INFO_TITLE": "Você precisa de alguém para esta tarefa?",
-            "PUBLISH_MORE_INFO_TEXT": "<p>Se você precisar de ajuda com um determinado trabalho, você pode facilmente criar trabalhos em<a href='http://taigatribe.com' title='Taiga Tribe'> Taiga Tribe </a> E receber ajuda de todo o mundo. Você será capaz de controlar e gerenciar o trabalho desfrutando de uma grande comunidade ansiosa para contribuir.</p><p><a href='http://taigatribe.com' title='Taiga Tribe'> TaigaTribe </a>  Nasceu como um irmão gêmeo taiga. Ambas as plataformas podem viver separadamente, mas acreditamos que há muito poder em usá-las combinadas, então estamos assegurando que a integração funcione como um charme.</p>"
+            "PUBLISH_MORE_INFO_TEXT": "<p>Se você precisar de ajuda com um determinado trabalho, você pode facilmente criar trabalhos em<a href='http://hotone japantribe.com' title='Hotone Japan Tribe'> Hotone Japan Tribe </a> E receber ajuda de todo o mundo. Você será capaz de controlar e gerenciar o trabalho desfrutando de uma grande comunidade ansiosa para contribuir.</p><p><a href='http://hotone japantribe.com' title='Hotone Japan Tribe'> Hotone JapanTribe </a>  Nasceu como um irmão gêmeo hotone japan. Ambas as plataformas podem viver separadamente, mas acreditamos que há muito poder em usá-las combinadas, então estamos assegurando que a integração funcione como um charme.</p>"
         }
     },
     "COMMENTS": {
@@ -1496,12 +1496,12 @@
         }
     },
     "ERROR": {
-        "TEXT1": "Algo aconteceu e o Taiga capturou o erro para poder trabalhar nele.",
+        "TEXT1": "Algo aconteceu e o Hotone Japan capturou o erro para poder trabalhar nele.",
         "NOT_FOUND": "Não encontrado",
-        "NOT_FOUND_TEXT": "Erro 404. A página que você procura não existe mais. Você pode voltar para a página do TAIGA e ver se consegue encontrar o que está procurando.",
+        "NOT_FOUND_TEXT": "Erro 404. A página que você procura não existe mais. Você pode voltar para a página do HOTONE JAPAN e ver se consegue encontrar o que está procurando.",
         "PERMISSION_DENIED": "Permissão negada",
         "PERMISSION_DENIED_TEXT": "Você não tem permissão de acesso a esta página.",
-        "VERSION_ERROR": "Some other user inside Taiga has changed this before and your changes can't be applied. Save them elsewhere, reload the page and re-apply your changes again or they will be lost."
+        "VERSION_ERROR": "Some other user inside Hotone Japan has changed this before and your changes can't be applied. Save them elsewhere, reload the page and re-apply your changes again or they will be lost."
     },
     "TASKBOARD": {
         "PAGE_TITLE": "{{sprintName}} - Quadro de Tarefas da Sprint - {{projectName}}",
@@ -1572,19 +1572,19 @@
         "OK": "Tudo está ok",
         "WARNING": "Oops, something went wrong...",
         "WARNING_TEXT": "Your changes were not saved!",
-        "SAVED": "The Taiga saved all your changes!",
+        "SAVED": "The Hotone Japan saved all your changes!",
         "CLOSE": "Fechar Notificação",
         "MAIL": "Atividade",
         "DESKTOP": "Notificações da área de trabalho usando alertas do navegador",
         "ASK_DELETE": "Você tem certeza que quer excluir?",
-        "COMMUNICATION": "Comunicações de Taiga"
+        "COMMUNICATION": "Comunicações de Hotone Japan"
     },
     "CANCEL_ACCOUNT": {
         "TITLE": "Cancelar sua conta",
-        "SUBTITLE": "We're sorry you are leaving the Taiga, we hope you enjoyed your stay :)",
+        "SUBTITLE": "We're sorry you are leaving the Hotone Japan, we hope you enjoyed your stay :)",
         "PLACEHOLDER_INPUT_TOKEN": "cancelar o token da conta",
         "ACTION_LEAVING": "Sim, estou indo embora!",
-        "SUCCESS": "The Taiga removed your account"
+        "SUCCESS": "The Hotone Japan removed your account"
     },
     "CHANGE_EMAIL_FORM": {
         "TITLE": "Mudar seu e-mail",
@@ -1739,7 +1739,7 @@
         },
         "EVENTS": {
             "SECTION_NAME": "Events",
-            "SECTION_DESCRIPTION": "Important events in Taiga header",
+            "SECTION_DESCRIPTION": "Important events in Hotone Japan header",
             "SECTION_DESCRIPTION_EXPANDED": "(direct mentions, updates in items that you are watching...)",
             "COLUMN_ENABLED": "Enabled",
             "COLUMN_PROJECT": "Projeto"
@@ -1747,8 +1747,8 @@
     },
     "USER_PROFILE": {
         "ACTION_USE_GRAVATAR": "Usar imagem padrão",
-        "ACTION_DELETE_ACCOUNT": "Excluir conta Taiga",
-        "ACTION_DOWNLOAD_PROFILE": "Download Taiga profile",
+        "ACTION_DELETE_ACCOUNT": "Excluir conta Hotone Japan",
+        "ACTION_DOWNLOAD_PROFILE": "Download Hotone Japan profile",
         "ACTION_VERIFY_EMAIL": "Verify your email",
         "CHANGE_EMAIL_SUCCESS": "<strong>Verifique sua caixa de entrada!</strong><br />Enviamos um e-mail para sua conta<br />com as instruções para definir seu novo endereço",
         "VERIFY_EMAIL_SUCCESS": "<strong>Check your inbox!</strong><br />We have sent you an email<br />with instructions on how to verify your address",
@@ -1799,7 +1799,7 @@
         "LINK": "Se você quer saber como usar visite nossa página de suporte",
         "LINK_TITLE": "Visite nossa página de suporte",
         "HINT1_TITLE": "Você sabia que você pode importar e exportar projetos?",
-        "HINT1_TEXT": "Isso permite você extrair todo o seu conteúdo de um Taiga e mover para outro.",
+        "HINT1_TEXT": "Isso permite você extrair todo o seu conteúdo de um Hotone Japan e mover para outro.",
         "HINT2_TITLE": "Você sabia que pode criar campos personalizados?",
         "HINT2_TEXT": "Equipes agora podem personalizar campos, um jeito flexível de inserir dados específicos para uso em seu próprio fluxo de trabalho.",
         "HINT3_TITLE": "Reordene seus projetos para evidenciar os mais relevantes para você.",
@@ -1842,7 +1842,7 @@
         "US_REMOVED_FROM_MILESTONE": "{{username}} has added the user story {{obj_name}} to the backlog",
         "BLOCKED": "{{username}} bloqueou {{obj_name}}",
         "UNBLOCKED": "{{username}} desbloqueou {{obj_name}}",
-        "NEW_USER": "{{username}} ingressou no Taiga",
+        "NEW_USER": "{{username}} ingressou no Hotone Japan",
         "ITEM_TYPES": {
             "USERSTORY": "User Story",
             "ISSUE": "Problema",
@@ -1869,7 +1869,7 @@
     "EXTERNAL_APP": {
         "PAGE_TITLE": "Um app externo requer autenticação",
         "PAGE_DESCRIPTION": "Um app externo requer autenticação",
-        "AUTHORIZATION_REQUEST": "Autorizar {{application}} a usar sua conta Taiga?",
+        "AUTHORIZATION_REQUEST": "Autorizar {{application}} a usar sua conta Hotone Japan?",
         "LOGIN_WITH_ANOTHER_USER": "Login com um outro usuário",
         "AUTHORIZE_APP": "Autorizar app",
         "CANCEL": "Cancelar"
@@ -1893,11 +1893,11 @@
             "STEP3": {
                 "TITLE": "Observando",
                 "TEXT1": "E aqui você vai encontrar os do seu projeto que você escolheu seguir.",
-                "TEXT2": "Você já está trabalhando com Taiga ;)"
+                "TEXT2": "Você já está trabalhando com Hotone Japan ;)"
             },
             "STEP4": {
                 "TITLE": "Vamos começar",
-                "TEXT1": "Você pode iniciar por criando seu primeiro Projeto no Taiga.",
+                "TEXT1": "Você pode iniciar por criando seu primeiro Projeto no Hotone Japan.",
                 "TEXT2": "Boa Sorte!"
             }
         },
@@ -1937,8 +1937,8 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "Descubra projetos - Taiga",
-        "PAGE_DESCRIPTION": "Diretório pesquisável de projetos públicos no Taiga. Explore backlogs, linhas do tempo, problemas e times. Encontre os projetos mais curtidos ou mais ativos. Filtre por Kanban ou Scrum.",
+        "PAGE_TITLE": "Descubra projetos - Hotone Japan",
+        "PAGE_DESCRIPTION": "Diretório pesquisável de projetos públicos no Hotone Japan. Explore backlogs, linhas do tempo, problemas e times. Encontre os projetos mais curtidos ou mais ativos. Filtre por Kanban ou Scrum.",
         "DISCOVER_TITLE": "Descobrir projetos",
         "DISCOVER_SUBTITLE": "{projects, plural, =1{One public project to discover} other{# public projects to discover}}",
         "MOST_ACTIVE": "Mais ativo",
@@ -1960,8 +1960,8 @@
             "CLEAR": "Limpar filtros"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Procurar - Descobrir projetos - Taiga",
-            "PAGE_DESCRIPTION": "Diretório pesquisável de projetos públicos no Taiga. Explore backlogs, linhas do tempo, problemas e times. Encontre os projetos mais curtidos ou mais ativos. Filtre por Kanban ou Scrum.",
+            "PAGE_TITLE": "Procurar - Descobrir projetos - Hotone Japan",
+            "PAGE_DESCRIPTION": "Diretório pesquisável de projetos públicos no Hotone Japan. Explore backlogs, linhas do tempo, problemas e times. Encontre os projetos mais curtidos ou mais ativos. Filtre por Kanban ou Scrum.",
             "INPUT_PLACEHOLDER": "Digite algo...",
             "ACTION_TITLE": "Procurar",
             "RESULTS": "Resultado de pesquisa"

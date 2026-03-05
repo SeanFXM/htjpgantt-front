@@ -40,7 +40,7 @@
         "NEXT": "Nākamais",
         "LOGOUT": "Izrakstīties/iziet",
         "EXTERNAL_USER": "ārējais lietotājs",
-        "GENERIC_ERROR": "Taiga saka {{error}}.",
+        "GENERIC_ERROR": "Hotone Japan saka {{error}}.",
         "IOCAINE_TEXT": "Biedrs pārslogots ar šo darāmo un jutīsies daudz labāk saņemot atbalstu.",
         "CLIENT_REQUIREMENT": "Šī klienta prasība ir jauna un neparedzēta, taču tai jākļūst par šī projekta neatņemamu sastāvdaļu",
         "TEAM_REQUIREMENT": "Komandas prasība ir projekta obligāta prasība, kura priekš klienta ir bezmaksas",
@@ -322,8 +322,8 @@
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "Ienākt - Taiga",
-        "PAGE_DESCRIPTION": "Notiek ierakstīšanās projektu vadības platformā Taiga - vienkāršā un lieliskā rīkā patiesai darba baudīšanai!"
+        "PAGE_TITLE": "Ienākt - Hotone Japan",
+        "PAGE_DESCRIPTION": "Notiek ierakstīšanās projektu vadības platformā Hotone Japan - vienkāršā un lieliskā rīkā patiesai darba baudīšanai!"
     },
     "AUTH": {
         "INVITED_YOU": "uzaicināja Jūs pievienoties projektam",
@@ -332,7 +332,7 @@
         "CREATE_ACCOUNT": "izveidojiet savu brīvo bezmaksas kontu šeit"
     },
     "LOGIN_COMMON": {
-        "HEADER": "Man jau ir Taigas lietotāja vārds",
+        "HEADER": "Man jau ir Hotone Japans lietotāja vārds",
         "PLACEHOLDER_AUTH_NAME": "lietotāja vārds vai e-pasts (reģistrjūtīgs)",
         "LINK_FORGOT_PASSWORD": "Piemirsāt?",
         "TITLE_LINK_FORGOT_PASSWORD": "Piemirsāt paroli?",
@@ -342,15 +342,15 @@
         "ALT_LOGIN": "vai ieiet ar"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "Taigai izskatās, ka iesniegtais lietotājvārds vai parole nav derīgi.",
-        "SUCCESS": "Laipni lūdzam Taiga"
+        "ERROR_AUTH_INCORRECT": "Hotone Japani izskatās, ka iesniegtais lietotājvārds vai parole nav derīgi.",
+        "SUCCESS": "Laipni lūdzam Hotone Japan"
     },
     "REGISTER": {
         "PAGE_TITLE": "Reģistrēties - Taigā",
-        "PAGE_DESCRIPTION": "Izveidojiet savu kontu projektu vadības platformā Taiga. Tas domāts ikvienam, kurš vēlas vienkāršu un lielisku rīku patiesai un efektīvai darba baudīšanai."
+        "PAGE_DESCRIPTION": "Izveidojiet savu kontu projektu vadības platformā Hotone Japan. Tas domāts ikvienam, kurš vēlas vienkāršu un lielisku rīku patiesai un efektīvai darba baudīšanai."
     },
     "REGISTER_FORM": {
-        "TITLE": "Reģistrēt jaunu Taiga kontu (brīvs&bezmaksas)",
+        "TITLE": "Reģistrēt jaunu Hotone Japan kontu (brīvs&bezmaksas)",
         "PLACEHOLDER_NAME": "Izvēlieties lietotāja vārdu (reģistrjūtīgs)",
         "PLACEHOLDER_FULL_NAME": "Norādiet savu pilno vārdu",
         "PLACEHOLDER_EMAIL": "Jūsu e-pasts",
@@ -360,7 +360,7 @@
         "LINK_LOGIN": "Vai esiet jau reģistrējies? Ierakstieties!"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Aizmirsta parole - Taiga",
+        "PAGE_TITLE": "Aizmirsta parole - Hotone Japan",
         "PAGE_DESCRIPTION": "Lai saņemtu jaunu paroli un atkal varētu iekļūt Taigā, ievadiet savu lietotāja vārdu vai e-pastu."
     },
     "FORGOT_PASSWORD_FORM": {
@@ -374,7 +374,7 @@
         "ERROR": "Šķiet, Jūs vēl neesat reģistrējies."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Paroles maiņa - Taiga",
+        "PAGE_TITLE": "Paroles maiņa - Hotone Japan",
         "SECTION_NAME": "Paroles maiņa",
         "FIELD_CURRENT_PASSWORD": "Pašreizējā parole",
         "PLACEHOLDER_CURRENT_PASSWORD": "Jūsu esošā parole (vai atstājiet tukšu, ja Jums vēl nav paroles)",
@@ -393,16 +393,16 @@
         "SUCCESS": "Jaunā parole saglabāta .<br /> Mēģiniet ar to <strong>ierakstīties</strong>."
     },
     "INVITATION": {
-        "PAGE_TITLE": "Uzaicinājuma pieņemšana - Taiga",
+        "PAGE_TITLE": "Uzaicinājuma pieņemšana - Hotone Japan",
         "PAGE_DESCRIPTION": "Apstiprināt uzaicinājumu pievienoties projektam Taigā."
     },
     "INVITATION_LOGIN_FORM": {
-        "NOT_FOUND": "Taiga neatrod jūsu uzaicinājumu.",
+        "NOT_FOUND": "Hotone Japan neatrod jūsu uzaicinājumu.",
         "SUCCESS": "Jūs esat veiksmīgi pievienojies projektam. Esiet sveicināts {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "Sākums - Taiga",
-        "PAGE_DESCRIPTION": "Taigas sākumlapa ar Jūsu svarīgākajiem projektiem un visām vajadzībām, uzdevumiem un izmaiņu pieprasījumiem, kuri Jums piešķirti vai kurus vērojat.",
+        "PAGE_TITLE": "Sākums - Hotone Japan",
+        "PAGE_DESCRIPTION": "Hotone Japans sākumlapa ar Jūsu svarīgākajiem projektiem un visām vajadzībām, uzdevumiem un izmaiņu pieprasījumiem, kuri Jums piešķirti vai kurus vērojat.",
         "EMPTY_WORKING_ON": "<strong>Patukšs, vai ne?</strong> Sāciet darboties ar Taigu un šeit redzēsiet vajadzības, uzdevumus un izmaiņu pieprasījumus, pie kuriem Jūs strādājat.",
         "EMPTY_WATCHING": "<strong>Sekojiet</strong> vajadzībām, uzdevumiem un izmaiņu pieprasījumiem savos projektos un tieciet informēti par izmaiņām tajos.",
         "EMPTY_PROJECT_LIST": "Jums vēl nav projektu",
@@ -453,7 +453,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Mani projekti - Taiga",
+        "PAGE_TITLE": "Mani projekti - Hotone Japan",
         "PAGE_DESCRIPTION": "Visu Jūsu projektu saraksts. Varat to pārkārtot vai izveidot jaunu projektu.",
         "MY_PROJECTS": "Mani projekti"
     },
@@ -550,7 +550,7 @@
             "RECRUITING": "Projekts meklē dalībniekus?",
             "RECRUITING_MESSAGE": "Kas tiek meklēts?",
             "RECRUITING_PLACEHOLDER": "Precizējiet profilus, kurus meklējat",
-            "FEEDBACK": "Vai vēlaties saņemt Taigas lietotāju atsauksmes?",
+            "FEEDBACK": "Vai vēlaties saņemt Hotone Japans lietotāju atsauksmes?",
             "PUBLIC_PROJECT": "Publisks projekts",
             "PRIVATE_PROJECT": "Privāts (neatklāts) projekts",
             "PRIVATE_OR_PUBLIC": "Atšķirības starp publisku (atklātu) un privātu (slēptu) projektu",
@@ -700,7 +700,7 @@
             "WARNING_DELETE_ROLE": "Uzmanību! Zudīs visas šīs lomas aplēses",
             "ERROR_DELETE_ALL": "Visas vērtības nav dzēšamas",
             "EXTERNAL_USER": "Ārējais lietotājs",
-            "NOTE_EXTERNAL_USERS": "<strong>NB:</strong> ar Ārējo lietotāju tiek saprasts ikviens pie Taigas platformas nepiederošs anonīms lietotājs, tostarp meklētāji. Lūdzu izmantojiet šo lomu piesardzīgi."
+            "NOTE_EXTERNAL_USERS": "<strong>NB:</strong> ar Ārējo lietotāju tiek saprasts ikviens pie Hotone Japans platformas nepiederošs anonīms lietotājs, tostarp meklētāji. Lūdzu izmantojiet šo lomu piesardzīgi."
         },
         "THIRD_PARTIES": {
             "SECRET_KEY": "Slepenā atslēga",
@@ -921,14 +921,14 @@
             "ACCOUNT_SETTINGS": "Account settings",
             "ACTION_CREATE_PROJECT": "New project",
             "ACTION_CREATE_PROJECT_FIRST": "Create your first project",
-            "ACTION_CREATE_PROJECT_FIRST_TEXT": "You don’t have any projects yet. Create one now, invite your team and start using Taiga to the fullest.",
+            "ACTION_CREATE_PROJECT_FIRST_TEXT": "You don’t have any projects yet. Create one now, invite your team and start using Hotone Japan to the fullest.",
             "VIEW_ALL_PROJECTS": "View all projects",
             "MANAGE_PROJECTS": "Pārvaldīt projektus",
             "TITLE_CREATE_PROJECT": "Izveidot projektu",
             "HELP_TITLE": "Palīdzība",
             "HOMEPAGE": "Tīmekļvietne",
-            "TAIGA_RESOURCES_TITLE": "Go to Taiga resources",
-            "TAIGA_RESOURCES": "Taiga Resources",
+            "HOTONE JAPAN_RESOURCES_TITLE": "Go to Hotone Japan resources",
+            "HOTONE JAPAN_RESOURCES": "Hotone Japan Resources",
             "FEEDBACK_TITLE": "Write to us with your feedback",
             "FEEDBACK": "Ask a question",
             "NOTIFICATIONS_TITLE": "Rediģēt paziņojumu iestatījumus",
@@ -1003,7 +1003,7 @@
         "IMPORT": {
             "TITLE": "Importēt projektu",
             "DESCRIPTION": "Importējiet Taigā savu projektu no citām platformām",
-            "ASYNC_IN_PROGRESS_TITLE": "Taiga importē jūsu projektu",
+            "ASYNC_IN_PROGRESS_TITLE": "Hotone Japan importē jūsu projektu",
             "ASYNC_IN_PROGRESS_MESSAGE": "Šis process aizņems pāris minūtes.<br/> Tam beidzoties saņemsiet e-pastu. ",
             "UPLOAD_IN_PROGRESS_MESSAGE": "Augšuplādēts {{uploadedSize}} ar izmēru {{totalSize}}",
             "ERROR": "Sistēmai neizdodas importēt datus. Lūdzu mēģiniet vēlreiz.",
@@ -1018,12 +1018,12 @@
             "WRITE_EMAIL_LABEL": "Uzrakstiet ziņu uz e-pastu, kuru šis lietotājs izmanto Taigā",
             "ACCEEDE": "Access",
             "PROJECT_MEMBERS": "Projekta dalībnieki",
-            "PROCESS_DESCRIPTION": "Informējiet, kuram no Taigas vēlaties piešķirt {{platform}} uzdevumus",
+            "PROCESS_DESCRIPTION": "Informējiet, kuram no Hotone Japans vēlaties piešķirt {{platform}} uzdevumus",
             "MATCH": "Vai <strong>{{user_external}}</strong> ir viena un tā pati persona kas <strong>{{user_internal}}</strong>?",
             "CHOOSE": "Atzīmēt lietotāju",
             "LINKS": "Saites ar {{platform}}",
             "LINKS_DESCRIPTION": "Vai vēlaties saglabāt katra elementa saikni ar oriģinālo {{platform}} karti?",
-            "WARNING_MAIL_USER": "Ņemiet vērā: ja lietotājam nav Taigas konta, nav iespējams viņam piešķirt uzdevumus.",
+            "WARNING_MAIL_USER": "Ņemiet vērā: ja lietotājam nav Hotone Japans konta, nav iespējams viņam piešķirt uzdevumus.",
             "ASSIGN": "Piešķirt",
             "PROJECT_SELECTOR": {
                 "NO_RESULTS": "Nekas kritērijiem atbilstošs nav atrasts",
@@ -1066,8 +1066,8 @@
                 "DESCRIPTION": "Joprojām ir neidentificēti cilvēki. Šīm personām piešķirtās kartes paliks nepiešķirtas. Pārbaudiet visas kontaktpersonas, lai nezaudētu šo informāciju.",
                 "CHECK": "Pārbaudiet kontaktpersonas"
             },
-            "TAIGA": {
-                "SELECTOR": "Importēt Jūsu Taigas projektu"
+            "HOTONE JAPAN": {
+                "SELECTOR": "Importēt Jūsu Hotone Japans projektu"
             },
             "TRELLO": {
                 "SELECTOR": "Importējiet savus Trello paneļus Taigā",
@@ -1106,18 +1106,18 @@
                 "ISSUES_PROJECT": "Izmaiņu pieprasījumi",
                 "CREATE_AS_SCRUM_DESCRIPTION": "Jūsu projekta izmaiņu pieprasījumi un apakš-izmaiņu pieprasījumi Taigā tiks izveidoti kā vajadzības un uzdevumi.",
                 "CREATE_AS_KANBAN_DESCRIPTION": "Jūsu projekta izmaiņu pieprasījumi un apakš-izmaiņu pieprasījumi Taigā tiks izveidoti kā vajadzības un uzdevumi.",
-                "CREATE_AS_ISSUES_DESCRIPTION": "Ko Jūs vēlaties darīt ar apakš-izmaiņu pieprasījumiem no projekta Jira? (Taiga neparedz apakš-izmaiņu pieprasījumus)",
-                "CREATE_NEW_ISSUES": "Pārvērst apakš-izmaiņu pieprasījumus par jauniem Taigas izmaiņu pieprasījumiem ",
+                "CREATE_AS_ISSUES_DESCRIPTION": "Ko Jūs vēlaties darīt ar apakš-izmaiņu pieprasījumiem no projekta Jira? (Hotone Japan neparedz apakš-izmaiņu pieprasījumus)",
+                "CREATE_NEW_ISSUES": "Pārvērst apakš-izmaiņu pieprasījumus par jauniem Hotone Japans izmaiņu pieprasījumiem ",
                 "NOT_CREATE_NEW_ISSUES": "Neimportēt apakš-izmaiņu pieprasījumus"
             }
         }
     },
     "LIGHTBOX": {
         "DELETE_ACCOUNT": {
-            "CONFIRM": "Patiesi vēlaties dzēst savu Taigas kontu?",
+            "CONFIRM": "Patiesi vēlaties dzēst savu Hotone Japans kontu?",
             "CANCEL": "Atpakaļ uz iestatījumiem",
             "ACCEPT": "Dzēst kontu",
-            "BLOCK_PROJECT": "Note that all projects you own will be <strong>blocked</strong> after you delete your account. If you do not want a particular project to be blocked, make sure you transfer ownership to another existing Taiga member before deleting your account."
+            "BLOCK_PROJECT": "Note that all projects you own will be <strong>blocked</strong> after you delete your account. If you do not want a particular project to be blocked, make sure you transfer ownership to another existing Hotone Japan member before deleting your account."
         },
         "DELETE_PROJECT": {
             "TITLE": "Dzēst projektu",
@@ -1150,9 +1150,9 @@
             "ACTION_SEND": "Send Message",
             "YOU_CAN_ALSO": "You can also:",
             "CREATE": "Create an issue on this",
-            "PUBLIC": "public Taiga project",
+            "PUBLIC": "public Hotone Japan project",
             "EMAIL": "Send us a e-mail directly to",
-            "SUPPORT": "support@taiga.io"
+            "SUPPORT": "support@hotone japan.io"
         },
         "SEARCH": {
             "TITLE": "Meklēt",
@@ -1313,15 +1313,15 @@
         "RELATE_TO_EPIC": "Saikne ar Eposu",
         "REMOVE_RELATIONSHIP_WITH_EPIC": "Dzēst saikni ar Eposu",
         "TRIBE": {
-            "PUBLISH": "Publicēt kā koncertu/Gigu Taiga Tribe lapā",
+            "PUBLISH": "Publicēt kā koncertu/Gigu Hotone Japan Tribe lapā",
             "PUBLISH_INFO": "Vairāk informācijas",
-            "PUBLISH_TITLE": "Vairāk informācijas par publicēšanu skatīt Taiga Tribe lapā",
-            "PUBLISHED_AS_GIG": "Vajadzība Taiga Tribe lapā publicēta kā Gigs ",
+            "PUBLISH_TITLE": "Vairāk informācijas par publicēšanu skatīt Hotone Japan Tribe lapā",
+            "PUBLISHED_AS_GIG": "Vajadzība Hotone Japan Tribe lapā publicēta kā Gigs ",
             "EDIT_LINK": "Rediģēt saiti",
             "CLOSE": "Aizvērt",
-            "SYNCHRONIZE_LINK": "sinhronizēt ar Taiga Tribe",
+            "SYNCHRONIZE_LINK": "sinhronizēt ar Hotone Japan Tribe",
             "PUBLISH_MORE_INFO_TITLE": "Vai Jums kāds ir vajadzīgs šī uzdevuma veikšanai?",
-            "PUBLISH_MORE_INFO_TEXT": "<p>Ja jums nepieciešama palīdzība saistībā ar kādu konkrētu darbu, varat viegli izveidot gigus/koncertus <a href='http://taigatribe.com' title='Taiga Tribe'> Taiga Tribe </a> un saņemt palīdzību no visas pasaules. Jūs varēsit kontrolēt un pārvaldīt koncertu, saņemot lielas kopienas, kas vēlas sniegt savu ieguldījumu, atblstu.</p><p><a href='http://taigatribe.com' title='Taiga Tribe'> TaigaTribe </a> radās kā Taigas brālis. Abas platformas var pastāvēt atsevišķi, taču mēs uzskatām, ka to kopālietošana rada pievienoto vērtibu, kamdēļ mēs nodrošinām, ka integrācija darbojas nevainojami.</p>"
+            "PUBLISH_MORE_INFO_TEXT": "<p>Ja jums nepieciešama palīdzība saistībā ar kādu konkrētu darbu, varat viegli izveidot gigus/koncertus <a href='http://hotone japantribe.com' title='Hotone Japan Tribe'> Hotone Japan Tribe </a> un saņemt palīdzību no visas pasaules. Jūs varēsit kontrolēt un pārvaldīt koncertu, saņemot lielas kopienas, kas vēlas sniegt savu ieguldījumu, atblstu.</p><p><a href='http://hotone japantribe.com' title='Hotone Japan Tribe'> Hotone JapanTribe </a> radās kā Hotone Japans brālis. Abas platformas var pastāvēt atsevišķi, taču mēs uzskatām, ka to kopālietošana rada pievienoto vērtibu, kamdēļ mēs nodrošinām, ka integrācija darbojas nevainojami.</p>"
         }
     },
     "COMMENTS": {
@@ -1467,10 +1467,10 @@
     "ERROR": {
         "TEXT1": "Atgadījusies ķibele. Tiek risināts.",
         "NOT_FOUND": "Nav atrasts",
-        "NOT_FOUND_TEXT": "Kļūda 404. Lapa, kuru meklējat, vairs nepastāv. Iesakām atgriezties TAIGAs mājaslapā un tur pacensties atrast meklēto.",
+        "NOT_FOUND_TEXT": "Kļūda 404. Lapa, kuru meklējat, vairs nepastāv. Iesakām atgriezties HOTONE JAPANs mājaslapā un tur pacensties atrast meklēto.",
         "PERMISSION_DENIED": "Pieeja liegta",
         "PERMISSION_DENIED_TEXT": "Jums šai lapai pieeja liegta.",
-        "VERSION_ERROR": "Kāds Taigas iedzīvotājs šo jau ir mainījis, kamdēļ nav iespējams saglabāt Jūsu veiktās izmaiņas. Lūdzu, pārlādējiet lapu un vēlreiz saglabājiet izmaiņas (tās tiks zaudētas)."
+        "VERSION_ERROR": "Kāds Hotone Japans iedzīvotājs šo jau ir mainījis, kamdēļ nav iespējams saglabāt Jūsu veiktās izmaiņas. Lūdzu, pārlādējiet lapu un vēlreiz saglabājiet izmaiņas (tās tiks zaudētas)."
     },
     "TASKBOARD": {
         "PAGE_TITLE": "{{sprintName}} - Sprinta panelis - {{projectName}}",
@@ -1541,7 +1541,7 @@
         "OK": "Darīts.",
         "WARNING": "Oops, something went wrong...",
         "WARNING_TEXT": "Izmaiņas NEtika saglabātas!",
-        "SAVED": "Taiga saglabāja visas izmaiņas!",
+        "SAVED": "Hotone Japan saglabāja visas izmaiņas!",
         "CLOSE": "Aizvērt paziņojumu",
         "MAIL": "Paziņojumi ar e-pastu",
         "DESKTOP": "Darbvirsmas paziņojumi, izmantojot pārlūka brīdinājumus",
@@ -1552,7 +1552,7 @@
         "SUBTITLE": "Žēl, ka pametat Taigu. Ceram, ka Jūsu uzturēšanās šeit bija patīkama :)",
         "PLACEHOLDER_INPUT_TOKEN": "konta dzēšanas/anulēšanas tokens",
         "ACTION_LEAVING": "Jā, es pazūdu!",
-        "SUCCESS": "Taiga dzēsusi jūsu kontu"
+        "SUCCESS": "Hotone Japan dzēsusi jūsu kontu"
     },
     "CHANGE_EMAIL_FORM": {
         "TITLE": "Mainīt savu e-pasta adresi",
@@ -1707,7 +1707,7 @@
         },
         "EVENTS": {
             "SECTION_NAME": "Notikumi",
-            "SECTION_DESCRIPTION": "Vēlaties redzēt svarīgus notikumus Taigas augšjoslā",
+            "SECTION_DESCRIPTION": "Vēlaties redzēt svarīgus notikumus Hotone Japans augšjoslā",
             "SECTION_DESCRIPTION_EXPANDED": "(tiešus pieminējumus | aktualizētus objektus, kurus vērojat)?",
             "COLUMN_ENABLED": "Iespējots",
             "COLUMN_PROJECT": "Projekts"
@@ -1715,8 +1715,8 @@
     },
     "USER_PROFILE": {
         "ACTION_USE_GRAVATAR": "Izmantot noklusējuma attēlu",
-        "ACTION_DELETE_ACCOUNT": "Dzēst Taigas kontu",
-        "ACTION_DOWNLOAD_PROFILE": "Lejuplādēt Jūsu Taigas profilu",
+        "ACTION_DELETE_ACCOUNT": "Dzēst Hotone Japans kontu",
+        "ACTION_DOWNLOAD_PROFILE": "Lejuplādēt Jūsu Hotone Japans profilu",
         "ACTION_VERIFY_EMAIL": "Verify your email",
         "CHANGE_EMAIL_SUCCESS": "<strong>Pārbaudīt pastkasti!</strong>Uz šo Jūsu kontu nosūtīts e-pasts<br />ar norādījumiem, kā iestatīt jaunu adresi<br />",
         "VERIFY_EMAIL_SUCCESS": "<strong>Check your inbox!</strong><br />We have sent you an email<br />with instructions on how to verify your address",
@@ -1767,7 +1767,7 @@
         "LINK": "Kā šo izmantot, aprakstīts mūsu mājaslapā",
         "LINK_TITLE": "Apmeklēt atbalsta lapu",
         "HINT1_TITLE": "Vai ir zināms, ka projekti ir importējami/eksportējami?",
-        "HINT1_TEXT": "Šis ļauj pārnest visus datus no vienas Taigas uz citu.",
+        "HINT1_TEXT": "Šis ļauj pārnest visus datus no vienas Hotone Japans uz citu.",
         "HINT2_TITLE": "Vai Jums ir zināms par pielāgojamiem laukiem?",
         "HINT2_TEXT": "Tagad komandas var izveidot pielāgotus laukus kā elastīgu līdzekli, lai ievadītu specifiskus datus, kuri noderīgi viņu darbplūsmai.",
         "HINT3_TITLE": "Pārkārtojiet savus projektus, lai izceltu tos, kuri Jums ir aktuālākie.",
@@ -1810,7 +1810,7 @@
         "US_REMOVED_FROM_MILESTONE": "{{lietotājvārds}} darbu klāstam pievienoja VAJADZĪBU {{obj_name}}",
         "BLOCKED": "{{username}} ir bloķējis {{obj_name}}",
         "UNBLOCKED": "{{username}} ir atbloķējis {{obj_name}}",
-        "NEW_USER": "{{username}} ir pievienojies Taigai",
+        "NEW_USER": "{{username}} ir pievienojies Hotone Japani",
         "ITEM_TYPES": {
             "USERSTORY": "Vajadzība",
             "ISSUE": "Izmaiņu pieprasījums",
@@ -1837,7 +1837,7 @@
     "EXTERNAL_APP": {
         "PAGE_TITLE": "Ārējā aplikācija pieprasa autentifikāciju",
         "PAGE_DESCRIPTION": "Ārējā aplikācija pieprasa autentificēšanos",
-        "AUTHORIZATION_REQUEST": "Autorizēt {{application}} lietot Jūsu Taigas kontu?",
+        "AUTHORIZATION_REQUEST": "Autorizēt {{application}} lietot Jūsu Hotone Japans kontu?",
         "LOGIN_WITH_ANOTHER_USER": "Pieslēgties kā cits lietotājs",
         "AUTHORIZE_APP": "Autorizēt aplikāciju",
         "CANCEL": "Atcelt"
@@ -1905,8 +1905,8 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "Pārlūkot citus Taigas projektus",
-        "PAGE_DESCRIPTION": "Meklējams Taigas publisko projektu katalogs. Iepētiet darba klāstu, laika grafikus, izmaiņu pieprasījumus un komandas. Apskatiet visvairāk iepatikušos un aktīvākos projektus. Filtrējiet pēc Kanban vai Skram.",
+        "PAGE_TITLE": "Pārlūkot citus Hotone Japans projektus",
+        "PAGE_DESCRIPTION": "Meklējams Hotone Japans publisko projektu katalogs. Iepētiet darba klāstu, laika grafikus, izmaiņu pieprasījumus un komandas. Apskatiet visvairāk iepatikušos un aktīvākos projektus. Filtrējiet pēc Kanban vai Skram.",
         "DISCOVER_TITLE": "Pārlūkot projektus",
         "DISCOVER_SUBTITLE": "{projects, plural, =1{1 publisks projekts, ar kuru iepazīties} other{# publiski projekti, ar kuriem iepazīties}}",
         "MOST_ACTIVE": "Visaktīvākie",
@@ -1928,8 +1928,8 @@
             "CLEAR": "Noņemt filtrus"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Meklēt - Pārlūkot projektus - Taiga",
-            "PAGE_DESCRIPTION": "Meklējams Taigas publisko projektu katalogs. Iepētiet darba klāstu, laika grafikus, izmaiņu pieprasījumus un komandas. Apskatiet visvairāk iepatikušos un aktīvākos projektus. Atlasiet pēc Kanban vai Skram.",
+            "PAGE_TITLE": "Meklēt - Pārlūkot projektus - Hotone Japan",
+            "PAGE_DESCRIPTION": "Meklējams Hotone Japans publisko projektu katalogs. Iepētiet darba klāstu, laika grafikus, izmaiņu pieprasījumus un komandas. Apskatiet visvairāk iepatikušos un aktīvākos projektus. Atlasiet pēc Kanban vai Skram.",
             "INPUT_PLACEHOLDER": "Ierakstiet kaut ko...",
             "ACTION_TITLE": "Meklēt",
             "RESULTS": "Meklēšanas rezultāti"

@@ -1,10 +1,10 @@
 {
-  "name": "TaigaIO",
+  "name": "htjpgantt-front",
   "version": "6.9.0",
-  "description": "Taiga project management system (frontend)",
+  "description": "Hotone Japan project management system (frontend)",
   "main": "index.js",
   "keywords": [
-    "Taiga",
+    "Hotone Japan",
     "Agile",
     "Project Management",
     "Github"
@@ -20,6 +20,7 @@
     "test": "./node_modules/karma/bin/karma start",
     "e2e": "./node_modules/.bin/babel-node run-e2e.js",
     "start": "npx gulp",
+    "build": "npx gulp deploy",
     "ci:test": "npx gulp deploy && ./node_modules/karma/bin/karma start --single-run --browsers=ChromeHeadlessCI"
   },
   "devDependencies": {
@@ -84,7 +85,7 @@
     "merge-stream": "^1.0.0",
     "minimist": "^1.1.1",
     "mocha": "^2.2.4",
-    "node-sass": "8.0.0",
+    "sass": "^1.69.0",
     "photoswipe": "^4.1.0",
     "pre-commit": "^1.0.5",
     "readable-stream": "~2.1.2",

@@ -40,7 +40,7 @@
         "NEXT": "Hurrengoa",
         "LOGOUT": "Amaitu saioa",
         "EXTERNAL_USER": "kanpo erabiltzailea",
-        "GENERIC_ERROR": "Taigak dio: {{error}}.",
+        "GENERIC_ERROR": "Hotone Japank dio: {{error}}.",
         "IOCAINE_TEXT": "Lankide hau nahiko estutua dabil ataza honekin. Denborarekin eta zure laguntzarekin, agian pozoiaren aurkako immunitatea lortuko du. Oraingoz, nahikoa izango luke irribarretxo bat.",
         "CLIENT_REQUIREMENT": "Bezeroaren eskaera bat espero ez zen baina proiektuan txertatu beharreko eskakizun bat da",
         "TEAM_REQUIREMENT": "Lantalde eskaera proiektuan egin behar da, baina ezin du izan kosturik bezeroarentzat",
@@ -323,8 +323,8 @@
         }
     },
     "LOGIN": {
-        "PAGE_TITLE": "Hasi saioa Taigan",
-        "PAGE_DESCRIPTION": "Taigan saioa hasten… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
+        "PAGE_TITLE": "Hasi saioa Hotone Japann",
+        "PAGE_DESCRIPTION": "Hotone Japann saioa hasten… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
     },
     "AUTH": {
         "INVITED_YOU": "gonbidatuta zaude proiektuarekin bat egitera",
@@ -333,7 +333,7 @@
         "CREATE_ACCOUNT": "sortu zure doaneko kontuan hemen"
     },
     "LOGIN_COMMON": {
-        "HEADER": "Badaukat Taigan kontu bat",
+        "HEADER": "Badaukat Hotone Japann kontu bat",
         "PLACEHOLDER_AUTH_NAME": "Erabiltzailea edo e-posta (letra larriak bereizten ditu)",
         "LINK_FORGOT_PASSWORD": "Ahaztu zaizu?",
         "TITLE_LINK_FORGOT_PASSWORD": "Pasahitza ahaztu zaizu?",
@@ -343,15 +343,15 @@
         "ALT_LOGIN": "Edo hasi saioa honekin"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "Taigaren arabera, zure erabiltzailea/e-posta edo pasahitza ez dira zuzenak.",
-        "SUCCESS": "Ongi etorri Taigara."
+        "ERROR_AUTH_INCORRECT": "Hotone Japanren arabera, zure erabiltzailea/e-posta edo pasahitza ez dira zuzenak.",
+        "SUCCESS": "Ongi etorri Hotone Japanra."
     },
     "REGISTER": {
-        "PAGE_TITLE": "Eman izena - Taiga",
-        "PAGE_DESCRIPTION": "Sortu kontu bat Taigan… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
+        "PAGE_TITLE": "Eman izena - Hotone Japan",
+        "PAGE_DESCRIPTION": "Sortu kontu bat Hotone Japann… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
     },
     "REGISTER_FORM": {
-        "TITLE": "Sortu Taiga kontu berri bat (doan)",
+        "TITLE": "Sortu Hotone Japan kontu berri bat (doan)",
         "PLACEHOLDER_NAME": "Hautatu erabiltzaile izen bat",
         "PLACEHOLDER_FULL_NAME": "Idatzi zure izen-deiturak",
         "PLACEHOLDER_EMAIL": "Zure e-posta",
@@ -361,8 +361,8 @@
         "LINK_LOGIN": "Izena eman duzu? Hasi saioa Hasi saioa"
     },
     "FORGOT_PASSWORD": {
-        "PAGE_TITLE": "Pasahitza ahaztuta - Taiga",
-        "PAGE_DESCRIPTION": "Sartu zure erabiltzaile izena edo e-posta, pasahitz berri bat eskuratzeko, Taigara etortzen zaren hurrengorako."
+        "PAGE_TITLE": "Pasahitza ahaztuta - Hotone Japan",
+        "PAGE_DESCRIPTION": "Sartu zure erabiltzaile izena edo e-posta, pasahitz berri bat eskuratzeko, Hotone Japanra etortzen zaren hurrengorako."
     },
     "FORGOT_PASSWORD_FORM": {
         "TITLE": "Ene, pasahitza ahaztu zaizu?",
@@ -372,10 +372,10 @@
         "LINK_CANCEL": "Ez, eraman nazazu atzera Uste dut gogoratzen naizela.",
         "SUCCESS_TITLE": "Begiratu zure e-posta!",
         "SUCCESS_TEXT": "Posta mezu bat bidali dizugu, pasahitz berri bat ezartzeko jarraibideekin",
-        "ERROR": "Taigaren arabera, ez duzu izenik eman."
+        "ERROR": "Hotone Japanren arabera, ez duzu izenik eman."
     },
     "CHANGE_PASSWORD": {
-        "PAGE_TITLE": "Aldatu pasahitza - Taiga",
+        "PAGE_TITLE": "Aldatu pasahitza - Hotone Japan",
         "SECTION_NAME": "Aldatu pasahitza",
         "FIELD_CURRENT_PASSWORD": "Oraingo pasahitza",
         "PLACEHOLDER_CURRENT_PASSWORD": "Oraingo zure pasahitza (edo laga hutsik ez baduzu oraindik)",
@@ -386,25 +386,25 @@
         "ERROR_PASSWORD_MATCH": "Pasahitzak ez datoz bat"
     },
     "CHANGE_PASSWORD_RECOVERY_FORM": {
-        "TITLE": "Sortu Taigarako pasahitz berria",
+        "TITLE": "Sortu Hotone Japanrako pasahitz berria",
         "SUBTITLE": "Aizu, agian komeni zaizu jan burdindunen bat irenstea, ona da garunarentzat :P",
         "PLACEHOLDER_NEW_PASSWORD": "Pasahitz berria",
         "PLACEHOLDER_RE_TYPE_NEW_PASSWORD": "Idatzi berriro pasahitz berria",
         "ACTION_RESET_PASSWORD": "Berrezarri pasahitza",
-        "SUCCESS": "Taigak gorde du zure pasahitz berria.<br /> Saiatu <strong>saioa hasten</strong> berarekin."
+        "SUCCESS": "Hotone Japank gorde du zure pasahitz berria.<br /> Saiatu <strong>saioa hasten</strong> berarekin."
     },
     "INVITATION": {
-        "PAGE_TITLE": "Gonbita onartu - Taiga",
-        "PAGE_DESCRIPTION": "Onartu gonbidapena proiektu baterako Taigan… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
+        "PAGE_TITLE": "Gonbita onartu - Hotone Japan",
+        "PAGE_DESCRIPTION": "Onartu gonbidapena proiektu baterako Hotone Japann… Proiektuak kudeatzeko plataforma arin bat, garatzaile eta diseinatzaileentzat, itxura soil bezain eder batez, lanari etekin handiagoa ateratzeko."
     },
     "INVITATION_LOGIN_FORM": {
-        "NOT_FOUND": "Taigak ezin du zure gonbidapena aurkitu.",
+        "NOT_FOUND": "Hotone Japank ezin du zure gonbidapena aurkitu.",
         "SUCCESS": "Bat egin duzu, ongi etorri proiektu honetara: {{project_name}}"
     },
     "HOME": {
-        "PAGE_TITLE": "Hasiera - Taiga",
-        "PAGE_DESCRIPTION": "Taigaren hasierako orrian aurkituko dituzu zure proiektuak eta zuk ikusitako eta zuri esleitutako zereginak, ataza eta eskaerak",
-        "EMPTY_WORKING_ON": "<strong>Hutsik dago, ezta?</strong> Hasi Taigarekin lanean eta hemen ikusiko dituzu lantzen ari zaren zeregin, ataza eta eskaerak.",
+        "PAGE_TITLE": "Hasiera - Hotone Japan",
+        "PAGE_DESCRIPTION": "Hotone Japanren hasierako orrian aurkituko dituzu zure proiektuak eta zuk ikusitako eta zuri esleitutako zereginak, ataza eta eskaerak",
+        "EMPTY_WORKING_ON": "<strong>Hutsik dago, ezta?</strong> Hasi Hotone Japanrekin lanean eta hemen ikusiko dituzu lantzen ari zaren zeregin, ataza eta eskaerak.",
         "EMPTY_WATCHING": "<strong>Jarraitu</strong> zure proiektuen zereginak, atazak eta eskaerak, eta jaso aldaketen jakinarazpenak :)",
         "EMPTY_PROJECT_LIST": "Ez duzu proiekturik oraingoz",
         "WORKING_ON_SECTION": "Lantzen",
@@ -454,7 +454,7 @@
         }
     },
     "PROJECTS": {
-        "PAGE_TITLE": "Nire proiektuak - Taiga",
+        "PAGE_TITLE": "Nire proiektuak - Hotone Japan",
         "PAGE_DESCRIPTION": "Zure proiektu guztien zerrenda; hurrenkera aldatu edo berri ba sor dezakezu.",
         "MY_PROJECTS": "Nire proiektuak"
     },
@@ -477,7 +477,7 @@
         "TITLE_LIGHTBOX_DELETE_ATTACHMENT": "Ezabatu eranskina…",
         "MSG_LIGHTBOX_DELETE_ATTACHMENT": "eranskin hau: '{{fileName}}'",
         "ERROR_DELETE_ATTACHMENT": "Ezin izan dugu ezabatu: {{errorMessage}}",
-        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) handiegia da Taigarentzat; saiatu ({{maxFileSize}}) baino txikiagoko fitxategi batekin"
+        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) handiegia da Hotone Japanrentzat; saiatu ({{maxFileSize}}) baino txikiagoko fitxategi batekin"
     },
     "PAGINATION": {
         "PREVIOUS": "Aurrekoa",
@@ -513,8 +513,8 @@
             "LOADING_MESSAGE": "Mesedez ez itxi orri hau.",
             "ASYNC_MESSAGE": "E-posta mezu bat bidaliko dizugu prest dagoenean.",
             "SYNC_MESSAGE": "Karga ez bada berez hasten, klik egin <a href='{{url}}' download title='Deskargatu fitxategia'>hemen</a>.",
-            "ERROR": "Taigak arazoren bat du deskarga sortzeko. Saiatu berriro, mesedez.",
-            "ERROR_BUSY": "Barka, Taiga oso lanpetuta dago orain. Saiatu berriro hemendik pixka batera, mesedez."
+            "ERROR": "Hotone Japank arazoren bat du deskarga sortzeko. Saiatu berriro, mesedez.",
+            "ERROR_BUSY": "Barka, Hotone Japan oso lanpetuta dago orain. Saiatu berriro hemendik pixka batera, mesedez."
         },
         "MODULES": {
             "TITLE": "Moduluak",
@@ -551,7 +551,7 @@
             "RECRUITING": "Proiektu honek lankideak behar al ditu?",
             "RECRUITING_MESSAGE": "Zeren bila ari zara?",
             "RECRUITING_PLACEHOLDER": "Zehaztu zein soslai bilatu nahi duzun",
-            "FEEDBACK": "Nahi dituzu Taigako erabiltzaileen iritziak jaso?",
+            "FEEDBACK": "Nahi dituzu Hotone Japanko erabiltzaileen iritziak jaso?",
             "PUBLIC_PROJECT": "Proiektu publikoa",
             "PRIVATE_PROJECT": "Proiektu pribatua",
             "PRIVATE_OR_PUBLIC": "Zein alde dago proiektu publiko eta pribatuen artean?",
@@ -702,7 +702,7 @@
             "WARNING_DELETE_ROLE": "Erne, rol honek egindako kalkulu guztiak ezabatuko dira",
             "ERROR_DELETE_ALL": "Ezin dituzu ezabatu balio guztiak",
             "EXTERNAL_USER": "Kanpo esteka",
-            "NOTE_EXTERNAL_USERS": "Kanpoko erabiltzailea edozein erabiltzaile da (Taiga plataforman saioa hasitakoa edo ez), <strong>bilatzaileak barne</strong>. Erregistratu gabeko erabiltzaileek inoiz editatzeko baimenik izan dezaketen arren, erregistratutako erabiltzaileek edita dezakete, baimena ematen badiezu. Zure proiektua pribatua bada, ikusteko baimenak ere kontrola ditzakezu. <strong>Mesedez, erabili rol hau kontu handiz</strong>."
+            "NOTE_EXTERNAL_USERS": "Kanpoko erabiltzailea edozein erabiltzaile da (Hotone Japan plataforman saioa hasitakoa edo ez), <strong>bilatzaileak barne</strong>. Erregistratu gabeko erabiltzaileek inoiz editatzeko baimenik izan dezaketen arren, erregistratutako erabiltzaileek edita dezakete, baimena ematen badiezu. Zure proiektua pribatua bada, ikusteko baimenak ere kontrola ditzakezu. <strong>Mesedez, erabili rol hau kontu handiz</strong>."
         },
         "THIRD_PARTIES": {
             "SECRET_KEY": "Giltza sekretua",
@@ -933,14 +933,14 @@
             "ACCOUNT_SETTINGS": "Kontuaren ezarpenak",
             "ACTION_CREATE_PROJECT": "Proiektu berria",
             "ACTION_CREATE_PROJECT_FIRST": "Sortu zure lehenengo proiektua",
-            "ACTION_CREATE_PROJECT_FIRST_TEXT": "Oraindik ez duzu proiekturik. Sortu bat orain, gonbidatu zure taldea eta hasi Taiga erabiltzen.",
+            "ACTION_CREATE_PROJECT_FIRST_TEXT": "Oraindik ez duzu proiekturik. Sortu bat orain, gonbidatu zure taldea eta hasi Hotone Japan erabiltzen.",
             "VIEW_ALL_PROJECTS": "Ikusi proiektu guztiak",
             "MANAGE_PROJECTS": "Kudeatu proiektuak",
             "TITLE_CREATE_PROJECT": "Sortu proiektu bat",
             "HELP_TITLE": "Laguntza",
             "HOMEPAGE": "Hasiera",
-            "TAIGA_RESOURCES_TITLE": "Ikusi Taigaren baliabideak",
-            "TAIGA_RESOURCES": "Taiga baliabideak",
+            "HOTONE JAPAN_RESOURCES_TITLE": "Ikusi Hotone Japanren baliabideak",
+            "HOTONE JAPAN_RESOURCES": "Hotone Japan baliabideak",
             "FEEDBACK_TITLE": "Bidali zure iritzia",
             "FEEDBACK": "Egin galdera bat",
             "NOTIFICATIONS_TITLE": "Editatu jakinarazpen ezarpenak",
@@ -954,8 +954,8 @@
             "DASHBOARD_TITLE": "Tresnen arbela",
             "DISCOVER_TITLE": "Gainbegiratu proiektu jakingarriak",
             "DISCOVER": "Aurkitu",
-            "TAIGA_COMMUNITY_TITLE": "Joan Taiga komunitatera",
-            "TAIGA_COMMUNITY": "Taiga komunitatea"
+            "HOTONE JAPAN_COMMUNITY_TITLE": "Joan Hotone Japan komunitatera",
+            "HOTONE JAPAN_COMMUNITY": "Hotone Japan komunitatea"
         },
         "LIKE_BUTTON": {
             "LIKE": "Datsegit",
@@ -994,7 +994,7 @@
             "DUPLICATE": "Bikoiztu proiektua",
             "DUPLICATE_DESC": "Hasi konfigurazioa hutsetik",
             "IMPORT": "Inportatu proiektua",
-            "IMPORT_DESC": "Inportatu zure proiektua plataforma anitzetatik Taigara",
+            "IMPORT_DESC": "Inportatu zure proiektua plataforma anitzetatik Hotone Japanra",
             "INVITE": "Gonbidatu proiektura",
             "SOLO_PROJECT": "Bakarrik egongo zara proiektu honetan",
             "INVITE_LATER": "(Geroago ere lankide gehiago gonbidatzen ahal dituzu)",
@@ -1016,28 +1016,28 @@
         },
         "IMPORT": {
             "TITLE": "Inportatu proiektua",
-            "DESCRIPTION": "Inportatu zure proiektua plataforma anitzetatik Taigara",
-            "ASYNC_IN_PROGRESS_TITLE": "Taiga zure proiektua inportatzen ari da",
+            "DESCRIPTION": "Inportatu zure proiektua plataforma anitzetatik Hotone Japanra",
+            "ASYNC_IN_PROGRESS_TITLE": "Hotone Japan zure proiektua inportatzen ari da",
             "ASYNC_IN_PROGRESS_MESSAGE": "Prozesu honek minutu batzuk beharko ditu <br />Bidaliko dizugu e-posta mezu bat prest dagoenean",
             "UPLOAD_IN_PROGRESS_MESSAGE": "{{uploadedSize}} kargatuta, guztira {{totalSize}}",
-            "ERROR": "Taigak arazoren bat du zure deskarga datuak inportatzeko. Saiatu berriro, mesedez.",
-            "ERROR_TOO_MANY_REQUEST": "Barka, Taiga oso lanpetuta dago orain. Saiatu berriro hemendik pixka batera, mesedez.",
-            "ERROR_MESSAGE": "Taigak arazoren bat du zure deskarga datuak inportatzeko: {{error_message}}",
-            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) handiegia da Taigarentzat; saiatu ({{maxFileSize}}) baino txikiagoko fitxategi batekin",
+            "ERROR": "Hotone Japank arazoren bat du zure deskarga datuak inportatzeko. Saiatu berriro, mesedez.",
+            "ERROR_TOO_MANY_REQUEST": "Barka, Hotone Japan oso lanpetuta dago orain. Saiatu berriro hemendik pixka batera, mesedez.",
+            "ERROR_MESSAGE": "Hotone Japank arazoren bat du zure deskarga datuak inportatzeko: {{error_message}}",
+            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) handiegia da Hotone Japanrentzat; saiatu ({{maxFileSize}}) baino txikiagoko fitxategi batekin",
             "SYNC_SUCCESS": "Zure proiektua ongi inportatu dugu",
             "IMPORT": "Inportatu",
             "WHO_IS": "Ataza horiek honi esleituko zaizkio…",
-            "WRITE_EMAIL": "Edo, nahiago baduzu, idatzi erabiltzailearen e-posta Taigan",
+            "WRITE_EMAIL": "Edo, nahiago baduzu, idatzi erabiltzailearen e-posta Hotone Japann",
             "SEARCH_CONTACT": "Edo nahiago baduzu, bilatu zure kontaktuetan",
-            "WRITE_EMAIL_LABEL": "Idatzi erabiltzailearen e-posta Taigan",
+            "WRITE_EMAIL_LABEL": "Idatzi erabiltzailearen e-posta Hotone Japann",
             "ACCEEDE": "Sartu",
             "PROJECT_MEMBERS": "Proiektuaren lankideak",
-            "PROCESS_DESCRIPTION": "Esaiguzu Taigako nori esleitu nahi dizkiozun plataforma honen atazak: {{platform}}",
+            "PROCESS_DESCRIPTION": "Esaiguzu Hotone Japanko nori esleitu nahi dizkiozun plataforma honen atazak: {{platform}}",
             "MATCH": "pertsona bera al dira <strong>{{user_external}}</strong> eta <strong>{{user_internal}}</strong>?",
             "CHOOSE": "Hautatu erabiltzailea",
             "LINKS": "Estekak honekin: {{platform}}",
             "LINKS_DESCRIPTION": "Nahi dituzu gorde osagai bakoitzaren estekak jatorrizko {{platform}} txartelarekin?",
-            "WARNING_MAIL_USER": "Gogoan izan erabiltzaileak ez badu Taiga kontu bat ezin izango diozula atazarik esleitu berari.",
+            "WARNING_MAIL_USER": "Gogoan izan erabiltzaileak ez badu Hotone Japan kontu bat ezin izango diozula atazarik esleitu berari.",
             "ASSIGN": "Esleitu",
             "PROJECT_SELECTOR": {
                 "NO_RESULTS": "Ez dugu ezer aurkitu bilaketa irizpide horiekin",
@@ -1080,11 +1080,11 @@
                 "DESCRIPTION": "Identifikatu gabeko jendea dago oraindik. Pertsona horiei esleitutako txartelak esleitu gabe geldituko dira. Begiratu kontaktu guztiak informazio hori ez galtzeko.",
                 "CHECK": "Begiratu kontaktuak"
             },
-            "TAIGA": {
-                "SELECTOR": "Inportatu zure Taiga proiektua"
+            "HOTONE JAPAN": {
+                "SELECTOR": "Inportatu zure Hotone Japan proiektua"
             },
             "TRELLO": {
-                "SELECTOR": "Inportatu Trello arbelak Taigara",
+                "SELECTOR": "Inportatu Trello arbelak Hotone Japanra",
                 "CHOOSE_PROJECT": "Aukeratu zein arbel nahi duzun inportatu",
                 "NO_PROJECTS": "Badirudi ez duzula arbelik Trellon"
             },
@@ -1092,7 +1092,7 @@
                 "SELECTOR": "Inportatu GitHub proiektuaren eskaerak",
                 "CHOOSE_PROJECT": "Aurkitu zein proiektu nahi duzun inportatu",
                 "NO_PROJECTS": "Ematen du ez daukazula proiekturik GitHub-en",
-                "HOW_DO_YOU_WANT_TO_IMPORT": "Nola nahi dituzu eskaerak inportatu Taigara?",
+                "HOW_DO_YOU_WANT_TO_IMPORT": "Nola nahi dituzu eskaerak inportatu Hotone Japanra?",
                 "KANBAN_PROJECT": "Kanban proiektu bateko zereginen gisa",
                 "KANBAN_PROJECT_DESCRIPTION": "Hori egin ondoren, Scrum gaitu ahal izango duzu egitekoekin.",
                 "SCRUM_PROJECT": "Scrum proiektu bateko zereginen gisa",
@@ -1106,8 +1106,8 @@
                 "NO_PROJECTS": "Ematen du ez daukazula proiekturik Asana-n",
                 "KANBAN_PROJECT": "Kanban",
                 "SCRUM_PROJECT": "Scrum",
-                "CREATE_AS_SCRUM_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Taigako zereginak eta atazak.",
-                "CREATE_AS_KANBAN_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Taigako zereginak eta atazak."
+                "CREATE_AS_SCRUM_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Hotone Japanko zereginak eta atazak.",
+                "CREATE_AS_KANBAN_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Hotone Japanko zereginak eta atazak."
             },
             "JIRA": {
                 "SELECTOR": "Inportatu Jira proiektua eta hautatu nola kudeatu",
@@ -1118,21 +1118,21 @@
                 "KANBAN_PROJECT": "Kanban",
                 "SCRUM_PROJECT": "Scrum",
                 "ISSUES_PROJECT": "Eskaerak",
-                "CREATE_AS_SCRUM_DESCRIPTION": "Zure proiektuaren eskaerak eta azpi-eskaerak bihurtuko dira Taigako zereginak eta atazak.",
-                "CREATE_AS_KANBAN_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Taigako zereginak eta atazak.",
-                "CREATE_AS_ISSUES_DESCRIPTION": "Zer nahi duzu egin Jira proiektuko azpi-eskaerekin? (Taigak ez du onartzen azpi-eskaerak)",
-                "CREATE_NEW_ISSUES": "Bihurtu azpi-eskaerak Taigako eskaera",
+                "CREATE_AS_SCRUM_DESCRIPTION": "Zure proiektuaren eskaerak eta azpi-eskaerak bihurtuko dira Hotone Japanko zereginak eta atazak.",
+                "CREATE_AS_KANBAN_DESCRIPTION": "Zure proiektuaren atazak eta azpi-atazak bihurtuko dira Hotone Japanko zereginak eta atazak.",
+                "CREATE_AS_ISSUES_DESCRIPTION": "Zer nahi duzu egin Jira proiektuko azpi-eskaerekin? (Hotone Japank ez du onartzen azpi-eskaerak)",
+                "CREATE_NEW_ISSUES": "Bihurtu azpi-eskaerak Hotone Japanko eskaera",
                 "NOT_CREATE_NEW_ISSUES": "Ez inportatu azpi-eskaerak"
             }
         },
         "NEWSLETTER_OPENING": {
-            "NO_SHARE": "Zure pribatutasuna garrantzitsua da guretzat (ikus gure <a href=\"https://www.taiga.io/privacy-policy\" title=\"Joan pribatutasun-politika\" target=\"_blank\">pribatutasun-politika</a>).",
-            "OPT_OUT": "Mezu elektroniko garrantzitsuak soilik bidaliko dizkizugu (urtean <6). Harpidetza ken dezakezu edozein unetan, <a href=\"mailto:support@taiga.io\" target=\"_blank\">support@taiga.io</a> helbidera mezu elektroniko bat bidalita, \"harpidetza kendu\" gaiarekin edo gure boletinen edozein estekaren bidez.",
+            "NO_SHARE": "Zure pribatutasuna garrantzitsua da guretzat (ikus gure <a href=\"https://www.hotone japan.io/privacy-policy\" title=\"Joan pribatutasun-politika\" target=\"_blank\">pribatutasun-politika</a>).",
+            "OPT_OUT": "Mezu elektroniko garrantzitsuak soilik bidaliko dizkizugu (urtean <6). Harpidetza ken dezakezu edozein unetan, <a href=\"mailto:support@hotone japan.io\" target=\"_blank\">support@hotone japan.io</a> helbidera mezu elektroniko bat bidalita, \"harpidetza kendu\" gaiarekin edo gure boletinen edozein estekaren bidez.",
             "DONT_ASK": "Ez galdetu berriro",
             "SAVE_PREFERENCE": "GORDE HOBESPENAK",
-            "LIGHTBOX_TITLE": "Taigari buruzko iragarkiak jaso nahi dituzu?",
-            "CONFIRMATION": "Bai, bidali Taigari buruzko berriak, produktuen eguneraketak eta gomendioak.",
-            "NOTIFY_EXPLANATION": "Taigari buruzko berriak, produktuen eguneraketak eta gomendioak bidaliko dizkizugu.",
+            "LIGHTBOX_TITLE": "Hotone Japanri buruzko iragarkiak jaso nahi dituzu?",
+            "CONFIRMATION": "Bai, bidali Hotone Japanri buruzko berriak, produktuen eguneraketak eta gomendioak.",
+            "NOTIFY_EXPLANATION": "Hotone Japanri buruzko berriak, produktuen eguneraketak eta gomendioak bidaliko dizkizugu.",
             "SUBSCRIBE": "Harpidetu",
             "SUBSCRIBED": "Harpidetuta zaude",
             "SAVED_PREFERENCE": "Zure hobespenak behar bezala gorde dira"
@@ -1140,10 +1140,10 @@
     },
     "LIGHTBOX": {
         "DELETE_ACCOUNT": {
-            "CONFIRM": "Ziur zaude Taiga kontua ezabatu nahi duzula?",
+            "CONFIRM": "Ziur zaude Hotone Japan kontua ezabatu nahi duzula?",
             "CANCEL": "Atzera ezarpenetara",
             "ACCEPT": "Ezabatu kontua",
-            "BLOCK_PROJECT": "Kontuan izan zure jabetzako proiektu guztiak <strong>blokeatuta</strong> izango direla zure kontua ezabatu ondoren. Proiektu jakin bat blokeatzea nahi ez baduzu, ziurtatu jabetza lehendik dagoen Taigako beste kide bati transferitzen diozula zure kontua ezabatu aurretik."
+            "BLOCK_PROJECT": "Kontuan izan zure jabetzako proiektu guztiak <strong>blokeatuta</strong> izango direla zure kontua ezabatu ondoren. Proiektu jakin bat blokeatzea nahi ez baduzu, ziurtatu jabetza lehendik dagoen Hotone Japanko beste kide bati transferitzen diozula zure kontua ezabatu aurretik."
         },
         "DELETE_PROJECT": {
             "TITLE": "Ezabatu proiektua",
@@ -1168,17 +1168,17 @@
             "INVITE": "Gonbidatu",
             "CHOOSE_ROLE": "Hautatu rol bat",
             "PLACEHOLDER_INVITATION_TEXT": "(Hautazkoa) Gehitu testu pertsonalizatua gonbidapenari. Izan zaitez adeitsu lankide berriekin ;-)",
-            "HELP_TEXT": "Erabiltzailea dagoenekoz Taigan izena emana badago, automatikoki gehituko da. Bestela, gonbidapena jasoko du."
+            "HELP_TEXT": "Erabiltzailea dagoenekoz Hotone Japann izena emana badago, automatikoki gehituko da. Bestela, gonbidapena jasoko du."
         },
         "FEEDBACK": {
-            "TITLE": "Taiga laguntza",
+            "TITLE": "Hotone Japan laguntza",
             "COMMENT": "Bidali mezu bat",
             "ACTION_SEND": "Send Message",
             "YOU_CAN_ALSO": "Hau ere egin dezakezu:",
             "CREATE": "Sortu eskaera bat hemen ",
-            "PUBLIC": "public Taiga project",
+            "PUBLIC": "public Hotone Japan project",
             "EMAIL": "Bidali e-mail bat zuzenean helbide honetara ",
-            "SUPPORT": "support@taiga.io",
+            "SUPPORT": "support@hotone japan.io",
             "FAQ": "Sarritan egindako galderak",
             "VISIT": "Bisita ezazu "
         },
@@ -1344,15 +1344,15 @@
         "RELATE_TO_EPIC": "Estekatu eginkizun bati",
         "REMOVE_RELATIONSHIP_WITH_EPIC": "Ezabatu eginkizunekiko harremana",
         "TRIBE": {
-            "PUBLISH": "Argitaratu gig moduan Taiga Tribe-en",
+            "PUBLISH": "Argitaratu gig moduan Hotone Japan Tribe-en",
             "PUBLISH_INFO": "Informazio gehiago",
-            "PUBLISH_TITLE": "Informazio gehiago Taiga Tribe-en argitaratzeaz",
-            "PUBLISHED_AS_GIG": "Zeregina Gig moduan dago argitaratua Taiga Tribe-en",
+            "PUBLISH_TITLE": "Informazio gehiago Hotone Japan Tribe-en argitaratzeaz",
+            "PUBLISHED_AS_GIG": "Zeregina Gig moduan dago argitaratua Hotone Japan Tribe-en",
             "EDIT_LINK": "Editatu esteka",
             "CLOSE": "Itxi",
-            "SYNCHRONIZE_LINK": "sinkronizatu Taiga Tribe-rekin",
+            "SYNCHRONIZE_LINK": "sinkronizatu Hotone Japan Tribe-rekin",
             "PUBLISH_MORE_INFO_TITLE": "Beste inor behar duzu ataza honetan?",
-            "PUBLISH_MORE_INFO_TEXT": "<p>Laguntza behar baduzu lan jakin batetik, aise sor dezakezu 'gig' bat hemen:<a href='http://taigatribe.com' title='Taiga Tribe'> Taiga Tribe </a> eta komunitatearen laguntza jasoko duzu. Zure 'gig' hori kontrolatu eta kudeatu ahal izango duzu, laguntzeko prest dagoen komunitate zabal baten laguntzaz.</p><p><a href='http://taigatribe.com' title='Taiga Tribe'> TaigaTribe </a> Taiga senide bat da. Bi plataformak bereiz bizi daitezke, noski, baina uste dugu elkar indartzen ahal dutela batera erabiliz gero, eta lana atseginago bihurtzen dutela.</p>"
+            "PUBLISH_MORE_INFO_TEXT": "<p>Laguntza behar baduzu lan jakin batetik, aise sor dezakezu 'gig' bat hemen:<a href='http://hotone japantribe.com' title='Hotone Japan Tribe'> Hotone Japan Tribe </a> eta komunitatearen laguntza jasoko duzu. Zure 'gig' hori kontrolatu eta kudeatu ahal izango duzu, laguntzeko prest dagoen komunitate zabal baten laguntzaz.</p><p><a href='http://hotone japantribe.com' title='Hotone Japan Tribe'> Hotone JapanTribe </a> Hotone Japan senide bat da. Bi plataformak bereiz bizi daitezke, noski, baina uste dugu elkar indartzen ahal dutela batera erabiliz gero, eta lana atseginago bihurtzen dutela.</p>"
         }
     },
     "COMMENTS": {
@@ -1496,12 +1496,12 @@
         }
     },
     "ERROR": {
-        "TEXT1": "Arazoren bat gertatu da, Taigak errorea atzitu du konpondu ahal izateko.",
+        "TEXT1": "Arazoren bat gertatu da, Hotone Japank errorea atzitu du konpondu ahal izateko.",
         "NOT_FOUND": "Ezin da aurkitu",
-        "NOT_FOUND_TEXT": "Error 404. Bilatzen ari zaren orria ez dago. Agian Taigaren hasiera orrira itzul zaitezke eta saiatu aurkitzen.",
+        "NOT_FOUND_TEXT": "Error 404. Bilatzen ari zaren orria ez dago. Agian Hotone Japanren hasiera orrira itzul zaitezke eta saiatu aurkitzen.",
         "PERMISSION_DENIED": "Ez duzu baimenik",
         "PERMISSION_DENIED_TEXT": "Ez duzu baimenik orri honetan sartzeko.",
-        "VERSION_ERROR": "Beste norbaitek aldatu du hau Taigan zuk baino lehenago; beraz, zure aldaketak ezin dira gorde. Gorde aldaketak beste nonbait, kargatu orria eta idatzi zure aldaketak berriro, bestela galdu egingo baitira."
+        "VERSION_ERROR": "Beste norbaitek aldatu du hau Hotone Japann zuk baino lehenago; beraz, zure aldaketak ezin dira gorde. Gorde aldaketak beste nonbait, kargatu orria eta idatzi zure aldaketak berriro, bestela galdu egingo baitira."
     },
     "TASKBOARD": {
         "PAGE_TITLE": "{{sprintName}} - urratsen ataza arbela - {{projectName}}",
@@ -1572,19 +1572,19 @@
         "OK": "Dena ongi joan da",
         "WARNING": "Oops, zerbait gaizki joan da...",
         "WARNING_TEXT": "Zure aldaketak ez dira gorde!",
-        "SAVED": "Taigak gorde ditu zure aldaketa guztiak!",
+        "SAVED": "Hotone Japank gorde ditu zure aldaketa guztiak!",
         "CLOSE": "Itxi jakinarazpena",
         "MAIL": "Aktibitatea",
         "DESKTOP": "Mahaigaineko jakinarazpenak nabigatzailearen alertak erabilita",
         "ASK_DELETE": "Ziur zaude ezabatu nahi duzula?",
-        "COMMUNICATION": "Taiga komunikazioak"
+        "COMMUNICATION": "Hotone Japan komunikazioak"
     },
     "CANCEL_ACCOUNT": {
         "TITLE": "Ezabatu zure kontua",
-        "SUBTITLE": "Ai ene, bazoaz Taigatik? Ongi ibili, hala ere :)",
+        "SUBTITLE": "Ai ene, bazoaz Hotone Japantik? Ongi ibili, hala ere :)",
         "PLACEHOLDER_INPUT_TOKEN": "utzi kontuaren identifikatzailea",
         "ACTION_LEAVING": "Bai, banoa!",
-        "SUCCESS": "Taigak ezabatu egin du zure kontua"
+        "SUCCESS": "Hotone Japank ezabatu egin du zure kontua"
     },
     "CHANGE_EMAIL_FORM": {
         "TITLE": "Aldatu e-posta",
@@ -1739,7 +1739,7 @@
         },
         "EVENTS": {
             "SECTION_NAME": "Gertakizunak",
-            "SECTION_DESCRIPTION": "Garrantzizko gertakizuna Taiga buruan",
+            "SECTION_DESCRIPTION": "Garrantzizko gertakizuna Hotone Japan buruan",
             "SECTION_DESCRIPTION_EXPANDED": "(aipamen zuzenak, begirale zaren osagaietan egindako aldaketak…)",
             "COLUMN_ENABLED": "Gaituta",
             "COLUMN_PROJECT": "Proiektua"
@@ -1747,8 +1747,8 @@
     },
     "USER_PROFILE": {
         "ACTION_USE_GRAVATAR": "Erabili irudi lehenetsia",
-        "ACTION_DELETE_ACCOUNT": "Ezabatu Taigako kontua",
-        "ACTION_DOWNLOAD_PROFILE": "Deskargatu Taiga soslaia",
+        "ACTION_DELETE_ACCOUNT": "Ezabatu Hotone Japanko kontua",
+        "ACTION_DOWNLOAD_PROFILE": "Deskargatu Hotone Japan soslaia",
         "ACTION_VERIFY_EMAIL": "Egiaztatu zure posta elektronikoa",
         "CHANGE_EMAIL_SUCCESS": "<strong>Begiratu zure e-posta!</strong><br />Mezu ba bidali dugu zure izenean<br />helbide berria ezartzeko jarraibideekin",
         "VERIFY_EMAIL_SUCCESS": "<strong>Begiratu zure sarrera-ontzia!</strong><br />Mezu elektroniko bat bidali dizugu<br />zure helbidea egiaztatzeko argibideekin",
@@ -1799,7 +1799,7 @@
         "LINK": "Erabiltzen ikasi nahi baduzu, jo gure laguntza orrira",
         "LINK_TITLE": "Jo gure laguntza orrira",
         "HINT1_TITLE": "Badakizu proiektuak inportatu eta esportatu egin daitezkeela?",
-        "HINT1_TEXT": "Hemen Taiga baten datu guztiak atera eta beste batera eraman ditzakezu.",
+        "HINT1_TEXT": "Hemen Hotone Japan baten datu guztiak atera eta beste batera eraman ditzakezu.",
         "HINT2_TITLE": "Badakizu eremu pertsonalizatuak sortu ditzakezula?",
         "HINT2_TEXT": "Lantaldeak eremu pertsonalizatuak sor ditzake, bakoitzaren lan kateari ongi egokitutako datuak jaso ahal izateko.",
         "HINT3_TITLE": "Jarri proiektuak zure hurrenkeraren arabera.",
@@ -1842,7 +1842,7 @@
         "US_REMOVED_FROM_MILESTONE": "{{username}} erabiltzaileak gehitu du zeregin hau: {{obj_name}} atzeratutako lanera",
         "BLOCKED": "{{username}} erabiltzailea blokeatu du hau: {{obj_name}}",
         "UNBLOCKED": "{{username}} erabiltzailea desblokeatu du hau: {{obj_name}}",
-        "NEW_USER": "{{username}} erabiltzailea Taigan sartu da",
+        "NEW_USER": "{{username}} erabiltzailea Hotone Japann sartu da",
         "ITEM_TYPES": {
             "USERSTORY": "Zeregina",
             "ISSUE": "Eskaera",
@@ -1869,7 +1869,7 @@
     "EXTERNAL_APP": {
         "PAGE_TITLE": "Kanpoko aplikazio batek baimentzea eskatzen du",
         "PAGE_DESCRIPTION": "Kanpoko aplikazio batek baimentzea eskatzen du",
-        "AUTHORIZATION_REQUEST": "Baimentzen duzu {{application}} zure Taiga kontua erabil dezan?",
+        "AUTHORIZATION_REQUEST": "Baimentzen duzu {{application}} zure Hotone Japan kontua erabil dezan?",
         "LOGIN_WITH_ANOTHER_USER": "Hasi saioa beste erabiltzaile batez",
         "AUTHORIZE_APP": "Baimendu aplikazioa",
         "CANCEL": "Utzi"
@@ -1893,11 +1893,11 @@
             "STEP3": {
                 "TITLE": "Behatzen",
                 "TEXT1": "Eta hemen bertan aurkituko dituzu proiektuetan zuretzat esanguratsu diren osagaiak.",
-                "TEXT2": "Taigarekin lanean ari zara ;)"
+                "TEXT2": "Hotone Japanrekin lanean ari zara ;)"
             },
             "STEP4": {
                 "TITLE": "Has gaitezen",
-                "TEXT1": "Has zaitezke zure lehen Taiga proiektu bat sortzen.",
+                "TEXT1": "Has zaitezke zure lehen Hotone Japan proiektu bat sortzen.",
                 "TEXT2": "On egin!"
             }
         },
@@ -1937,8 +1937,8 @@
         }
     },
     "DISCOVER": {
-        "PAGE_TITLE": "Aurkitu Taigako proiektuak",
-        "PAGE_DESCRIPTION": "Taigako Proiektu Publikoen direktorio arakagarria. Bilatu egitekoak, epeak, eskaerak eta taldeak. Begiratu gustukoenak edo aktiboenak diren proiektuak. Iragazi Kanban edo Scrum arabera.",
+        "PAGE_TITLE": "Aurkitu Hotone Japanko proiektuak",
+        "PAGE_DESCRIPTION": "Hotone Japanko Proiektu Publikoen direktorio arakagarria. Bilatu egitekoak, epeak, eskaerak eta taldeak. Begiratu gustukoenak edo aktiboenak diren proiektuak. Iragazi Kanban edo Scrum arabera.",
         "DISCOVER_TITLE": "Aurkitu proiektuak",
         "DISCOVER_SUBTITLE": "{projects, plural, =1{Proiektu publiko bat ikusgarri} other{# proiektu publiko ikusgarri}}",
         "MOST_ACTIVE": "Aktiboena",
@@ -1960,8 +1960,8 @@
             "CLEAR": "Garbitu iragazkiak"
         },
         "SEARCH": {
-            "PAGE_TITLE": "Bilatu - Aurkitu proiektuak - Taiga",
-            "PAGE_DESCRIPTION": "Taigako proiektu publikoen direktorioa Esploratu epeak, eskaerak eta lantaldeak Begiratu proiektu aktiboenak Iragazi Kanban edo Scrum-en arabera.",
+            "PAGE_TITLE": "Bilatu - Aurkitu proiektuak - Hotone Japan",
+            "PAGE_DESCRIPTION": "Hotone Japanko proiektu publikoen direktorioa Esploratu epeak, eskaerak eta lantaldeak Begiratu proiektu aktiboenak Iragazi Kanban edo Scrum-en arabera.",
             "INPUT_PLACEHOLDER": "Idatzi zeozer…",
             "ACTION_TITLE": "Bilatu",
             "RESULTS": "Bilatu emaitzetan"

@@ -40,7 +40,7 @@
         "NEXT": "הבא",
         "LOGOUT": "התנתק",
         "EXTERNAL_USER": "משתמש חיצוני",
-        "GENERIC_ERROR": "The Taiga says {{error}}.",
+        "GENERIC_ERROR": "The Hotone Japan says {{error}}.",
         "IOCAINE_TEXT": "This member is feeling a bit overwhelmed by this task. They will become immune to the iocaine poison over time with your help. For now, they may need a hug.",
         "CLIENT_REQUIREMENT": "A client requirement is a new requirement that was not previously expected and is required to be part of the project",
         "TEAM_REQUIREMENT": "A team requirement is a requirement that must exist in the project but should have no cost for the client",
@@ -342,8 +342,8 @@
         "ALT_LOGIN": "או התחבר עם"
     },
     "LOGIN_FORM": {
-        "ERROR_AUTH_INCORRECT": "According to the Taiga, your username/email or password are incorrect.",
-        "SUCCESS": "Welcome to Taiga."
+        "ERROR_AUTH_INCORRECT": "According to the Hotone Japan, your username/email or password are incorrect.",
+        "SUCCESS": "Welcome to Hotone Japan."
     },
     "REGISTER": {
         "PAGE_TITLE": "הרשמה - טאיגה",
@@ -371,7 +371,7 @@
         "LINK_CANCEL": "לע... תחזיר אותי. אני חושב שאני זוכר.",
         "SUCCESS_TITLE": "בדוק את תיבת הדואר הנכנס שלך!",
         "SUCCESS_TEXT": "שלחנו אליך מייל עם ההוראות ליצירת סיסמה חדשה",
-        "ERROR": "According to the Taiga, you are not registered yet."
+        "ERROR": "According to the Hotone Japan, you are not registered yet."
     },
     "CHANGE_PASSWORD": {
         "PAGE_TITLE": "שנה את סיסמתך - טאיגה",
@@ -390,20 +390,20 @@
         "PLACEHOLDER_NEW_PASSWORD": "סיסמא חדשה",
         "PLACEHOLDER_RE_TYPE_NEW_PASSWORD": "הקלד מחדש סיסמא חדשה",
         "ACTION_RESET_PASSWORD": "אפס סיסמא",
-        "SUCCESS": "The Taiga saved your new password.<br /> Try to <strong>sign in</strong> with it."
+        "SUCCESS": "The Hotone Japan saved your new password.<br /> Try to <strong>sign in</strong> with it."
     },
     "INVITATION": {
         "PAGE_TITLE": "אישור הזמנה - טאיגה",
         "PAGE_DESCRIPTION": "אשר את ההזמנה כדי להצטרף לפרוייקט בטאיגה, פלטפורמת ניהול פרוייקטים לסטארטאפים ומפתחים & מעצבים אג'ילים הרוצים כלי פשוט, יפהפה,  שהופך את העבודה לבאמת מהנה."
     },
     "INVITATION_LOGIN_FORM": {
-        "NOT_FOUND": "The Taiga can't find your invitation.",
+        "NOT_FOUND": "The Hotone Japan can't find your invitation.",
         "SUCCESS": "הצטרפת בהצלחה לפרוייקט הזה, ברוך הבא ל{{project_name}}"
     },
     "HOME": {
         "PAGE_TITLE": "בית - טאיגה",
         "PAGE_DESCRIPTION": "דף הבית של טאיגה עם הפרוייקטים הראשיים שלך וכל סיפורי המשתמש, המשימות והתקלות שאתה רשום אליהם או עוקב אחריהם",
-        "EMPTY_WORKING_ON": "<strong>מרגיש קצת ריק, לא?</strong> התחילו לעבוד עם Taiga ותראו כאן את הנושאים והמשימות עליהם אתם עובדים n.",
+        "EMPTY_WORKING_ON": "<strong>מרגיש קצת ריק, לא?</strong> התחילו לעבוד עם Hotone Japan ותראו כאן את הנושאים והמשימות עליהם אתם עובדים n.",
         "EMPTY_WATCHING": "<strong>Follow</strong> user stories, tasks, issues in your projects and be notified about their changes :)",
         "EMPTY_PROJECT_LIST": "You don't have any project yet",
         "WORKING_ON_SECTION": "בביצוע",
@@ -476,7 +476,7 @@
         "TITLE_LIGHTBOX_DELETE_ATTACHMENT": "מחק קובץ מצורף",
         "MSG_LIGHTBOX_DELETE_ATTACHMENT": "הקובץ המצורף '{{fileName}}'",
         "ERROR_DELETE_ATTACHMENT": "לא עלה לאל ידינו למחוק: {{errorMessage}}",
-        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})"
+        "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Hotone Japan, try it with a file smaller than ({{maxFileSize}})"
     },
     "PAGINATION": {
         "PREVIOUS": "הקודם",
@@ -512,8 +512,8 @@
             "LOADING_MESSAGE": "נא לא לצאת מהדף",
             "ASYNC_MESSAGE": "אנחנו נשלח אליך אימייל כשיהיה מוכן.",
             "SYNC_MESSAGE": "אם ההורדה עוד לא התחילה אוטומטית לחץ <a href='{{url}}' download title='הורד את קובץ השפך'>כאן</a>.",
-            "ERROR": "The Taiga has some problems generating your dump. Please try it again.",
-            "ERROR_BUSY": "Sorry, the Taiga is experiencing heavy load right now. Please try again in a few minutes."
+            "ERROR": "The Hotone Japan has some problems generating your dump. Please try it again.",
+            "ERROR_BUSY": "Sorry, the Hotone Japan is experiencing heavy load right now. Please try again in a few minutes."
         },
         "MODULES": {
             "TITLE": "מודולים",
@@ -700,7 +700,7 @@
             "WARNING_DELETE_ROLE": "זהירות! שיוכי התפקיד יוסרו",
             "ERROR_DELETE_ALL": "אינך יכול למחוק את כל הערכים.",
             "EXTERNAL_USER": "משתמש חיצוני",
-            "NOTE_EXTERNAL_USERS": "<strong>שים לב:</strong> על ידי משתמש חיצוני אנו מתכוונים לכל משתמש אנונימי שאינו שייך לפלטפורמת Taiga, כולל מנועי חיפוש. אנא השתמש בתפקיד זה בזהירות"
+            "NOTE_EXTERNAL_USERS": "<strong>שים לב:</strong> על ידי משתמש חיצוני אנו מתכוונים לכל משתמש אנונימי שאינו שייך לפלטפורמת Hotone Japan, כולל מנועי חיפוש. אנא השתמש בתפקיד זה בזהירות"
         },
         "THIRD_PARTIES": {
             "SECRET_KEY": "מפתח סודי",
@@ -921,14 +921,14 @@
             "ACCOUNT_SETTINGS": "Account settings",
             "ACTION_CREATE_PROJECT": "New project",
             "ACTION_CREATE_PROJECT_FIRST": "Create your first project",
-            "ACTION_CREATE_PROJECT_FIRST_TEXT": "You don’t have any projects yet. Create one now, invite your team and start using Taiga to the fullest.",
+            "ACTION_CREATE_PROJECT_FIRST_TEXT": "You don’t have any projects yet. Create one now, invite your team and start using Hotone Japan to the fullest.",
             "VIEW_ALL_PROJECTS": "View all projects",
             "MANAGE_PROJECTS": "נהל פרוייקטים",
             "TITLE_CREATE_PROJECT": "צור פרוייקט",
             "HELP_TITLE": "עזרה",
             "HOMEPAGE": "דף הבית",
-            "TAIGA_RESOURCES_TITLE": "Go to Taiga resources",
-            "TAIGA_RESOURCES": "Taiga Resources",
+            "HOTONE JAPAN_RESOURCES_TITLE": "Go to Hotone Japan resources",
+            "HOTONE JAPAN_RESOURCES": "Hotone Japan Resources",
             "FEEDBACK_TITLE": "Write to us with your feedback",
             "FEEDBACK": "Ask a question",
             "NOTIFICATIONS_TITLE": "ערוך את הגדרות ההתראות שלך",
@@ -980,7 +980,7 @@
             "DUPLICATE": "שכפל פרוייקט",
             "DUPLICATE_DESC": "התחל חדש ושמור הגדרות",
             "IMPORT": "ייבא פרוייקט",
-            "IMPORT_DESC": "יבא את הפרוייקטים שלך מפלטפורמות מרובות לTaiga",
+            "IMPORT_DESC": "יבא את הפרוייקטים שלך מפלטפורמות מרובות לHotone Japan",
             "INVITE": "הזמן לפרייקט",
             "SOLO_PROJECT": "אתה תהיה בודד בפרוייקט",
             "INVITE_LATER": "(תוכל להזמין עוד משתמשים בשלב מאוחר יותר)",
@@ -1002,28 +1002,28 @@
         },
         "IMPORT": {
             "TITLE": "ייבא פרוייקט",
-            "DESCRIPTION": "יבא את הפרוייקטים שלך מפלטפורמות מרובות לTaiga",
-            "ASYNC_IN_PROGRESS_TITLE": "The Taiga is importing your project",
+            "DESCRIPTION": "יבא את הפרוייקטים שלך מפלטפורמות מרובות לHotone Japan",
+            "ASYNC_IN_PROGRESS_TITLE": "The Hotone Japan is importing your project",
             "ASYNC_IN_PROGRESS_MESSAGE": "תהליך זה עשוי לקחת מספר דקות <br/> אנחנו נשלח אליך אימייל כשיהיה מוכן\n",
             "UPLOAD_IN_PROGRESS_MESSAGE": "הועלו {{uploadedSize}} מתוך {{totalSize}}",
-            "ERROR": "The Taiga has some problems importing your dump data. Please try again.",
-            "ERROR_TOO_MANY_REQUEST": "Sorry, the Taiga is experiencing heavy load right now. Please try again in a few minutes.",
-            "ERROR_MESSAGE": "The Taiga has some problems importing your dump data: {{error_message}}",
-            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Taiga, try it with a file smaller than ({{maxFileSize}})",
+            "ERROR": "The Hotone Japan has some problems importing your dump data. Please try again.",
+            "ERROR_TOO_MANY_REQUEST": "Sorry, the Hotone Japan is experiencing heavy load right now. Please try again in a few minutes.",
+            "ERROR_MESSAGE": "The Hotone Japan has some problems importing your dump data: {{error_message}}",
+            "ERROR_MAX_SIZE_EXCEEDED": "'{{fileName}}' ({{fileSize}}) is too heavy for the Hotone Japan, try it with a file smaller than ({{maxFileSize}})",
             "SYNC_SUCCESS": "הפרוייקט שלך יובא בהצלחה",
             "IMPORT": "ייבא",
             "WHO_IS": "המשימות שלהם ישויכו אל",
-            "WRITE_EMAIL": "או אם תרצה, כתוב את האימייל שמשתמש הזה משתמש ב-Taiga",
+            "WRITE_EMAIL": "או אם תרצה, כתוב את האימייל שמשתמש הזה משתמש ב-Hotone Japan",
             "SEARCH_CONTACT": "או אם תרצה, חפש באנשי הקשר שלך",
-            "WRITE_EMAIL_LABEL": "כתוב את האימייל שמשתמש זה משתמש ב-Taiga",
+            "WRITE_EMAIL_LABEL": "כתוב את האימייל שמשתמש זה משתמש ב-Hotone Japan",
             "ACCEEDE": "Access",
             "PROJECT_MEMBERS": "חברי פרויקט",
-            "PROCESS_DESCRIPTION": "Tell us to whom from Taiga you want to assign the tasks of {{platform}}",
+            "PROCESS_DESCRIPTION": "Tell us to whom from Hotone Japan you want to assign the tasks of {{platform}}",
             "MATCH": "האם<strong>{{user_external}}</strong> אותו משתמש כמו <strong>{{user_internal}}</strong>?",
             "CHOOSE": "בחר משתמש",
             "LINKS": "קשר עם {{platform}}",
             "LINKS_DESCRIPTION": "האם תרצה לשמור את הקישור של כל אחד מהפריטים באמצעות הכרטיס {{platform}} המקורי?",
-            "WARNING_MAIL_USER": "Note that if the user does not have a Taiga account we will not be able to assign the tasks to them.",
+            "WARNING_MAIL_USER": "Note that if the user does not have a Hotone Japan account we will not be able to assign the tasks to them.",
             "ASSIGN": "שייך",
             "PROJECT_SELECTOR": {
                 "NO_RESULTS": "נראה כאילו אין שום דבר העונה על קריטריון החיפוש שלך.",
@@ -1066,11 +1066,11 @@
                 "DESCRIPTION": "יש עדיין אנשים לא מזוהים. הכרטיסים המשוייכים אל אותם אנשים ישארו ללא שיוך. בדוק את כל האנשי קשר בכדי לא לאבד את המידע.",
                 "CHECK": "בדוק אנשי קשר"
             },
-            "TAIGA": {
-                "SELECTOR": "ייבא את פרוייקט ה-Taiga שלך"
+            "HOTONE JAPAN": {
+                "SELECTOR": "ייבא את פרוייקט ה-Hotone Japan שלך"
             },
             "TRELLO": {
-                "SELECTOR": "ייבוא את לוחות Trello אל Taiga",
+                "SELECTOR": "ייבוא את לוחות Trello אל Hotone Japan",
                 "CHOOSE_PROJECT": "בחר לוח שתרצה לייבא",
                 "NO_PROJECTS": "זה נראה שאין לך לוחות ב-Trello"
             },
@@ -1078,7 +1078,7 @@
                 "SELECTOR": "ייבא את בעיות פרוייקט GitHub",
                 "CHOOSE_PROJECT": "מצא את הפרוייקט שתרצה לייבא",
                 "NO_PROJECTS": "It seems you have no projects in GitHub",
-                "HOW_DO_YOU_WANT_TO_IMPORT": "איך תרצה לייצא את הבעיות שלך אל Taiga?",
+                "HOW_DO_YOU_WANT_TO_IMPORT": "איך תרצה לייצא את הבעיות שלך אל Hotone Japan?",
                 "KANBAN_PROJECT": "כסיפורי משתמש בפרוייקט Kanban",
                 "KANBAN_PROJECT_DESCRIPTION": "אחר כן תוכל לאפשר את Scrum עם העתודה",
                 "SCRUM_PROJECT": "כסיפור משתמש בפרויקט ה-Scrum",
@@ -1117,7 +1117,7 @@
             "CONFIRM": "האם אתה בטוח שברצונך למחוק את פרוייקט הטאיגה שלך?",
             "CANCEL": "חזור להגדרות",
             "ACCEPT": "מחק חשבון",
-            "BLOCK_PROJECT": "Note that all projects you own will be <strong>blocked</strong> after you delete your account. If you do not want a particular project to be blocked, make sure you transfer ownership to another existing Taiga member before deleting your account."
+            "BLOCK_PROJECT": "Note that all projects you own will be <strong>blocked</strong> after you delete your account. If you do not want a particular project to be blocked, make sure you transfer ownership to another existing Hotone Japan member before deleting your account."
         },
         "DELETE_PROJECT": {
             "TITLE": "מחק פרויקט",
@@ -1150,9 +1150,9 @@
             "ACTION_SEND": "Send Message",
             "YOU_CAN_ALSO": "You can also:",
             "CREATE": "Create an issue on this",
-            "PUBLIC": "public Taiga project",
+            "PUBLIC": "public Hotone Japan project",
             "EMAIL": "Send us a e-mail directly to",
-            "SUPPORT": "support@taiga.io"
+            "SUPPORT": "support@hotone japan.io"
         },
         "SEARCH": {
             "TITLE": "חיפוש",
@@ -1313,15 +1313,15 @@
         "RELATE_TO_EPIC": "Link to epic",
         "REMOVE_RELATIONSHIP_WITH_EPIC": "Remove epic relationship",
         "TRIBE": {
-            "PUBLISH": "פרסם כהופעה בשבט Taiga ",
+            "PUBLISH": "פרסם כהופעה בשבט Hotone Japan ",
             "PUBLISH_INFO": "עוד מידע",
-            "PUBLISH_TITLE": "מידע נוסף על פרסום  בשבט Taiga ",
-            "PUBLISHED_AS_GIG": "הסיפור פורסם כהופעה בשבט Taiga ",
+            "PUBLISH_TITLE": "מידע נוסף על פרסום  בשבט Hotone Japan ",
+            "PUBLISHED_AS_GIG": "הסיפור פורסם כהופעה בשבט Hotone Japan ",
             "EDIT_LINK": "ערוך קישור",
             "CLOSE": "סגור",
-            "SYNCHRONIZE_LINK": "סנכרון עם שבט Taiga ",
+            "SYNCHRONIZE_LINK": "סנכרון עם שבט Hotone Japan ",
             "PUBLISH_MORE_INFO_TITLE": "תזדקק לעזרה של מישהו במשימה הזו?",
-            "PUBLISH_MORE_INFO_TEXT": "<p>אם אתה צריך עזרה עם חתיכה מסוימת של עבודה תוכל בקלות ליצור הופעות ב<a href='http://taigatribe.com' title='Taiga Tribe'>שבט Taiga</a> ולקבל עזרה מכל העולם. אתה תוכל לשלוט ולנהל ההופעה ולהנות מקהילה גדולה שלהוטה לתרום.</p><p><a href='http://taigatribe.com' title='Taiga Tribe'>שבט Taiga</a> נולד כאח ל-Taiga, שני הפלטפורמות יכולות לחיות בנפרד, אבל אנו מאמינים שיש כוח רב בשימוש בהן בשילוב, לכן אנחנו מוודאים שהשילוב עובד כמו קסם."
+            "PUBLISH_MORE_INFO_TEXT": "<p>אם אתה צריך עזרה עם חתיכה מסוימת של עבודה תוכל בקלות ליצור הופעות ב<a href='http://hotone japantribe.com' title='Hotone Japan Tribe'>שבט Hotone Japan</a> ולקבל עזרה מכל העולם. אתה תוכל לשלוט ולנהל ההופעה ולהנות מקהילה גדולה שלהוטה לתרום.</p><p><a href='http://hotone japantribe.com' title='Hotone Japan Tribe'>שבט Hotone Japan</a> נולד כאח ל-Hotone Japan, שני הפלטפורמות יכולות לחיות בנפרד, אבל אנו מאמינים שיש כוח רב בשימוש בהן בשילוב, לכן אנחנו מוודאים שהשילוב עובד כמו קסם."
         }
     },
     "COMMENTS": {
@@ -1465,12 +1465,12 @@
         }
     },
     "ERROR": {
-        "TEXT1": "Something happened and the Taiga has captured the error to be able to work on it.",
+        "TEXT1": "Something happened and the Hotone Japan has captured the error to be able to work on it.",
         "NOT_FOUND": "לא נמצא",
         "NOT_FOUND_TEXT": "שגיאה 404. הדף שאתה מחפש לא קיים יותר. שקול לחזור לדף הבית של טאיגה ולראות אם מה שאתה מחפש נמצא שם.",
         "PERMISSION_DENIED": "הרשאה נדחיתה",
         "PERMISSION_DENIED_TEXT": "אין לך הרשאות לגשת לדף זה",
-        "VERSION_ERROR": "Some other user inside Taiga has changed this before and your changes can't be applied. Save them elsewhere, reload the page and re-apply your changes again or they will be lost."
+        "VERSION_ERROR": "Some other user inside Hotone Japan has changed this before and your changes can't be applied. Save them elsewhere, reload the page and re-apply your changes again or they will be lost."
     },
     "TASKBOARD": {
         "PAGE_TITLE": "{{sprintName}} - לוח משימות של הספרינט - {{projectName}}\n",
@@ -1541,7 +1541,7 @@
         "OK": "הכל טוב",
         "WARNING": "Oops, something went wrong...",
         "WARNING_TEXT": "Your changes were not saved!",
-        "SAVED": "The Taiga saved all your changes!",
+        "SAVED": "The Hotone Japan saved all your changes!",
         "CLOSE": "סגור התראה",
         "MAIL": "התראות בדוא\"ל",
         "DESKTOP": "התראות שולחן עבודה בעזרת הדפדפן",
@@ -1549,10 +1549,10 @@
     },
     "CANCEL_ACCOUNT": {
         "TITLE": "בטל את חשבונך",
-        "SUBTITLE": "We're sorry you are leaving the Taiga, we hope you enjoyed your stay :)",
+        "SUBTITLE": "We're sorry you are leaving the Hotone Japan, we hope you enjoyed your stay :)",
         "PLACEHOLDER_INPUT_TOKEN": "בטל אסימון משתמש",
         "ACTION_LEAVING": "כן, אני עוזב!",
-        "SUCCESS": "The Taiga removed your account"
+        "SUCCESS": "The Hotone Japan removed your account"
     },
     "CHANGE_EMAIL_FORM": {
         "TITLE": "שנה את הדוא\"ל שלך",
@@ -1707,7 +1707,7 @@
         },
         "EVENTS": {
             "SECTION_NAME": "ארועים",
-            "SECTION_DESCRIPTION": "יבא ארועים בכותרת Taiga ",
+            "SECTION_DESCRIPTION": "יבא ארועים בכותרת Hotone Japan ",
             "SECTION_DESCRIPTION_EXPANDED": "(אזכור ישיר, עדכונים בפריטים שאתה צופה ...)",
             "COLUMN_ENABLED": "מאופשר",
             "COLUMN_PROJECT": "פרוייקט"
@@ -1716,7 +1716,7 @@
     "USER_PROFILE": {
         "ACTION_USE_GRAVATAR": "השתמש בתמונת ברירת מחדל",
         "ACTION_DELETE_ACCOUNT": "מחק את חשבון טאיגה",
-        "ACTION_DOWNLOAD_PROFILE": "הורד פרופיל Taiga",
+        "ACTION_DOWNLOAD_PROFILE": "הורד פרופיל Hotone Japan",
         "ACTION_VERIFY_EMAIL": "Verify your email",
         "CHANGE_EMAIL_SUCCESS": "<strong>בדוק את תיבת הדואר הנכנס שלך!</strong><br />שלחנו דוא\"ל לחשבון שלך<br />עם הכתובת החדשה",
         "VERIFY_EMAIL_SUCCESS": "<strong>Check your inbox!</strong><br />We have sent you an email<br />with instructions on how to verify your address",
