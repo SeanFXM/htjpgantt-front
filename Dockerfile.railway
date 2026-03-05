@@ -13,4 +13,5 @@ FROM nginx:1.23-alpine
 COPY --from=builder /app/dist /usr/share/nginx/html
 COPY docker/default.conf /etc/nginx/conf.d/default.conf
 COPY docker/conf.json.default /usr/share/nginx/html/conf.json
+RUN rm -rf /docker-entrypoint.d/*
 EXPOSE 80
