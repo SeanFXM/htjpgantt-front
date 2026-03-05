@@ -82,25 +82,16 @@ configure = ($routeProvider, $locationProvider, $httpProvider, $provide, $tgEven
         }
     )
 
-    # Discover
+    # Discover (disabled fallback: backend discover APIs are unavailable)
     $routeProvider.when("/discover",
         {
-            templateUrl: "discover/discover-home/discover-home.html",
-            controller: "DiscoverHome",
-            controllerAs: "vm",
-            title: "PROJECT.NAVIGATION.DISCOVER",
-            loader: true
+            redirectTo: "/"
         }
     )
 
     $routeProvider.when("/discover/search",
         {
-            templateUrl: "discover/discover-search/discover-search.html",
-            title: "PROJECT.NAVIGATION.DISCOVER",
-            loader: true,
-            controller: "DiscoverSearch",
-            controllerAs: "vm",
-            reloadOnSearch: false
+            redirectTo: "/"
         }
     )
 
